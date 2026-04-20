@@ -1,0 +1,728 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="description" content="The Human Frequency Store — practical PDF guides built on behavioral science, neuroscience, and human performance. Evidence-based tools for a fuller life.">
+  <meta property="og:type" content="website">
+  <meta property="og:url" content="https://thehumanfrequency.net/thf-store.html">
+  <meta property="og:title" content="The Store — The Human Frequency">
+  <meta property="og:description" content="Practical PDF guides built on behavioral science. Nervous system science, parenting systems, AI masterclasses, and more.">
+  <meta property="og:image" content="https://thehumanfrequency.net/og-image.png">
+  <meta property="twitter:card" content="summary_large_image">
+  <meta property="twitter:title" content="The Store — The Human Frequency">
+  <meta property="twitter:description" content="Evidence-based PDF guides for a fuller life. Built on neuroscience, not motivation.">
+  <meta property="twitter:image" content="https://thehumanfrequency.net/og-image.png">
+  <link rel="canonical" href="https://thehumanfrequency.net/thf-store.html">
+  <title>The Store — The Human Frequency</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link rel="icon" type="image/png" sizes="32x32" href="favicon-32.png">
+  <link rel="icon" type="image/png" sizes="16x16" href="favicon-16.png">
+  <link rel="apple-touch-icon" sizes="180x180" href="favicon-180.png">
+  <meta name="theme-color" content="#0a0e1a">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root {
+      --navy: #0a0e1a; --navy2: #0d1426; --navy3: #111827;
+      --orange: #ff4500; --orange2: #ff6b35; --gold: #c9a84c; --magenta: #e91e8c;
+      --cream: #f5f0e8; --text: #e8e8e8; --muted: #8892a4; --border: rgba(255,255,255,0.08);
+    }
+    html { scroll-behavior: smooth; }
+    body { background: var(--navy); color: var(--text); font-family: 'DM Sans', sans-serif; overflow-x: hidden; line-height: 1.6; }
+
+    /* ===================== SCROLL REVEAL ===================== */
+    .reveal { opacity: 0; transform: translateY(28px); transition: opacity 0.6s ease, transform 0.6s ease; }
+    .reveal.visible { opacity: 1; transform: translateY(0); }
+    .reveal-delay-1 { transition-delay: 0.1s; }
+    .reveal-delay-2 { transition-delay: 0.2s; }
+    .reveal-delay-3 { transition-delay: 0.3s; }
+
+    /* ANNOUNCE */
+    .announce-bar { background: linear-gradient(90deg, var(--orange), var(--magenta)); text-align: center; padding: 10px 24px; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.12em; color: white; }
+    .announce-bar a { color: white; text-decoration: underline; }
+
+    /* NAV */
+    nav { display: flex; align-items: center; justify-content: space-between; padding: 14px 40px; background: var(--navy); position: sticky; top: 0; z-index: 100; border-bottom: 1px solid var(--border); }
+    .nav-logo { display: flex; align-items: center; gap: 12px; text-decoration: none; }
+    .nav-logo-icon {
+      width: 46px; height: 46px; border-radius: 50%; flex-shrink: 0;
+      background: linear-gradient(135deg, #0d1426, #1a0e20);
+      border: 1.5px solid rgba(255,69,0,0.5);
+      display: flex; align-items: center; justify-content: center;
+    }
+    .nav-logo-icon svg { width: 26px; height: 26px; }
+    .nav-logo-text { display: flex; flex-direction: column; }
+    .nav-logo-text .brand { font-family: 'Bebas Neue', sans-serif; font-size: 1.05rem; letter-spacing: 0.08em; color: white; line-height: 1; }
+    .nav-logo-text .brand span { color: var(--orange); }
+    .nav-logo-text .tagline { font-size: 0.58rem; letter-spacing: 0.2em; color: var(--muted); text-transform: uppercase; }
+    .nav-links { display: flex; align-items: center; gap: 32px; list-style: none; }
+    .nav-links a { color: var(--text); text-decoration: none; font-size: 0.78rem; letter-spacing: 0.12em; font-weight: 500; transition: color 0.2s; }
+    .nav-links a:hover { color: var(--orange); }
+    .nav-links a.active { color: var(--orange); }
+    .btn-nav { background: linear-gradient(135deg, var(--orange), var(--magenta)); color: white !important; padding: 10px 22px; border-radius: 50px; font-weight: 600 !important; }
+
+    /* STORE HERO */
+    .store-hero { padding: 80px 40px 60px; text-align: center; position: relative; overflow: hidden; }
+
+    /* Pulsing radial gradient background animation */
+    .store-hero::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background: radial-gradient(ellipse at 50% 70%, rgba(255,69,0,0.09) 0%, transparent 60%);
+      pointer-events: none;
+      animation: heroPulse 5s ease-in-out infinite alternate;
+    }
+    @keyframes heroPulse {
+      0%   { opacity: 0.5; transform: scale(1); }
+      100% { opacity: 1; transform: scale(1.12); }
+    }
+
+    .hero-eyebrow { display: flex; align-items: center; justify-content: center; gap: 16px; font-size: 0.68rem; letter-spacing: 0.22em; color: var(--muted); font-weight: 600; text-transform: uppercase; margin-bottom: 24px; }
+    .hero-eyebrow::before, .hero-eyebrow::after { content: ''; width: 40px; height: 1px; background: var(--border); }
+    .store-title { font-family: 'Bebas Neue', sans-serif; font-size: clamp(72px, 12vw, 130px); line-height: 0.9; margin-bottom: 16px; }
+    .store-title .the { color: white; }
+    .store-title .store {
+      background: linear-gradient(135deg, #ff4500, #ff6b35, #e91e8c, #c9547a);
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text;
+    }
+
+    /* Animated underline for tagline */
+    .store-sub-wrap { position: relative; display: inline-block; }
+    .store-sub { font-family: 'Playfair Display', serif; font-style: italic; color: var(--muted); font-size: 1.1rem; max-width: 480px; margin: 0 auto; line-height: 1.6; }
+    .store-sub-line { height: 1px; background: linear-gradient(90deg, transparent, var(--orange), transparent); width: 0%; margin: 12px auto 0; transition: width 1.2s ease 0.5s; }
+    .store-sub-line.active { width: 60%; }
+
+    /* BELIEF BAR */
+    .belief-bar { background: var(--navy2); border-top: 1px solid var(--border); border-bottom: 1px solid var(--border); padding: 24px 40px; text-align: center; }
+    .belief-bar p { font-size: 0.85rem; color: var(--muted); line-height: 1.6; max-width: 700px; margin: 0 auto; }
+    .belief-bar strong { color: white; font-style: italic; }
+
+    /* FILTER BAR */
+    .filter-bar { padding: 40px 40px 0; max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px; }
+    .filters { display: flex; gap: 8px; flex-wrap: wrap; }
+    .filter-btn { background: transparent; border: 1px solid var(--border); color: var(--muted); padding: 8px 18px; border-radius: 50px; font-size: 0.72rem; font-weight: 600; letter-spacing: 0.1em; cursor: pointer; font-family: 'DM Sans', sans-serif; transition: all 0.2s; text-transform: uppercase; }
+    .filter-btn:hover { border-color: var(--orange); color: var(--orange); }
+    .filter-btn.active { background: linear-gradient(135deg, var(--orange), var(--magenta)); color: white; border-color: transparent; }
+    .results-count { font-size: 0.78rem; color: var(--muted); }
+    .results-count span { color: var(--orange); font-weight: 600; }
+
+    /* FEATURED PRODUCT */
+    .featured-wrap { max-width: 1200px; margin: 32px auto 0; padding: 0 40px; }
+    .featured-card {
+      background: linear-gradient(135deg, #12101f, #0d1426);
+      border: 1px solid rgba(255,69,0,0.3);
+      border-radius: 20px; padding: 48px; position: relative; overflow: hidden;
+      display: grid; grid-template-columns: 1fr auto; gap: 48px; align-items: center;
+    }
+    .featured-card::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, var(--orange), var(--magenta)); }
+    .featured-card::after { content: ''; position: absolute; bottom: 0; right: 0; width: 300px; height: 300px; background: radial-gradient(circle, rgba(255,69,0,0.06) 0%, transparent 70%); pointer-events: none; }
+
+    .featured-label { font-size: 0.6rem; letter-spacing: 0.2em; color: var(--orange); font-weight: 700; text-transform: uppercase; margin-bottom: 12px; display: flex; align-items: center; gap: 8px; }
+    .featured-label::before { content: ''; width: 20px; height: 1px; background: var(--orange); }
+
+    /* Bestseller row above title */
+    .featured-stars-row { display: flex; align-items: center; gap: 8px; margin-bottom: 14px; }
+    .featured-stars-row .stars { font-size: 0.78rem; }
+    .featured-stars-row .star-label { font-size: 0.72rem; color: var(--gold); font-weight: 600; }
+    .featured-stars-row .star-sub { font-size: 0.68rem; color: var(--muted); }
+
+    .featured-badge { display: inline-flex; align-items: center; gap: 8px; background: linear-gradient(135deg, var(--orange), var(--magenta)); color: white; padding: 5px 14px; border-radius: 50px; font-size: 0.62rem; font-weight: 700; letter-spacing: 0.12em; margin-bottom: 20px; text-transform: uppercase; }
+    .featured-title { font-family: 'Bebas Neue', sans-serif; font-size: clamp(32px, 4vw, 52px); letter-spacing: 0.03em; color: white; line-height: 1.05; margin-bottom: 16px; }
+    .featured-desc { font-size: 0.9rem; color: var(--muted); line-height: 1.7; margin-bottom: 24px; max-width: 580px; }
+    .featured-tags { display: flex; gap: 10px; flex-wrap: wrap; margin-bottom: 28px; }
+    .featured-tag { background: var(--navy3); border: 1px solid var(--border); border-radius: 50px; padding: 5px 14px; font-size: 0.68rem; color: var(--muted); }
+    .featured-cta { display: flex; align-items: flex-start; gap: 20px; flex-wrap: wrap; flex-direction: column; }
+    .featured-cta-btn-wrap { display: flex; flex-direction: column; align-items: flex-start; }
+    .btn-buy { background: linear-gradient(135deg, var(--orange), var(--magenta)); color: white; padding: 14px 32px; border-radius: 50px; text-decoration: none; font-weight: 700; font-size: 0.9rem; letter-spacing: 0.05em; transition: opacity 0.2s, transform 0.2s; border: none; cursor: pointer; }
+    .btn-buy:hover { opacity: 0.9; transform: translateY(-1px); }
+    .featured-note { font-size: 0.78rem; color: var(--muted); }
+    .featured-image { width: 180px; height: 180px; background: linear-gradient(135deg, #1a1030, #0d1426); border-radius: 16px; display: flex; align-items: center; justify-content: center; font-size: 5rem; border: 1px solid rgba(255,69,0,0.2); flex-shrink: 0; }
+
+    /* ALL GUIDES GRID */
+    .guides-section { padding: 48px 40px 100px; max-width: 1200px; margin: 0 auto; }
+
+    /* Guides header — styled section header */
+    .guides-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 24px; flex-wrap: wrap; gap: 8px; }
+    .guides-label { font-size: 0.68rem; letter-spacing: 0.2em; color: var(--muted); font-weight: 600; text-transform: uppercase; }
+
+    .guides-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; }
+
+    /* PRODUCT CARD */
+    .product-card {
+      background: var(--navy3);
+      border: 1px solid var(--border);
+      border-radius: 16px;
+      overflow: hidden;
+      transition: transform 0.25s ease, border-color 0.25s ease, box-shadow 0.25s ease;
+      position: relative;
+      display: flex;
+      flex-direction: column;
+    }
+    .product-card:hover {
+      transform: translateY(-6px);
+      border-color: rgba(255,69,0,0.3);
+      box-shadow: 0 12px 40px rgba(255,69,0,0.08);
+    }
+    .card-image { height: 175px; display: flex; align-items: center; justify-content: center; font-size: 3rem; background: linear-gradient(135deg, #111827, #0d1a2d); position: relative; flex-shrink: 0; }
+    .card-badge { position: absolute; top: 12px; right: 12px; padding: 4px 12px; border-radius: 50px; font-size: 0.6rem; font-weight: 700; letter-spacing: 0.1em; text-transform: uppercase; }
+    .badge-flagship { background: linear-gradient(135deg, var(--orange), var(--magenta)); color: white; }
+    .badge-loved { background: rgba(201,168,76,0.2); color: var(--gold); border: 1px solid rgba(201,168,76,0.3); }
+    .badge-new { background: rgba(46,196,100,0.18); color: #2ec464; border: 1px solid rgba(46,196,100,0.3); }
+    .badge-fan { background: rgba(233,30,140,0.15); color: var(--magenta); border: 1px solid rgba(233,30,140,0.3); }
+
+    /* COMING SOON overlay */
+    .card-cs-overlay { position: absolute; inset: 0; background: rgba(10,14,26,0.68); display: flex; align-items: center; justify-content: center; z-index: 4; }
+    .card-cs-tag { background: rgba(10,14,26,0.92); border: 1px solid var(--orange); color: var(--orange); font-size: 0.6rem; font-weight: 700; letter-spacing: 0.2em; padding: 7px 16px; border-radius: 50px; text-transform: uppercase; }
+
+    .card-body { padding: 20px; display: flex; flex-direction: column; flex: 1; }
+    .card-category { font-size: 0.58rem; letter-spacing: 0.15em; color: var(--orange); font-weight: 600; text-transform: uppercase; margin-bottom: 7px; }
+    .card-title { font-family: 'Bebas Neue', sans-serif; font-size: 1.1rem; letter-spacing: 0.05em; color: white; line-height: 1.2; margin-bottom: 8px; }
+    .card-desc { font-size: 0.78rem; color: var(--muted); line-height: 1.5; margin-bottom: 16px; flex: 1; }
+
+    /* Star ratings on available cards */
+    .card-stars { font-size: 0.68rem; color: var(--gold); margin-bottom: 10px; display: flex; align-items: center; gap: 6px; }
+    .card-stars span { color: var(--muted); font-size: 0.62rem; }
+
+    .card-footer { display: flex; align-items: center; justify-content: space-between; margin-top: auto; }
+    .card-price { font-size: 1.25rem; font-weight: 700; color: white; }
+    .btn-get { background: linear-gradient(135deg, var(--orange), var(--magenta)); color: white; padding: 8px 18px; border-radius: 50px; text-decoration: none; font-size: 0.72rem; font-weight: 700; letter-spacing: 0.08em; border: none; cursor: pointer; }
+    .btn-get:disabled { opacity: 0.35; cursor: not-allowed; background: var(--navy2); color: var(--muted); }
+
+    /* NEWSLETTER MINI */
+    .nl-mini { background: var(--navy2); border-top: 1px solid var(--border); padding: 80px 40px; text-align: center; }
+    .nl-mini-card { max-width: 600px; margin: 0 auto; }
+    .nl-mini-eyebrow { font-size: 0.68rem; letter-spacing: 0.2em; color: var(--orange); font-weight: 600; text-transform: uppercase; margin-bottom: 16px; }
+    .nl-mini-title { font-family: 'Bebas Neue', sans-serif; font-size: clamp(32px, 4vw, 48px); color: white; margin-bottom: 10px; }
+    .nl-mini-sub { font-family: 'Playfair Display', serif; font-style: italic; color: var(--muted); margin-bottom: 8px; }
+    .nl-mini-promise { font-size: 0.82rem; color: var(--text); margin-bottom: 24px; line-height: 1.7; }
+    .nl-mini-promise strong { color: white; }
+    .nl-mini-form { display: flex; gap: 10px; max-width: 420px; margin: 0 auto 16px; }
+    .nl-mini-form input { flex: 1; background: var(--navy3); border: 1px solid var(--border); border-radius: 50px; padding: 12px 18px; color: var(--text); font-size: 0.85rem; font-family: 'DM Sans', sans-serif; outline: none; }
+    .nl-mini-form input:focus { border-color: rgba(255,69,0,0.4); }
+    .nl-mini-form input::placeholder { color: var(--muted); }
+    .btn-primary { background: linear-gradient(135deg, var(--orange), var(--magenta)); color: white; padding: 12px 24px; border-radius: 50px; font-weight: 700; font-size: 0.85rem; border: none; cursor: pointer; white-space: nowrap; transition: opacity 0.2s; }
+    .btn-primary:hover { opacity: 0.9; }
+    .nl-mini-note { font-size: 0.72rem; color: var(--muted); }
+
+    /* FOOTER */
+    footer { background: var(--navy2); border-top: 1px solid var(--border); padding: 60px 40px 32px; }
+    .footer-grid { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 2fr 1fr 1fr 1fr; gap: 48px; margin-bottom: 48px; }
+    .footer-brand-name { font-family: 'Bebas Neue', sans-serif; font-size: 1.25rem; letter-spacing: 0.08em; color: white; margin-bottom: 4px; }
+    .footer-brand-name span { color: var(--orange); }
+    .footer-tagline { font-size: 0.58rem; letter-spacing: 0.2em; color: var(--orange); font-weight: 600; text-transform: uppercase; margin-bottom: 14px; }
+    .footer-desc { font-size: 0.83rem; color: var(--muted); line-height: 1.65; margin-bottom: 20px; }
+    .footer-socials { display: flex; gap: 10px; flex-wrap: wrap; }
+    .social-btn { width: 36px; height: 36px; background: var(--navy3); border: 1px solid var(--border); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: var(--muted); text-decoration: none; font-size: 0.85rem; transition: border-color 0.2s, color 0.2s; }
+    .social-btn:hover { border-color: var(--orange); color: var(--orange); }
+    .footer-col h4 { font-family: 'Bebas Neue', sans-serif; letter-spacing: 0.12em; font-size: 0.88rem; color: white; margin-bottom: 16px; }
+    .footer-col ul { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+    .footer-col ul li a { color: var(--muted); text-decoration: none; font-size: 0.83rem; transition: color 0.2s; }
+    .footer-col ul li a:hover { color: var(--orange); }
+    .footer-bottom { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; border-top: 1px solid var(--border); padding-top: 24px; font-size: 0.73rem; color: var(--muted); }
+    .footer-bottom a { color: var(--orange); text-decoration: none; }
+
+    /* ===================== MOBILE RESPONSIVE ===================== */
+    @media (max-width: 768px) {
+
+      /* NAV */
+      nav { padding: 12px 18px; }
+      .nav-logo-icon { width: 38px; height: 38px; }
+      .nav-logo-icon svg { width: 20px; height: 20px; }
+      .nav-logo-text .brand { font-size: 0.82rem; }
+      .nav-logo-text .tagline { display: none; }
+      .nav-links { gap: 14px; }
+      .nav-links li:nth-child(1),
+      .nav-links li:nth-child(2),
+      .nav-links li:nth-child(4) { display: none; }
+      .nav-links a { font-size: 0.7rem; }
+      .btn-nav { padding: 8px 14px; font-size: 0.68rem !important; }
+
+      /* ANNOUNCE */
+      .announce-bar { font-size: 0.68rem; letter-spacing: 0.06em; padding: 8px 16px; }
+
+      /* STORE HERO */
+      .store-hero { padding: 48px 20px 36px; }
+      .store-title { font-size: clamp(56px, 18vw, 90px); }
+      .store-sub { font-size: 0.95rem; }
+      .store-sub-line.active { width: 80%; }
+
+      /* BELIEF BAR */
+      .belief-bar { padding: 20px 20px; }
+
+      /* FILTER BAR */
+      .filter-bar { padding: 24px 20px 0; flex-direction: column; align-items: flex-start; gap: 12px; }
+      .filters { gap: 6px; }
+      .filter-btn { padding: 7px 14px; font-size: 0.65rem; }
+      .results-count { font-size: 0.72rem; }
+
+      /* FEATURED CARD */
+      .featured-wrap { padding: 0 20px; margin-top: 24px; }
+      .featured-card {
+        grid-template-columns: 1fr;
+        gap: 24px; padding: 28px 24px;
+      }
+      .featured-card::after { display: none; }
+      .featured-image { width: 80px; height: 80px; font-size: 2.5rem; order: -1; }
+      .featured-title { font-size: clamp(26px, 7vw, 38px); }
+      .featured-desc { font-size: 0.84rem; }
+      .featured-tags { gap: 8px; }
+      .featured-tag { font-size: 0.62rem; padding: 4px 10px; }
+      .featured-cta { flex-direction: column; align-items: flex-start; gap: 10px; }
+      .btn-buy { width: 100%; text-align: center; }
+
+      /* GUIDES HEADER */
+      .guides-header { flex-direction: column; align-items: flex-start; gap: 4px; }
+
+      /* GUIDES GRID */
+      .guides-section { padding: 32px 20px 64px; }
+      .guides-grid { grid-template-columns: 1fr; gap: 16px; }
+      .card-image { height: 140px; }
+
+      /* NEWSLETTER MINI */
+      .nl-mini { padding: 56px 20px; }
+      .nl-mini-form { flex-direction: column; gap: 10px; }
+      .nl-mini-form input { border-radius: 12px; }
+      .btn-primary { border-radius: 12px; width: 100%; }
+
+      /* FOOTER */
+      footer { padding: 48px 20px 24px; }
+      .footer-grid { grid-template-columns: 1fr 1fr; gap: 28px; }
+      .footer-bottom { flex-direction: column; gap: 8px; text-align: center; }
+
+      /* BACK TO TOP */
+      #back-top { bottom: 18px !important; right: 18px !important; width: 40px !important; height: 40px !important; }
+    }
+
+    @media (max-width: 480px) {
+      .footer-grid { grid-template-columns: 1fr; gap: 24px; }
+      .guides-grid { grid-template-columns: 1fr; }
+      .featured-stars-row { flex-wrap: wrap; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- ANNOUNCE BAR -->
+<div class="announce-bar">
+  📡 NEW GUIDES DROPPING SOON — <a href="#nl-mini">JOIN THE WAITLIST</a> TO BE NOTIFIED FIRST
+</div>
+
+<!-- NAV -->
+<nav>
+  <a class='nav-logo' href='/'>
+    <div class="nav-logo-icon">
+      <svg viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M2 13 Q5 7, 8 13 Q11 19, 13 13 Q15 7, 18 13 Q21 19, 24 13" stroke="url(#lg2)" stroke-width="2" stroke-linecap="round" fill="none"/>
+        <defs><linearGradient id="lg2" x1="2" y1="13" x2="24" y2="13" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#ff4500"/><stop offset="100%" stop-color="#e91e8c"/></linearGradient></defs>
+      </svg>
+    </div>
+    <div class="nav-logo-text">
+      <span class="brand">THE HUMAN <span>FREQUENCY</span></span>
+      <span class="tagline">Find Common Ground</span>
+    </div>
+  </a>
+  <ul class="nav-links">
+    <li><a href='/#mission'>MISSION</a></li>
+    <li><a href='/#show'>THE SHOW</a></li>
+    <li><a class='active' href='/thf-store'>STORE</a></li>
+    <li><a href='/#apps'>APPS</a></li>
+    <li><a class='btn-nav' href='/#newsletter'>TUNE IN</a></li>
+  </ul>
+</nav>
+
+<!-- STORE HERO -->
+<section class="store-hero">
+  <div class="hero-eyebrow">DIGITAL GUIDES</div>
+  <h1 class="store-title">
+    <span class="the">THE </span><span class="store">STORE</span>
+  </h1>
+  <div class="store-sub-wrap">
+    <p class="store-sub">Practical tools for a fuller life. Because an empty cup cannot pour.</p>
+    <div class="store-sub-line" id="store-line"></div>
+  </div>
+</section>
+
+<!-- BELIEF BAR -->
+<div class="belief-bar">
+  <p><strong><em>Every guide is built on one belief:</em></strong> to be a great global citizen, you must first be a capable, grounded human being.</p>
+</div>
+
+<!-- FILTER BAR -->
+<div class="filter-bar">
+  <div class="filters">
+    <button class="filter-btn active" onclick="filterGuides('all', this)">ALL GUIDES</button>
+    <button class="filter-btn" onclick="filterGuides('ai', this)">AI & TECH</button>
+    <button class="filter-btn" onclick="filterGuides('parenting', this)">PARENTING</button>
+    <button class="filter-btn" onclick="filterGuides('relationships', this)">RELATIONSHIPS</button>
+    <button class="filter-btn" onclick="filterGuides('wellbeing', this)">WELLBEING</button>
+    <button class="filter-btn" onclick="filterGuides('life', this)">LIFE SKILLS</button>
+    <button class="filter-btn" onclick="filterGuides('finance', this)">FINANCE</button>
+    <button class="filter-btn" onclick="filterGuides('games', this)">GAMES</button>
+    <button class="filter-btn" onclick="filterGuides('music', this)">MUSIC</button>
+  </div>
+  <div class="results-count">Showing results</div>
+</div>
+
+<!-- FEATURED PRODUCT — THE FLAGSHIP PDF -->
+<div class="featured-wrap reveal" data-category="wellbeing">
+  <div class="featured-card">
+    <div>
+      <div class="featured-label">FEATURED GUIDE</div>
+      <!-- Bestseller stars row -->
+      <div class="featured-stars-row">
+        <span class="stars">⭐⭐⭐⭐⭐</span>
+        <span class="star-label">4.9</span>
+        <span class="star-sub">· Bestseller</span>
+      </div>
+      <div class="featured-badge">🧘 FLAGSHIP GUIDE — AVAILABLE NOW</div>
+      <h2 class="featured-title">THE SELF-CARE YOU<br>WERE NEVER TAUGHT</h2>
+      <p class="featured-desc">162 pages of evidence-based tools for burned-out humans. Nervous system science, the Fawn Response, Polyvagal Theory — the self-care curriculum schools never gave you. Practical, grounded, and life-changing.</p>
+      <div class="featured-tags">
+        <span class="featured-tag">162 Pages</span>
+        <span class="featured-tag">PDF Instant Download</span>
+        <span class="featured-tag">Evidence-Based</span>
+        <span class="featured-tag">Nervous System Science</span>
+        <span class="featured-tag">Beginner Friendly</span>
+        <span class="featured-tag">Polyvagal Theory</span>
+      </div>
+      <div class="featured-cta">
+        <div class="featured-cta-btn-wrap">
+          <button class="btn-buy" onclick="window.open('https://5112760967895.gumroad.com/l/lwawbf', '_blank')">GET IT FOR $27</button>
+          <div style="font-size:0.7rem;color:var(--muted);margin-top:8px;">📥 Instant PDF download · No account needed</div>
+        </div>
+      </div>
+    </div>
+    <div class="featured-image">🧘</div>
+  </div>
+</div>
+
+<!-- ALL GUIDES GRID -->
+<div class="guides-section" id="guides-section">
+  <div class="guides-header">
+    <div class="guides-label">ALL GUIDES <span style="color:var(--muted);font-size:0.62rem;font-weight:400;letter-spacing:0.05em;">— <span id="count">10</span> available</span></div>
+    <div style="font-size:0.78rem;color:var(--muted);">2 available now · 8 coming soon</div>
+  </div>
+  <div class="guides-grid" id="guides-grid">
+
+    <!-- 1: Self-Care - FLAGSHIP, AVAILABLE -->
+    <div class="product-card reveal reveal-delay-1" data-category="wellbeing">
+      <div class="card-image">🧘<span class="card-badge badge-flagship">FLAGSHIP</span></div>
+      <div class="card-body">
+        <div class="card-category">WELLBEING</div>
+        <div class="card-title">THE SELF-CARE YOU WERE NEVER TAUGHT</div>
+        <p class="card-desc">162 pages. Nervous system science, the Fawn Response, and evidence-based tools for burned-out humans.</p>
+        <div class="card-stars">⭐⭐⭐⭐⭐ <span>Bestseller</span></div>
+        <div class="card-footer">
+          <span class="card-price">$27</span>
+          <button class="btn-get" onclick="window.open('https://5112760967895.gumroad.com/l/lwawbf', '_blank')">GET IT</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 2: Survival Blueprint - AVAILABLE NOW -->
+    <div class="product-card reveal reveal-delay-2" data-category="parenting" style="border-color: rgba(255,69,0,0.25);">
+      <div class="card-image">🧠<span class="card-badge badge-new">NEW</span></div>
+      <div class="card-body">
+        <div class="card-category">PARENTING</div>
+        <div class="card-title">THE SURVIVAL BLUEPRINT: A NEURODIVERGENT PARENTING SYSTEM</div>
+        <p class="card-desc">64 pages. ADHD, RSD, meltdowns, IEPs, co-parenting, medication — everything for the years nobody prepares you for.</p>
+        <div class="card-stars">⭐⭐⭐⭐⭐ <span>Bestseller</span></div>
+        <div class="card-footer">
+          <span class="card-price">$17.99</span>
+          <button class="btn-get" onclick="window.open('https://5112760967895.gumroad.com/l/xigwwn', '_blank')">GET IT</button>
+        </div>
+      </div>
+    </div>
+
+    <!-- 3: AI Masterclass - COMING SOON -->
+    <div class="product-card reveal reveal-delay-3" data-category="ai">
+      <div class="card-image">🤖
+        <span class="card-badge badge-loved">POPULAR</span>
+        <div class="card-cs-overlay"><span class="card-cs-tag">🔒 COMING SOON</span></div>
+      </div>
+      <div class="card-body">
+        <div class="card-category">AI & TECHNOLOGY</div>
+        <div class="card-title">HOW TO PROMPT AI: THE DEFINITIVE MASTERCLASS</div>
+        <p class="card-desc">200+ prompts. 84 pages. Master the art of working with AI — the skill that defines the next decade.</p>
+        <div class="card-footer">
+          <span class="card-price">$27</span>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;">
+            <button class="btn-get" disabled>SOON</button>
+            <div style="font-size:0.6rem;color:var(--orange);margin-top:6px;cursor:pointer;" onclick="document.getElementById('nl-mini').scrollIntoView({behavior:'smooth'})">Get notified →</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 4: Hard Conversations - COMING SOON -->
+    <div class="product-card reveal reveal-delay-1" data-category="relationships">
+      <div class="card-image">💬
+        <span class="card-badge badge-new">NEW</span>
+        <div class="card-cs-overlay"><span class="card-cs-tag">🔒 COMING SOON</span></div>
+      </div>
+      <div class="card-body">
+        <div class="card-category">RELATIONSHIPS</div>
+        <div class="card-title">HOW TO HAVE HARD CONVERSATIONS</div>
+        <p class="card-desc">Say what needs to be said — with courage, clarity, and compassion.</p>
+        <div class="card-footer">
+          <span class="card-price">$12</span>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;">
+            <button class="btn-get" disabled>SOON</button>
+            <div style="font-size:0.6rem;color:var(--orange);margin-top:6px;cursor:pointer;" onclick="document.getElementById('nl-mini').scrollIntoView({behavior:'smooth'})">Get notified →</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 5: Support Someone - COMING SOON -->
+    <div class="product-card reveal reveal-delay-2" data-category="relationships">
+      <div class="card-image">❤️
+        <div class="card-cs-overlay"><span class="card-cs-tag">🔒 COMING SOON</span></div>
+      </div>
+      <div class="card-body">
+        <div class="card-category">RELATIONSHIPS</div>
+        <div class="card-title">HOW TO SUPPORT SOMEONE WHO IS STRUGGLING</div>
+        <p class="card-desc">Show up as the person people need when life gets heavy.</p>
+        <div class="card-footer">
+          <span class="card-price">$10</span>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;">
+            <button class="btn-get" disabled>SOON</button>
+            <div style="font-size:0.6rem;color:var(--orange);margin-top:6px;cursor:pointer;" onclick="document.getElementById('nl-mini').scrollIntoView({behavior:'smooth'})">Get notified →</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 6: Budget - COMING SOON -->
+    <div class="product-card reveal reveal-delay-3" data-category="finance">
+      <div class="card-image">💰
+        <div class="card-cs-overlay"><span class="card-cs-tag">🔒 COMING SOON</span></div>
+      </div>
+      <div class="card-body">
+        <div class="card-category">FINANCE</div>
+        <div class="card-title">BUDGET TEMPLATE & FINANCIAL FOUNDATION</div>
+        <p class="card-desc">The spreadsheet that actually changes how you relate to money.</p>
+        <div class="card-footer">
+          <span class="card-price">$8</span>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;">
+            <button class="btn-get" disabled>SOON</button>
+            <div style="font-size:0.6rem;color:var(--orange);margin-top:6px;cursor:pointer;" onclick="document.getElementById('nl-mini').scrollIntoView({behavior:'smooth'})">Get notified →</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 7: Bicycle - COMING SOON -->
+    <div class="product-card reveal reveal-delay-1" data-category="life">
+      <div class="card-image">🚲
+        <div class="card-cs-overlay"><span class="card-cs-tag">🔒 COMING SOON</span></div>
+      </div>
+      <div class="card-body">
+        <div class="card-category">LIFE SKILLS</div>
+        <div class="card-title">HOME BICYCLE MAINTENANCE</div>
+        <p class="card-desc">Save money, gain skills, get riding. The complete practical guide.</p>
+        <div class="card-footer">
+          <span class="card-price">$9</span>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;">
+            <button class="btn-get" disabled>SOON</button>
+            <div style="font-size:0.6rem;color:var(--orange);margin-top:6px;cursor:pointer;" onclick="document.getElementById('nl-mini').scrollIntoView({behavior:'smooth'})">Get notified →</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 8: Poker - COMING SOON -->
+    <div class="product-card reveal reveal-delay-2" data-category="games">
+      <div class="card-image">🃏
+        <span class="card-badge badge-fan">FAN FAVOURITE</span>
+        <div class="card-cs-overlay"><span class="card-cs-tag">🔒 COMING SOON</span></div>
+      </div>
+      <div class="card-body">
+        <div class="card-category">GAMES & STRATEGY</div>
+        <div class="card-title">HOW TO PLAY POKER & GET GOOD</div>
+        <p class="card-desc">From knowing nothing to reading the table — beginner to intermediate complete guide.</p>
+        <div class="card-footer">
+          <span class="card-price">$12</span>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;">
+            <button class="btn-get" disabled>SOON</button>
+            <div style="font-size:0.6rem;color:var(--orange);margin-top:6px;cursor:pointer;" onclick="document.getElementById('nl-mini').scrollIntoView({behavior:'smooth'})">Get notified →</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 9: Saxophone - COMING SOON -->
+    <div class="product-card reveal reveal-delay-3" data-category="music">
+      <div class="card-image">🎷
+        <span class="card-badge badge-new">NEW</span>
+        <div class="card-cs-overlay"><span class="card-cs-tag">🔒 COMING SOON</span></div>
+      </div>
+      <div class="card-body">
+        <div class="card-category">MUSIC & CREATIVE</div>
+        <div class="card-title">HOW TO START PLAYING THE SAXOPHONE</div>
+        <p class="card-desc">Learn the instrument that makes every room stop and listen. No experience required.</p>
+        <div class="card-footer">
+          <span class="card-price">$10</span>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;">
+            <button class="btn-get" disabled>SOON</button>
+            <div style="font-size:0.6rem;color:var(--orange);margin-top:6px;cursor:pointer;" onclick="document.getElementById('nl-mini').scrollIntoView({behavior:'smooth'})">Get notified →</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <!-- 10: Find a Place to Rent - COMING SOON -->
+    <div class="product-card reveal reveal-delay-1" data-category="life">
+      <div class="card-image">🏠
+        <div class="card-cs-overlay"><span class="card-cs-tag">🔒 COMING SOON</span></div>
+      </div>
+      <div class="card-body">
+        <div class="card-category">LIFE SKILLS</div>
+        <div class="card-title">HOW TO FIND A PLACE TO RENT</div>
+        <p class="card-desc">Navigate the rental market with confidence — red flags, negotiation, and what to look for.</p>
+        <div class="card-footer">
+          <span class="card-price">$10</span>
+          <div style="display:flex;flex-direction:column;align-items:flex-end;">
+            <button class="btn-get" disabled>SOON</button>
+            <div style="font-size:0.6rem;color:var(--orange);margin-top:6px;cursor:pointer;" onclick="document.getElementById('nl-mini').scrollIntoView({behavior:'smooth'})">Get notified →</div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+  </div>
+</div>
+
+<!-- NEWSLETTER MINI -->
+<div class="nl-mini" id="nl-mini">
+  <div class="nl-mini-card reveal">
+    <div class="nl-mini-eyebrow">BE FIRST IN LINE</div>
+    <h2 class="nl-mini-title">NEW GUIDES DROP MONTHLY</h2>
+    <p class="nl-mini-sub">The store is growing. New guides drop regularly.</p>
+    <p class="nl-mini-promise">
+      Sign up to be notified the moment a new guide launches — and get early access before it goes public.
+    </p>
+    <form action='/success' class='nl-mini-form' method='POST' name='store-newsletter' data-netlify='true' netlify-honeypot='bot-field'>
+      <input type="hidden" name="form-name" value="store-newsletter">
+      <input type="hidden" name="bot-field" style="display:none">
+      <input type="email" name="email" placeholder="your@email.com" id="store-email" required>
+      <button class="btn-primary" type="submit">NOTIFY ME FIRST</button>
+    </form>
+    <p class="nl-mini-note">No spam. Unsubscribe anytime.</p>
+  </div>
+</div>
+
+<!-- FOOTER -->
+<footer>
+  <div class="footer-grid">
+    <div>
+      <div class="footer-brand-name">THE HUMAN <span>FREQUENCY</span></div>
+      <div class="footer-tagline">FIND COMMON GROUND</div>
+      <p class="footer-desc">A global digital square where every voice is heard, every story matters, and humanity finds its common signal.</p>
+      <div class="footer-socials">
+        <a href="https://www.youtube.com/@TheHumanFrequency" target="_blank" rel="noopener" class="social-btn" title="YouTube">▶</a>
+        <a href="https://www.instagram.com/thehumanfrequency" target="_blank" rel="noopener" class="social-btn" title="Instagram">◈</a>
+        <a href="https://www.tiktok.com/@thehumanfrequency" target="_blank" rel="noopener" class="social-btn" title="TikTok">♪</a>
+        <a href="https://open.spotify.com/show/thehumanfrequency" target="_blank" rel="noopener" class="social-btn" title="Spotify">⬤</a>
+        <a href="https://podcasts.apple.com/podcast/the-human-frequency" target="_blank" rel="noopener" class="social-btn" title="Apple Podcasts">🎙</a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <h4>THE SHOW</h4>
+      <ul>
+        <li><a href='/#show'>Listen Live</a></li>
+        <li><a href='/#show'>Episodes</a></li>
+        <li><a href='/#show'>Call In</a></li>
+        <li><a href='/#show'>Schedule</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>THE STORE</h4>
+      <ul>
+        <li><a href='/thf-store'>All Guides</a></li>
+        <li><a href='/thf-store'>AI Masterclass</a></li>
+        <li><a href='/thf-store'>Relationships</a></li>
+        <li><a href='/thf-store'>Bundles</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>ABOUT</h4>
+      <ul>
+        <li><a href='/#mission'>Our Mission</a></li>
+        <li><a href='/#apps'>The Apps</a></li>
+        <li><a href="#nl-mini">Contact</a></li>
+        <li><a href="#nl-mini">Community</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 The Human Frequency. Built with <a href='/#mission'>empathy</a>.</span>
+    <span>thehumanfrequency.net</span>
+  </div>
+</footer>
+
+<!-- BACK TO TOP BUTTON -->
+<button id="back-top" onclick="window.scrollTo({top:0,behavior:'smooth'})" style="position:fixed;bottom:28px;right:28px;width:44px;height:44px;border-radius:50%;background:linear-gradient(135deg,#ff4500,#e91e8c);border:none;color:white;font-size:1rem;cursor:pointer;z-index:999;opacity:0;transition:opacity 0.3s;display:flex;align-items:center;justify-content:center;box-shadow:0 4px 20px rgba(255,69,0,0.3);">↑</button>
+
+<script>
+  // ===================== CATEGORY FILTER =====================
+  function filterGuides(cat, btn) {
+    document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    const cards = document.querySelectorAll('#guides-grid .product-card');
+    const featured = document.querySelector('.featured-wrap');
+    let visible = 0;
+    cards.forEach(card => {
+      const match = cat === 'all' || card.dataset.category === cat;
+      card.style.display = match ? '' : 'none';
+      if (match) visible++;
+    });
+    if (featured) featured.style.display = (cat === 'all' || cat === 'wellbeing') ? '' : 'none';
+    document.getElementById('count').textContent = visible;
+  }
+
+  // ===================== STORE NEWSLETTER =====================
+  function handleStoreSignup() {
+    const input = document.getElementById('store-email');
+    const btn = input.nextElementSibling;
+    if (input.value && input.value.includes('@')) {
+      btn.textContent = '✓ You\'re In!';
+      input.disabled = true; btn.disabled = true;
+      btn.style.opacity = '0.7';
+    } else {
+      input.style.borderColor = 'rgba(255,69,0,0.6)';
+      input.placeholder = 'Enter a valid email';
+    }
+  }
+
+  // ===================== SCROLL REVEAL =====================
+  const revealEls = document.querySelectorAll('.reveal');
+  const obs = new IntersectionObserver(entries => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('visible');
+        obs.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.1 });
+  revealEls.forEach(el => obs.observe(el));
+
+  // ===================== HERO UNDERLINE ANIMATION =====================
+  setTimeout(() => {
+    const l = document.getElementById('store-line');
+    if (l) l.classList.add('active');
+  }, 300);
+
+  // ===================== BACK TO TOP =====================
+  window.addEventListener('scroll', () => {
+    document.getElementById('back-top').style.opacity = window.scrollY > 400 ? '1' : '0';
+  });
+</script>
+
+<script async id="netlify-rum-container" src="/.netlify/scripts/rum" data-netlify-rum-site-id="6fd4a4c9-d273-448a-ba19-fded6c456a53" data-netlify-deploy-branch="" data-netlify-deploy-context="production" data-netlify-cwv-token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaXRlX2lkIjoiNmZkNGE0YzktZDI3My00NDhhLWJhMTktZmRlZDZjNDU2YTUzIiwiYWNjb3VudF9pZCI6IjY5YmNkNGZkNDYzMzU0ODQ4YTcxNWExMyIsImRlcGxveV9pZCI6IjY5YzM2YWUxMjM0N2M1OGY3ZjAxYzc2MyIsImlzc3VlciI6Im5mc2VydmVyIn0.Vt4jNSgVoiT-Xc7mh5LIhVWtFtZHXuSQ5OBQaWVy4bU"></script>
+</body>
+</html>

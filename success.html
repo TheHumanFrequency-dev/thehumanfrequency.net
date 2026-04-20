@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>You're In — The Human Frequency</title>
+  <link rel="icon" type="image/x-icon" href="favicon.ico">
+  <link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:wght@400;500&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    :root { --navy: #0a0e1a; --orange: #ff4500; --magenta: #e91e8c; --muted: #8892a4; --border: rgba(255,255,255,0.08); }
+    body { background: var(--navy); color: #e8e8e8; font-family: 'DM Sans', sans-serif; min-height: 100vh; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 40px 24px; }
+    .icon { font-size: 4rem; margin-bottom: 24px; animation: pop 0.4s ease; }
+    @keyframes pop { 0% { transform: scale(0); opacity: 0; } 80% { transform: scale(1.15); } 100% { transform: scale(1); opacity: 1; } }
+    h1 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(48px, 10vw, 80px); letter-spacing: 0.04em; background: linear-gradient(135deg, #ff4500, #e91e8c); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; margin-bottom: 12px; }
+    p { font-family: 'Playfair Display', serif; font-style: italic; color: var(--muted); font-size: 1.1rem; max-width: 400px; line-height: 1.6; margin-bottom: 40px; }
+    .btn { display: inline-block; background: linear-gradient(135deg, var(--orange), var(--magenta)); color: white; padding: 14px 36px; border-radius: 50px; text-decoration: none; font-weight: 700; font-size: 0.9rem; letter-spacing: 0.05em; transition: opacity 0.2s; }
+    .btn:hover { opacity: 0.9; }
+    .divider { width: 60px; height: 2px; background: linear-gradient(90deg, var(--orange), var(--magenta)); margin: 0 auto 32px; border-radius: 2px; }
+  </style>
+</head>
+<body>
+  <div class="icon">📡</div>
+  <h1>YOU'RE ON<br>THE FREQUENCY</h1>
+  <div class="divider"></div>
+  <p>You're in. We'll reach out the moment something worth hearing drops.</p>
+  <a class='btn' href='/'>← Back to Home</a>
+
+<script async id="netlify-rum-container" src="/.netlify/scripts/rum" data-netlify-rum-site-id="6fd4a4c9-d273-448a-ba19-fded6c456a53" data-netlify-deploy-branch="" data-netlify-deploy-context="production" data-netlify-cwv-token="eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJzaXRlX2lkIjoiNmZkNGE0YzktZDI3My00NDhhLWJhMTktZmRlZDZjNDU2YTUzIiwiYWNjb3VudF9pZCI6IjY5YmNkNGZkNDYzMzU0ODQ4YTcxNWExMyIsImRlcGxveV9pZCI6IjY5YzM2YWUxMjM0N2M1OGY3ZjAxYzc2MyIsImlzc3VlciI6Im5mc2VydmVyIn0.Vt4jNSgVoiT-Xc7mh5LIhVWtFtZHXuSQ5OBQaWVy4bU"></script></body>
+</html>
