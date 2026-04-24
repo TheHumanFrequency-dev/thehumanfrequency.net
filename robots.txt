@@ -1,6 +1,39 @@
+# The Human Frequency — robots.txt
+# We're content-first and open to indexing by AI agents.
+# llms.txt provides a structured summary for AI crawlers.
+
 User-agent: *
 Allow: /
 Disallow: /admin
 Disallow: /.env
+Disallow: /success
+
+# AI crawlers — explicit allow
+User-agent: GPTBot
+Allow: /
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: CCBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
 
 Sitemap: https://thehumanfrequency.net/sitemap.xml
