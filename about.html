@@ -512,10 +512,11 @@ footer { background: var(--navy2); border-top: 1px solid var(--border); padding:
 </footer>
 
 <script>
-// ===== BEEHIIV SUBSCRIBE =====
+// ===== BEEHIIV SUBSCRIBE (proxied via /api/subscribe — no key in client) =====
 async function beehiivSubscribe(form, tag) {
   const input = form.querySelector('input[type="email"]');
   const btn = form.querySelector('button');
+  const honeypot = form.querySelector('input[name="bot-field"]');
   const email = input ? input.value.trim() : '';
   if (!email || !email.includes('@')) {
     if (input) { input.style.borderColor = 'rgba(255,69,0,0.7)'; input.placeholder = 'Enter a valid email'; }
@@ -525,20 +526,22 @@ async function beehiivSubscribe(form, tag) {
   btn.disabled = true;
   input.disabled = true;
   try {
-    const res = await fetch('https://api.beehiiv.com/v2/publications/pub_db92e432-ac6a-4d70-89dc-54e92192e84d/subscriptions', {
+    const res = await fetch('/api/subscribe', {
       method: 'POST',
-      headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ca3lOPfVWSmjflcEUx5yrs3kNDY0gt5VrNRLcTGYrjSQ01TO79XCnypd5idS6OrM' },
-      body: JSON.stringify({ email, reactivate_existing: true, send_welcome_email: true, utm_source: tag, custom_fields: [] })
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ email, utm_source: tag, bot_field: honeypot ? honeypot.value : '' })
     });
-    if (res.ok || res.status === 201) {
-      btn.textContent = "✓ You're In!";
+    const data = await res.json().catch(() => ({}));
+    if (res.ok && data && data.ok) {
+      btn.textContent = "\u2713 You're In!";
       btn.style.opacity = '0.8';
-    } else { throw new Error('API error ' + res.status); }
+    } else {
+      throw new Error('subscribe failed');
+    }
   } catch(err) {
     btn.textContent = 'Try Again';
     btn.disabled = false;
     input.disabled = false;
-    console.error('Beehiiv error:', err);
   }
 }
 function handleSubscribe(form) { beehiivSubscribe(form, 'source-about'); }
