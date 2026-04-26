@@ -456,7 +456,7 @@ footer { background: var(--navy2); border-top: 1px solid var(--border); padding:
     <div class="nl-eyebrow">BE FIRST WHEN WE LAUNCH</div>
     <h2 class="nl-title">JOIN THE FREQUENCY</h2>
     <p class="nl-sub">One signal, no noise. New guides, new tools, and the show launch — delivered occasionally.</p>
-    <form class='nl-form' method='POST' name='about-newsletter' onsubmit="event.preventDefault(); handleSubscribe(this);">
+    <form class='nl-form' name='about-newsletter' onsubmit="event.preventDefault(); beehiivSubscribe(this, 'source-about');">
       <input type="hidden" name="form-name" value="about-newsletter">
       <input type="hidden" name="bot-field" style="display:none">
       <input type="email" name="email" placeholder="your@email.com" required>
@@ -512,15 +512,40 @@ footer { background: var(--navy2); border-top: 1px solid var(--border); padding:
 </footer>
 
 <script>
-function handleSubscribe(form) {
+// ===== BEEHIIV SUBSCRIBE =====
+async function beehiivSubscribe(form, tag) {
   const input = form.querySelector('input[type="email"]');
   const btn = form.querySelector('button');
-  if (input && input.value && input.value.includes('@')) {
-    btn.textContent = '✓ You\'re In!';
-    input.disabled = true;
-    btn.disabled = true;
-  } else {
-    input.style.borderColor = 'rgba(255,69,0,0.6)';
+  const email = input ? input.value.trim() : '';
+  if (!email || !email.includes('@')) {
+    if (input) { input.style.borderColor = 'rgba(255,69,0,0.7)'; input.placeholder = 'Enter a valid email'; }
+    return;
+  }
+  btn.textContent = 'Joining...';
+  btn.disabled = true;
+  input.disabled = true;
+  try {
+    const res = await fetch('https://api.beehiiv.com/v2/publications/pub_db92e432-ac6a-4d70-89dc-54e92192e84d/subscriptions', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'Authorization': 'Bearer ca3lOPfVWSmjflcEUx5yrs3kNDY0gt5VrNRLcTGYrjSQ01TO79XCnypd5idS6OrM' },
+      body: JSON.stringify({ email, reactivate_existing: true, send_welcome_email: true, utm_source: tag, custom_fields: [] })
+    });
+    if (res.ok || res.status === 201) {
+      btn.textContent = "✓ You're In!";
+      btn.style.opacity = '0.8';
+    } else { throw new Error('API error ' + res.status); }
+  } catch(err) {
+    btn.textContent = 'Try Again';
+    btn.disabled = false;
+    input.disabled = false;
+    console.error('Beehiiv error:', err);
+  }
+}
+function handleSubscribe(form) { beehiivSubscribe(form, 'source-about'); }
+
+// ===== LEGACY SUBSCRIBE STUB =====
+function _legacySubscribe(form) {
+  if (input) { input.style.borderColor = 'rgba(255,69,0,0.6)';
     input.placeholder = 'Enter a valid email';
   }
 }
