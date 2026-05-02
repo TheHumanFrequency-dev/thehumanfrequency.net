@@ -31,6 +31,10 @@ The founder holds a degree in psychology and sociology and has years of professi
 - [SocialCortex AI](https://socialcortexai.com): Viral content engine for creators and brands. AI-powered scripts, hook templates, trend intelligence, algorithm rules. Live.
 - [ScannrAI](https://scannrai.com): Quantitative trading intelligence for futures and crypto. Walk-forward validated machine learning, regime detection, order-flow microstructure. Live.
 
+### Services
+
+- [Work With Me](https://thehumanfrequency.net/work-with-me): AI-native development services from the founder of The Human Frequency. Solo, project-based, fast. Stack: Next.js, Supabase, Drizzle, Python (FastAPI), Cloudflare Workers, LiveKit, Anthropic / OpenAI integrations. Best fit for founders who need a working first version of something real, not a deck. Contact via jaredhmn@gmail.com or Upwork/Fiverr.
+
 ### Coming soon
 
 - **The Show**: A live call-in podcast modeled after old-school radio. Ordinary people, extraordinary stories — unscripted, judgment-free. Waitlist open at https://thehumanfrequency.net/thf-podcast. No firm launch date.
