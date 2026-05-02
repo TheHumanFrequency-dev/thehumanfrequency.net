@@ -11,45 +11,102 @@
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
 <link rel="apple-touch-icon" sizes="180x180" href="/favicon-180.png">
 <meta name="theme-color" content="#0a0e1a">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+
+
 <meta property="og:type" content="website">
 <meta property="og:url" content="https://thehumanfrequency.net/404">
 <meta property="og:title" content="Page not found — The Human Frequency">
 <meta property="og:description" content="That page isn't here. Try the Human OS Wiki, the store, or head back home.">
 <meta property="og:image" content="https://thehumanfrequency.net/og-image.png">
 <meta property="og:site_name" content="The Human Frequency">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="Page not found — The Human Frequency">
+<meta property="twitter:description" content="That page isn't here. Try the Human OS Wiki, the store, or head back home.">
+<meta property="twitter:image" content="https://thehumanfrequency.net/og-image.png">
+<link rel="canonical" href="https://thehumanfrequency.net/404">
 
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+
 
 <style>
+/* === Reset === */
 *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+/* === Brand variables === */
 :root {
   --navy: #0a0e1a; --navy2: #0d1426; --navy3: #111827;
   --orange: #ff4500; --orange2: #ff6b35; --gold: #c9a84c; --magenta: #e91e8c;
   --cream: #f5f0e8; --text: #e8e8e8; --muted: #8892a4; --border: rgba(255,255,255,0.08);
 }
+
+/* === Base === */
 html { scroll-behavior: smooth; }
-body {
-  background: var(--navy); color: var(--text);
-  font-family: 'DM Sans', sans-serif; line-height: 1.6;
-  min-height: 100vh; display: flex; flex-direction: column;
-}
+body { background: var(--navy); color: var(--text); font-family: 'DM Sans', sans-serif; overflow-x: hidden; line-height: 1.6; }
 
+/* === Scroll reveal (used everywhere) === */
+.reveal { opacity: 0; transform: translateY(28px); transition: opacity 0.6s ease, transform 0.6s ease; }
+.reveal.visible { opacity: 1; transform: translateY(0); }
+.reveal-delay-1 { transition-delay: 0.08s; }
+.reveal-delay-2 { transition-delay: 0.16s; }
+.reveal-delay-3 { transition-delay: 0.24s; }
+
+/* === Announce bar === */
 .announce-bar { background: linear-gradient(90deg, var(--orange), var(--magenta)); text-align: center; padding: 10px 24px; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.12em; color: white; }
-.announce-bar a { color: white; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.4); }
+.announce-bar a { color: white; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.4); transition: border-color 0.2s; }
+.announce-bar a:hover { border-color: white; }
 
-nav { display: flex; align-items: center; justify-content: space-between; padding: 14px 40px; background: var(--navy); border-bottom: 1px solid var(--border); }
+/* === Nav === */
+nav { display: flex; align-items: center; justify-content: space-between; padding: 14px 40px; background: var(--navy); position: sticky; top: 0; z-index: 100; border-bottom: 1px solid var(--border); }
 .nav-logo { display: flex; align-items: center; gap: 12px; text-decoration: none; }
 .nav-logo-icon { width: 46px; height: 46px; border-radius: 50%; flex-shrink: 0; background: linear-gradient(135deg, #0d1426, #1a0e20); border: 1.5px solid rgba(255,69,0,0.5); display: flex; align-items: center; justify-content: center; }
 .nav-logo-icon svg { width: 26px; height: 26px; }
+.nav-logo-text { display: flex; flex-direction: column; }
 .nav-logo-text .brand { font-family: 'Bebas Neue', sans-serif; font-size: 1.05rem; letter-spacing: 0.08em; color: white; line-height: 1; }
 .nav-logo-text .brand span { color: var(--orange); }
 .nav-logo-text .tagline { font-size: 0.58rem; letter-spacing: 0.2em; color: var(--muted); text-transform: uppercase; }
 .nav-links { display: flex; align-items: center; gap: 32px; list-style: none; }
 .nav-links a { color: var(--text); text-decoration: none; font-size: 0.78rem; letter-spacing: 0.12em; font-weight: 500; transition: color 0.2s; }
-.nav-links a:hover { color: var(--orange); }
+.nav-links a:hover, .nav-links a.active { color: var(--orange); }
 .btn-nav { background: linear-gradient(135deg, var(--orange), var(--magenta)); color: white !important; padding: 10px 22px; border-radius: 50px; font-weight: 600 !important; }
+
+/* === Footer === */
+footer { background: var(--navy2); border-top: 1px solid var(--border); padding: 60px 40px 32px; }
+.footer-grid { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 2fr 1fr 1fr 1fr 1fr; gap: 36px; margin-bottom: 48px; }
+.footer-brand-name { font-family: 'Bebas Neue', sans-serif; font-size: 1.25rem; letter-spacing: 0.08em; color: white; margin-bottom: 4px; }
+.footer-brand-name span { color: var(--orange); }
+.footer-tagline { font-size: 0.58rem; letter-spacing: 0.2em; color: var(--orange); font-weight: 600; text-transform: uppercase; margin-bottom: 14px; }
+.footer-desc { font-size: 0.83rem; color: var(--muted); line-height: 1.65; margin-bottom: 20px; }
+.footer-socials { display: flex; gap: 10px; flex-wrap: wrap; }
+.social-btn { width: 36px; height: 36px; background: var(--navy3); border: 1px solid var(--border); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: var(--muted); text-decoration: none; font-size: 0.85rem; transition: border-color 0.2s, color 0.2s; }
+.social-btn:hover { border-color: var(--orange); color: var(--orange); }
+.footer-col h4 { font-family: 'Bebas Neue', sans-serif; letter-spacing: 0.12em; font-size: 0.88rem; color: white; margin-bottom: 16px; }
+.footer-col ul { list-style: none; display: flex; flex-direction: column; gap: 10px; }
+.footer-col ul li a { color: var(--muted); text-decoration: none; font-size: 0.83rem; transition: color 0.2s; }
+.footer-col ul li a:hover { color: var(--orange); }
+.footer-bottom { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; border-top: 1px solid var(--border); padding-top: 24px; font-size: 0.73rem; color: var(--muted); }
+.footer-bottom a { color: var(--orange); text-decoration: none; }
+
+/* === Mobile shared === */
+@media (max-width: 768px) {
+  nav { padding: 12px 18px; }
+  .nav-logo-icon { width: 38px; height: 38px; }
+  .nav-logo-icon svg { width: 20px; height: 20px; }
+  .nav-logo-text .tagline { display: none; }
+  .nav-links { gap: 14px; }
+  .nav-links li:nth-child(1), .nav-links li:nth-child(2), .nav-links li:nth-child(3) { display: none; }
+  .nav-links a { font-size: 0.7rem; }
+  .btn-nav { padding: 8px 14px; font-size: 0.68rem !important; }
+  .announce-bar { font-size: 0.68rem; letter-spacing: 0.06em; padding: 8px 16px; }
+  footer { padding: 48px 20px 24px; }
+  .footer-grid { grid-template-columns: 1fr 1fr; gap: 32px; }
+  .footer-bottom { flex-direction: column; gap: 8px; text-align: center; }
+}
+@media (max-width: 480px) {
+  .footer-grid { grid-template-columns: 1fr; gap: 28px; }
+}
+
 
 main {
   flex: 1; display: flex; flex-direction: column;
@@ -62,6 +119,8 @@ main::before {
               radial-gradient(ellipse at 80% 20%, rgba(233,30,140,0.06) 0%, transparent 50%);
   pointer-events: none; z-index: -1;
 }
+
+body { min-height: 100vh; display: flex; flex-direction: column; }
 
 .eyebrow { font-size: 0.7rem; letter-spacing: 0.25em; color: var(--orange); font-weight: 700; margin-bottom: 18px; text-transform: uppercase; display: inline-flex; align-items: center; gap: 12px; }
 .eyebrow::before, .eyebrow::after { content: ''; width: 28px; height: 1px; background: var(--orange); opacity: 0.6; }
@@ -93,33 +152,24 @@ h2 { font-family: 'Bebas Neue', sans-serif; font-size: clamp(28px, 4vw, 44px); l
 .sugg-card h3 { font-family: 'Bebas Neue', sans-serif; letter-spacing: 0.06em; font-size: 1rem; color: white; margin-bottom: 6px; }
 .sugg-card p { font-size: 0.8rem; color: var(--muted); line-height: 1.55; }
 
-footer { background: var(--navy2); border-top: 1px solid var(--border); padding: 28px 40px; text-align: center; font-size: 0.73rem; color: var(--muted); }
-footer a { color: var(--orange); text-decoration: none; }
-
 @media (max-width: 768px) {
-  nav { padding: 12px 18px; }
-  .nav-logo-icon { width: 38px; height: 38px; }
-  .nav-logo-icon svg { width: 20px; height: 20px; }
-  .nav-logo-text .tagline { display: none; }
-  .nav-links { gap: 14px; }
-  .nav-links li:nth-child(1), .nav-links li:nth-child(2), .nav-links li:nth-child(3) { display: none; }
-  .btn-nav { padding: 8px 14px; font-size: 0.68rem !important; }
-  .announce-bar { font-size: 0.68rem; letter-spacing: 0.06em; padding: 8px 16px; }
-
   main { padding: 56px 20px; }
   .actions { flex-direction: column; width: 100%; max-width: 280px; }
   .btn-primary, .btn-outline { width: 100%; text-align: center; }
   .sugg-grid { grid-template-columns: 1fr; gap: 12px; }
-  footer { padding: 24px 20px; }
 }
+
 </style>
 </head>
 <body>
 
+<!-- ANNOUNCE -->
 <div class="announce-bar">
   🎙 A LIVE CALL-IN SHOW IS COMING — <a href='/thf-podcast'>JOIN THE WAITLIST →</a>
 </div>
 
+
+<!-- NAV -->
 <nav>
   <a class='nav-logo' href='/'>
     <div class="nav-logo-icon">
@@ -139,9 +189,11 @@ footer a { color: var(--orange); text-decoration: none; }
     <li><a href='/thf-store'>THE STORE</a></li>
     <li><a href='/human-os/'>WIKI</a></li>
     <li><a href='/about'>ABOUT</a></li>
-    <li><a href="/#newsletter" class="btn-nav">TUNE IN</a></li>
+    <li><a class="btn-nav" href='/#newsletter'>TUNE IN</a></li>
   </ul>
 </nav>
+
+
 
 <main>
   <div class="eyebrow">404 · WRONG FREQUENCY</div>
@@ -176,9 +228,65 @@ footer a { color: var(--orange); text-decoration: none; }
   </div>
 </main>
 
+
+<!-- FOOTER -->
 <footer>
-  <span>© 2026 The Human Frequency · <a href="https://thehumanfrequency.net">thehumanfrequency.net</a></span>
+  <div class="footer-grid">
+    <div>
+      <div class="footer-brand-name">THE HUMAN <span>FREQUENCY</span></div>
+      <div class="footer-tagline">FIND COMMON GROUND</div>
+      <p class="footer-desc">A behavioral science brand publishing operating systems for being human. Guides, tools, and a live show — built on one belief: humanity has more in common than it knows.</p>
+      <div class="footer-socials">
+        <a href="https://www.youtube.com/@TheHumanFrequency" target="_blank" rel="noopener" class="social-btn" title="YouTube">▶</a>
+        <a href="https://www.instagram.com/thehumanfrequency" target="_blank" rel="noopener" class="social-btn" title="Instagram">◈</a>
+        <a href="https://www.tiktok.com/@thehumanfrequency" target="_blank" rel="noopener" class="social-btn" title="TikTok">♪</a>
+        <a href="https://open.spotify.com/show/thehumanfrequency" target="_blank" rel="noopener" class="social-btn" title="Spotify">⬤</a>
+        <a href="https://podcasts.apple.com/podcast/the-human-frequency" target="_blank" rel="noopener" class="social-btn" title="Apple Podcasts">🎙</a>
+      </div>
+    </div>
+    <div class="footer-col">
+      <h4>THE SHOW</h4>
+      <ul>
+        <li><a href='/thf-podcast'>About the Show</a></li>
+        <li><a href='/#newsletter'>Get Notified</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>THE STORE</h4>
+      <ul>
+        <li><a href='/thf-store'>All Guides</a></li>
+        <li><a href="https://thehumanfrequency.gumroad.com/l/lwawbf" target="_blank" rel="noopener">Self-Care Guide</a></li>
+        <li><a href="https://thehumanfrequency.gumroad.com/l/xigwwn" target="_blank" rel="noopener">Parenting Guide</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>HUMAN OS WIKI</h4>
+      <ul>
+        <li><a href='/human-os/'>All wiki pages</a></li>
+        <li><a href='/human-os/fawn-response'>Fawn Response</a></li>
+        <li><a href='/human-os/cyclic-sighing'>Cyclic Sighing</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>ABOUT</h4>
+      <ul>
+        <li><a href='/about'>About THF</a></li>
+        <li><a href='/#mission'>Our Mission</a></li>
+        <li><a href='/#apps'>Tools &amp; Services</a></li>
+        <li><a href="mailto:jaredhmn@gmail.com">Contact</a></li>
+      </ul>
+    </div>
+  </div>
+  <div class="footer-bottom">
+    <span>© 2026 The Human Frequency · <a href="https://thehumanfrequency.net">thehumanfrequency.net</a></span>
+    <span>Built with empathy.</span>
+  </div>
 </footer>
+
+
+
+
+
 
 </body>
 </html>

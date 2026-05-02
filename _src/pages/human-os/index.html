@@ -1,33 +1,16 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-<meta charset="UTF-8">
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>The Human OS Wiki — The Human Frequency</title>
-<meta name="description" content="A free, evergreen wiki of operating systems for being human. 28 pages covering nervous system regulation, ND parenting, difficult conversations, and decision-making — sourced strictly from peer-reviewed work.">
-<link rel="icon" type="image/x-icon" href="/favicon.ico">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16.png">
-<link rel="apple-touch-icon" sizes="180x180" href="/favicon-180.png">
-<meta name="theme-color" content="#0a0e1a">
-<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Sans:ital,wght@0,400;0,500;0,600;1,400&family=Playfair+Display:ital@1&display=swap" rel="stylesheet">
+{% extends "base.html" %}
 
+{% set title = "The Human OS Wiki — The Human Frequency" %}
+{% set description = "A free, evergreen wiki of operating systems for being human. 28 pages covering nervous system regulation, ND parenting, difficult conversations, and decision-making — sourced strictly from peer-reviewed work." %}
+{% set canonical_url = "https://thehumanfrequency.net/human-os/" %}
+{% set og_title = "The Human OS Wiki — The Human Frequency" %}
+{% set og_description = "28 pages of operating systems for being human. Mechanism, protocol, printable. Sourced from peer-reviewed work." %}
+{% set twitter_title = "The Human OS Wiki" %}
+{% set twitter_description = "Operating systems for being human. Free. Evergreen. Cited." %}
+{% set active_page = "wiki" %}
+{% set tune_in_href = "/#newsletter" %}
 
-<meta property="og:type" content="website">
-<meta property="og:url" content="https://thehumanfrequency.net/human-os/">
-<meta property="og:title" content="The Human OS Wiki — The Human Frequency">
-<meta property="og:description" content="28 pages of operating systems for being human. Mechanism, protocol, printable. Sourced from peer-reviewed work.">
-<meta property="og:image" content="https://thehumanfrequency.net/og-image.png">
-<meta property="og:site_name" content="The Human Frequency">
-<meta property="twitter:card" content="summary_large_image">
-<meta property="twitter:title" content="The Human OS Wiki">
-<meta property="twitter:description" content="Operating systems for being human. Free. Evergreen. Cited.">
-<meta property="twitter:image" content="https://thehumanfrequency.net/og-image.png">
-<link rel="canonical" href="https://thehumanfrequency.net/human-os/">
-
-
+{% block head_extra %}
 <script type="application/ld+json">
 {
   "@context": "https://schema.org",
@@ -42,86 +25,9 @@
   }
 }
 </script>
+{% endblock %}
 
-
-<style>
-/* === Reset === */
-*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
-
-/* === Brand variables === */
-:root {
-  --navy: #0a0e1a; --navy2: #0d1426; --navy3: #111827;
-  --orange: #ff4500; --orange2: #ff6b35; --gold: #c9a84c; --magenta: #e91e8c;
-  --cream: #f5f0e8; --text: #e8e8e8; --muted: #8892a4; --border: rgba(255,255,255,0.08);
-}
-
-/* === Base === */
-html { scroll-behavior: smooth; }
-body { background: var(--navy); color: var(--text); font-family: 'DM Sans', sans-serif; overflow-x: hidden; line-height: 1.6; }
-
-/* === Scroll reveal (used everywhere) === */
-.reveal { opacity: 0; transform: translateY(28px); transition: opacity 0.6s ease, transform 0.6s ease; }
-.reveal.visible { opacity: 1; transform: translateY(0); }
-.reveal-delay-1 { transition-delay: 0.08s; }
-.reveal-delay-2 { transition-delay: 0.16s; }
-.reveal-delay-3 { transition-delay: 0.24s; }
-
-/* === Announce bar === */
-.announce-bar { background: linear-gradient(90deg, var(--orange), var(--magenta)); text-align: center; padding: 10px 24px; font-size: 0.78rem; font-weight: 600; letter-spacing: 0.12em; color: white; }
-.announce-bar a { color: white; text-decoration: none; border-bottom: 1px solid rgba(255,255,255,0.4); transition: border-color 0.2s; }
-.announce-bar a:hover { border-color: white; }
-
-/* === Nav === */
-nav { display: flex; align-items: center; justify-content: space-between; padding: 14px 40px; background: var(--navy); position: sticky; top: 0; z-index: 100; border-bottom: 1px solid var(--border); }
-.nav-logo { display: flex; align-items: center; gap: 12px; text-decoration: none; }
-.nav-logo-icon { width: 46px; height: 46px; border-radius: 50%; flex-shrink: 0; background: linear-gradient(135deg, #0d1426, #1a0e20); border: 1.5px solid rgba(255,69,0,0.5); display: flex; align-items: center; justify-content: center; }
-.nav-logo-icon svg { width: 26px; height: 26px; }
-.nav-logo-text { display: flex; flex-direction: column; }
-.nav-logo-text .brand { font-family: 'Bebas Neue', sans-serif; font-size: 1.05rem; letter-spacing: 0.08em; color: white; line-height: 1; }
-.nav-logo-text .brand span { color: var(--orange); }
-.nav-logo-text .tagline { font-size: 0.58rem; letter-spacing: 0.2em; color: var(--muted); text-transform: uppercase; }
-.nav-links { display: flex; align-items: center; gap: 32px; list-style: none; }
-.nav-links a { color: var(--text); text-decoration: none; font-size: 0.78rem; letter-spacing: 0.12em; font-weight: 500; transition: color 0.2s; }
-.nav-links a:hover, .nav-links a.active { color: var(--orange); }
-.btn-nav { background: linear-gradient(135deg, var(--orange), var(--magenta)); color: white !important; padding: 10px 22px; border-radius: 50px; font-weight: 600 !important; }
-
-/* === Footer === */
-footer { background: var(--navy2); border-top: 1px solid var(--border); padding: 60px 40px 32px; }
-.footer-grid { max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 2fr 1fr 1fr 1fr 1fr; gap: 36px; margin-bottom: 48px; }
-.footer-brand-name { font-family: 'Bebas Neue', sans-serif; font-size: 1.25rem; letter-spacing: 0.08em; color: white; margin-bottom: 4px; }
-.footer-brand-name span { color: var(--orange); }
-.footer-tagline { font-size: 0.58rem; letter-spacing: 0.2em; color: var(--orange); font-weight: 600; text-transform: uppercase; margin-bottom: 14px; }
-.footer-desc { font-size: 0.83rem; color: var(--muted); line-height: 1.65; margin-bottom: 20px; }
-.footer-socials { display: flex; gap: 10px; flex-wrap: wrap; }
-.social-btn { width: 36px; height: 36px; background: var(--navy3); border: 1px solid var(--border); border-radius: 8px; display: flex; align-items: center; justify-content: center; color: var(--muted); text-decoration: none; font-size: 0.85rem; transition: border-color 0.2s, color 0.2s; }
-.social-btn:hover { border-color: var(--orange); color: var(--orange); }
-.footer-col h4 { font-family: 'Bebas Neue', sans-serif; letter-spacing: 0.12em; font-size: 0.88rem; color: white; margin-bottom: 16px; }
-.footer-col ul { list-style: none; display: flex; flex-direction: column; gap: 10px; }
-.footer-col ul li a { color: var(--muted); text-decoration: none; font-size: 0.83rem; transition: color 0.2s; }
-.footer-col ul li a:hover { color: var(--orange); }
-.footer-bottom { max-width: 1200px; margin: 0 auto; display: flex; align-items: center; justify-content: space-between; border-top: 1px solid var(--border); padding-top: 24px; font-size: 0.73rem; color: var(--muted); }
-.footer-bottom a { color: var(--orange); text-decoration: none; }
-
-/* === Mobile shared === */
-@media (max-width: 768px) {
-  nav { padding: 12px 18px; }
-  .nav-logo-icon { width: 38px; height: 38px; }
-  .nav-logo-icon svg { width: 20px; height: 20px; }
-  .nav-logo-text .tagline { display: none; }
-  .nav-links { gap: 14px; }
-  .nav-links li:nth-child(1), .nav-links li:nth-child(2), .nav-links li:nth-child(3) { display: none; }
-  .nav-links a { font-size: 0.7rem; }
-  .btn-nav { padding: 8px 14px; font-size: 0.68rem !important; }
-  .announce-bar { font-size: 0.68rem; letter-spacing: 0.06em; padding: 8px 16px; }
-  footer { padding: 48px 20px 24px; }
-  .footer-grid { grid-template-columns: 1fr 1fr; gap: 32px; }
-  .footer-bottom { flex-direction: column; gap: 8px; text-align: center; }
-}
-@media (max-width: 480px) {
-  .footer-grid { grid-template-columns: 1fr; gap: 28px; }
-}
-
-
+{% block page_styles %}
 .hero { max-width: 1100px; margin: 0 auto; padding: 80px 24px 56px; text-align: center; position: relative; }
 .hero::before {
   content: ''; position: absolute; inset: 0;
@@ -201,43 +107,9 @@ footer { background: var(--navy2); border-top: 1px solid var(--border); padding:
   .nl-form input { border-radius: 12px; }
   .nl-form .btn-primary { border-radius: 12px; width: 100%; }
 }
+{% endblock %}
 
-</style>
-</head>
-<body>
-
-<!-- ANNOUNCE -->
-<div class="announce-bar">
-  🎙 A LIVE CALL-IN SHOW IS COMING — <a href='/thf-podcast'>JOIN THE WAITLIST →</a>
-</div>
-
-
-<!-- NAV -->
-<nav>
-  <a class='nav-logo' href='/'>
-    <div class="nav-logo-icon">
-      <svg viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
-        <path d="M2 13 Q5 7, 8 13 Q11 19, 13 13 Q15 7, 18 13 Q21 19, 24 13" stroke="url(#lg)" stroke-width="2" stroke-linecap="round" fill="none"/>
-        <defs><linearGradient id="lg" x1="2" y1="13" x2="24" y2="13" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#ff4500"/><stop offset="100%" stop-color="#e91e8c"/></linearGradient></defs>
-      </svg>
-    </div>
-    <div class="nav-logo-text">
-      <span class="brand">THE HUMAN <span>FREQUENCY</span></span>
-      <span class="tagline">Find Common Ground</span>
-    </div>
-  </a>
-  <ul class="nav-links">
-    <li><a href='/#mission'>MISSION</a></li>
-    <li><a href='/thf-podcast'>THE SHOW</a></li>
-    <li><a href='/thf-store'>THE STORE</a></li>
-    <li><a class='active' href='/human-os/'>WIKI</a></li>
-    <li><a href='/about'>ABOUT</a></li>
-    <li><a class="btn-nav" href='/#newsletter'>TUNE IN</a></li>
-  </ul>
-</nav>
-
-
-
+{% block content %}
 <header class="hero">
   <div class="hero-eyebrow">THE HUMAN OS WIKI</div>
   <h1>OPERATING <span class="grad">SYSTEMS</span> FOR BEING HUMAN</h1>
@@ -357,121 +229,6 @@ footer { background: var(--navy2); border-top: 1px solid var(--border); padding:
     <p class="nl-note">No spam, ever.</p>
   </div>
 </section>
+{% endblock %}
 
-
-<!-- FOOTER -->
-<footer>
-  <div class="footer-grid">
-    <div>
-      <div class="footer-brand-name">THE HUMAN <span>FREQUENCY</span></div>
-      <div class="footer-tagline">FIND COMMON GROUND</div>
-      <p class="footer-desc">A behavioral science brand publishing operating systems for being human. Guides, tools, and a live show — built on one belief: humanity has more in common than it knows.</p>
-      <div class="footer-socials">
-        <a href="https://www.youtube.com/@TheHumanFrequency" target="_blank" rel="noopener" class="social-btn" title="YouTube">▶</a>
-        <a href="https://www.instagram.com/thehumanfrequency" target="_blank" rel="noopener" class="social-btn" title="Instagram">◈</a>
-        <a href="https://www.tiktok.com/@thehumanfrequency" target="_blank" rel="noopener" class="social-btn" title="TikTok">♪</a>
-        <a href="https://open.spotify.com/show/thehumanfrequency" target="_blank" rel="noopener" class="social-btn" title="Spotify">⬤</a>
-        <a href="https://podcasts.apple.com/podcast/the-human-frequency" target="_blank" rel="noopener" class="social-btn" title="Apple Podcasts">🎙</a>
-      </div>
-    </div>
-    <div class="footer-col">
-      <h4>THE SHOW</h4>
-      <ul>
-        <li><a href='/thf-podcast'>About the Show</a></li>
-        <li><a href='/#newsletter'>Get Notified</a></li>
-      </ul>
-    </div>
-    <div class="footer-col">
-      <h4>THE STORE</h4>
-      <ul>
-        <li><a href='/thf-store'>All Guides</a></li>
-        <li><a href="https://thehumanfrequency.gumroad.com/l/lwawbf" target="_blank" rel="noopener">Self-Care Guide</a></li>
-        <li><a href="https://thehumanfrequency.gumroad.com/l/xigwwn" target="_blank" rel="noopener">Parenting Guide</a></li>
-      </ul>
-    </div>
-    <div class="footer-col">
-      <h4>HUMAN OS WIKI</h4>
-      <ul>
-        <li><a href='/human-os/'>All wiki pages</a></li>
-        <li><a href='/human-os/fawn-response'>Fawn Response</a></li>
-        <li><a href='/human-os/cyclic-sighing'>Cyclic Sighing</a></li>
-      </ul>
-    </div>
-    <div class="footer-col">
-      <h4>ABOUT</h4>
-      <ul>
-        <li><a href='/about'>About THF</a></li>
-        <li><a href='/#mission'>Our Mission</a></li>
-        <li><a href='/#apps'>Tools &amp; Services</a></li>
-        <li><a href="mailto:jaredhmn@gmail.com">Contact</a></li>
-      </ul>
-    </div>
-  </div>
-  <div class="footer-bottom">
-    <span>© 2026 The Human Frequency · <a href="https://thehumanfrequency.net">thehumanfrequency.net</a></span>
-    <span>Built with empathy.</span>
-  </div>
-</footer>
-
-
-
-
-
-<script>
-// ===== BEEHIIV SUBSCRIBE (proxied via /api/subscribe — no key in client) =====
-async function beehiivSubscribe(form, tag) {
-  const input = form.querySelector('input[type="email"]');
-  const btn = form.querySelector('button');
-  const honeypot = form.querySelector('input[name="bot-field"]');
-  const email = input ? input.value.trim() : '';
-  if (!email || !email.includes('@')) {
-    if (input) { input.style.borderColor = 'rgba(255,69,0,0.7)'; input.placeholder = 'Enter a valid email'; }
-    return;
-  }
-  btn.textContent = 'Joining...';
-  btn.disabled = true;
-  input.disabled = true;
-  try {
-    const res = await fetch('/api/subscribe', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json' },
-      body: JSON.stringify({ email, utm_source: tag, bot_field: honeypot ? honeypot.value : '' })
-    });
-    const data = await res.json().catch(() => ({}));
-    if (res.ok && data && data.ok) {
-      btn.textContent = "✓ You're In!";
-      btn.style.opacity = '0.8';
-    } else {
-      throw new Error('subscribe failed');
-    }
-  } catch(err) {
-    btn.textContent = 'Try Again';
-    btn.disabled = false;
-    input.disabled = false;
-  }
-}
-
-// ===== SHARED SCROLL REVEAL =====
-(function() {
-  const els = document.querySelectorAll('.reveal');
-  if (!els.length) return;
-  const obs = new IntersectionObserver((entries) => {
-    entries.forEach(e => {
-      if (e.isIntersecting) { e.target.classList.add('visible'); obs.unobserve(e.target); }
-    });
-  }, { threshold: 0.1 });
-  els.forEach(el => obs.observe(el));
-})();
-
-// ===== SHARED BACK TO TOP =====
-window.addEventListener('scroll', () => {
-  const bt = document.getElementById('back-top');
-  if (bt) bt.style.opacity = window.scrollY > 400 ? '1' : '0';
-});
-
-
-</script>
-
-
-</body>
-</html>
+{% block back_to_top %}{% endblock %}

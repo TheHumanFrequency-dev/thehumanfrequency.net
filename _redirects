@@ -1,0 +1,10 @@
+# Cloudflare Pages redirects — https://developers.cloudflare.com/pages/configuration/redirects/
+# Format: <from> <to> <status>
+
+# Block public access to build sources. Templates contain Jinja2 syntax
+# that is meaningless without rendering.
+/_src/*  /404.html  404
+/_src    /404.html  404
+
+# Block public access to build scripts and source content.
+/scripts/*  /404.html  404

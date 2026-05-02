@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>{{ title }}</title>
+<meta name="description" content="{{ description }}">
+{%- if noindex %}
+<meta name="robots" content="noindex">
+{%- endif %}
+{% include "partials/head_assets.html" %}
+
+<meta property="og:type" content="{{ og_type | default('website') }}">
+<meta property="og:url" content="{{ canonical_url }}">
+<meta property="og:title" content="{{ og_title | default(title) }}">
+<meta property="og:description" content="{{ og_description | default(description) }}">
+<meta property="og:image" content="{{ og_image | default('https://thehumanfrequency.net/og-image.png') }}">
+<meta property="og:site_name" content="The Human Frequency">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:title" content="{{ twitter_title | default(og_title | default(title)) }}">
+<meta property="twitter:description" content="{{ twitter_description | default(og_description | default(description)) }}">
+<meta property="twitter:image" content="{{ twitter_image | default(og_image | default('https://thehumanfrequency.net/og-image.png')) }}">
+{%- if canonical_url %}
+<link rel="canonical" href="{{ canonical_url }}">
+{%- endif %}
+
+{% block head_extra %}{% endblock %}
+
+<style>
+{% include "partials/base_styles.html" %}
+{% block page_styles %}{% endblock %}
+</style>
+</head>
+<body>
+
+{% block announce_bar %}{% include "partials/announce_bar.html" %}{% endblock %}
+
+{% block nav %}{% include "partials/nav.html" %}{% endblock %}
+
+{% block content %}{% endblock %}
+
+{% block footer %}{% include "partials/footer.html" %}{% endblock %}
+
+{% block back_to_top %}{% include "partials/back_to_top.html" %}{% endblock %}
+
+{% block scripts %}
+<script>
+{% include "partials/beehiiv_subscribe.js" %}
+{% block page_scripts %}{% endblock %}
+</script>
+{% endblock %}
+
+</body>
+</html>

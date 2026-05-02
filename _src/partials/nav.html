@@ -1,0 +1,23 @@
+<!-- NAV -->
+<nav>
+  <a class='nav-logo' href='/'>
+    <div class="nav-logo-icon">
+      <svg viewBox="0 0 26 26" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M2 13 Q5 7, 8 13 Q11 19, 13 13 Q15 7, 18 13 Q21 19, 24 13" stroke="url(#lg)" stroke-width="2" stroke-linecap="round" fill="none"/>
+        <defs><linearGradient id="lg" x1="2" y1="13" x2="24" y2="13" gradientUnits="userSpaceOnUse"><stop offset="0%" stop-color="#ff4500"/><stop offset="100%" stop-color="#e91e8c"/></linearGradient></defs>
+      </svg>
+    </div>
+    <div class="nav-logo-text">
+      <span class="brand">THE HUMAN <span>FREQUENCY</span></span>
+      <span class="tagline">Find Common Ground</span>
+    </div>
+  </a>
+  <ul class="nav-links">
+    <li><a {% if active_page == "mission" %}class='active' {% endif %}href='/#mission'>MISSION</a></li>
+    <li><a {% if active_page == "show" %}class='active' {% endif %}href='/thf-podcast'>THE SHOW</a></li>
+    <li><a {% if active_page == "store" %}class='active' {% endif %}href='/thf-store'>THE STORE</a></li>
+    <li><a {% if active_page == "wiki" %}class='active' {% endif %}href='/human-os/'>WIKI</a></li>
+    <li><a {% if active_page == "about" %}class='active' {% endif %}href='/about'>ABOUT</a></li>
+    <li><a class="btn-nav" href='{{ tune_in_href | default("/#newsletter") }}'>TUNE IN</a></li>
+  </ul>
+</nav>
