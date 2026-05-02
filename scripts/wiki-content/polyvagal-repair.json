@@ -1,0 +1,168 @@
+{
+  "slug": "polyvagal-repair",
+  "page_num": "19",
+  "title": "Polyvagal Repair OS",
+  "title_pre_words": "POLYVAGAL",
+  "title_grad_word": "REPAIR OS",
+  "pillar": "UNDERSTANDING EACH OTHER",
+  "thesis": "When a conversation has triggered nervous-system shutdown — yours or theirs — words are not the lever. The body is. The three-step protocol that engages ventral vagal safety signals and reopens connection.",
+  "reading_time": "8 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Difficult Conversations, Ch. 2",
+  "date_published": "2026-05-01",
+  "meta_description": "Polyvagal Theory applied to conflict repair. The three-step protocol — co-regulate the body, project safety, then re-engage. Sourced from Difficult Conversations Ch. 2 (after Porges).",
+  "og_description": "When conversations shut down, words don't fix it. The body does. The polyvagal repair protocol.",
+  "twitter_description": "When conversations shut down, words don't fix it. The body does.",
+  "schema_keywords": "polyvagal theory, Stephen Porges, ventral vagal, conflict repair, neuroception, difficult conversation",
+  "pull_quote": {
+    "text": "Effective conflict resolution requires you to actively project cues of safety — maintaining an open posture, softening your eyes, speaking in a calm, melodic tone — to intentionally activate your counterpart's ventral vagal state. You are not just managing words; you are managing nervous systems.",
+    "cite": "— Difficult Conversations Playbook, Chapter 2 (after Porges)"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "The conversation was going well until it wasn't. Something landed wrong. Now the other person has gone silent, eyes down, voice flat. Or they've gone the other direction — voice raised, body forward, the words coming faster than they can process. You feel your own chest tighten. You try to repeat your point more clearly. They go further into shutdown or escalation. Words have stopped working."
+    },
+    {
+      "type": "p",
+      "text": "What just happened is a polyvagal state shift. Stephen Porges's Polyvagal Theory describes three neural circuits that govern how the body responds to perceived safety or threat. When the conversation triggered enough threat, one of you (or both) dropped out of ventral vagal — the social engagement circuit where calm, rational conversation happens — and into either sympathetic (fight/flight) or dorsal vagal (shutdown). Below ventral vagal, words are not the lever. The body is."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three concepts make polyvagal repair work."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Three circuits, three states.",
+      "rest": "Ventral vagal: connected, curious, open, capable of empathy and disagreement. Sympathetic: mobilized, raised voice, rapid argumentation, rigid body. Dorsal vagal: collapsed, withdrawn, silent, dissociated. Successful conversation happens in ventral vagal. The first job of repair is getting both nervous systems back there."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Neuroception is automatic.",
+      "rest": "Porges's term for the subconscious threat-scanning that runs constantly underneath your awareness. You read someone's micro-expression, sigh, or vocal tone before you finish processing their words. Most conversations escalate not because of what was said but because of what neuroception detected. Repair requires sending different cues, not arguing better."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Co-regulation outperforms self-regulation.",
+      "rest": "When one nervous system in a dyad is regulated, it pulls the other toward regulation. The DC Playbook is explicit: \"You are not just managing words; you are managing nervous systems.\" Your tone, posture, breath, and eye contact are sending signals into your counterpart's neuroception in real time. Lead with your body, then with your words."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE THREE STATES",
+      "figure": "Ventral · Sympathetic · Dorsal — words only work in ventral",
+      "cite": "Porges, S. W. (2011), <em>The Polyvagal Theory.</em> Operationalized in Difficult Conversations Ch. 2 — words are processed differently in each autonomic state; conflict resolution requires the conversation to happen in ventral vagal."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. The first three are your own regulation; the last two are co-regulation back into shared ventral vagal."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Notice the shift — yours and theirs",
+      "body": "The pause is the protocol. Before saying anything else, scan: where are you on the autonomic ladder? Where is the other person? Sympathetic shows in raised voice, fast speech, forward posture, narrowed eyes. Dorsal vagal shows in silence, downward gaze, monotone voice, withdrawn body. Ventral vagal shows in open eyes, melodic vocal range, present body. If either of you is out of ventral, do not press the substantive point.",
+      "tip": "If you notice you've shifted into sympathetic before they have, that's information you can use. Slow your breath, drop your shoulders, soften your eyes — your body changing first often pulls theirs along."
+    },
+    {
+      "name": "Regulate your own body first",
+      "body": "Three slow exhales. Drop your shoulders explicitly. Soften your jaw and eyes. Open your hands if they were clenched or pointing. The body cues you send out are read by their neuroception in seconds. Trying to verbally calm someone whose nervous system is reading your tense body as threat is a contradiction the body wins.",
+      "tip": "If you can, sit down. If you're already sitting, lean back slightly. Vertical drop in your physical position is a strong safety signal — it's the opposite of the predator stance."
+    },
+    {
+      "name": "Project safety — tone, eyes, prosody",
+      "body": "Speak slower than you want to. Drop your pitch. Use what Porges calls \"prosodic vocal range\" — the melodic, slightly singsong quality of safe human speech. Maintain soft eye contact (not staring; the difference matters). Acknowledge that something has shifted: \"I notice this got hard. I want to slow down for a second.\" The acknowledgment itself is a safety cue.",
+      "tip": "Avoid the \"calm voice that sounds patronizing\" trap. The difference is genuineness — you are actually calming, not performing calm at them."
+    },
+    {
+      "name": "Name the state, offer the pause",
+      "body": "If they're still not back in ventral, name what's happening explicitly without diagnosing them: \"I think we're both pretty activated right now. Would it help to take five minutes and come back?\" The pause is a tool, not a defeat. Coming back five minutes later in ventral vagal accomplishes more than another 30 minutes of escalating attempts to push through.",
+      "tip": "If they don't want a pause, don't force it. Stay with the conversation but at a much slower pace. Your continued ventral presence may pull them back without an explicit break."
+    },
+    {
+      "name": "Reconnect before re-engaging the substance",
+      "body": "Before returning to the disagreement, send one signal of relatedness: \"We're on the same side here.\" \"I want this to work for both of us.\" \"I'm not trying to win this; I'm trying to understand what's actually true.\" Even one sentence of explicit relatedness usually opens the door back to ventral. Then, and only then, return to the substance — slower, smaller bites.",
+      "tip": "If after all five steps you're still not back in ventral as a pair, the conversation is over for today. Schedule the next attempt explicitly. \"Let's come back to this Thursday\" is a better outcome than continuing past the point where words work."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Stick it on the back of your office door, the bathroom mirror, the inside of your laptop case. Use it before re-entering the conversation, not in the middle of escalation.",
+  "printable_card": {
+    "title": "POLYVAGAL REPAIR · 5 STEPS",
+    "subtitle": "Porges · DC Playbook Ch. 2",
+    "items": [
+      {
+        "num": "01 · NOTICE THE SHIFT",
+        "text": "Where are you on the ladder? Where are they?",
+        "help": "Sympathetic = mobilized. Dorsal = shutdown. Don't press in either."
+      },
+      {
+        "num": "02 · REGULATE YOUR BODY FIRST",
+        "text": "Three slow exhales. Drop shoulders. Soften jaw + eyes. Open hands.",
+        "help": "Body cues land in their neuroception in seconds."
+      },
+      {
+        "num": "03 · PROJECT SAFETY — TONE + EYES",
+        "text": "Slower speech. Lower pitch. Prosodic range. Soft eyes.",
+        "help": "Genuine, not performed."
+      },
+      {
+        "num": "04 · NAME + OFFER PAUSE",
+        "text": "\"I think we're both pretty activated. Want to take five?\"",
+        "help": "Pause is a tool, not a defeat."
+      },
+      {
+        "num": "05 · RECONNECT FIRST",
+        "text": "\"We're on the same side here.\" Then return to substance.",
+        "help": "Relatedness signal opens the door back to ventral."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · See store",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com",
+      "title": "The Difficult Conversations Playbook",
+      "body": "Chapter 2 covers Polyvagal Theory in clinical detail — the three neural circuits, neuroception, the autonomic ladder, and worked examples of state shifts in real workplace conflicts. Plus the Polyvagal Self-Map exercise.",
+      "cta": "Read the playbook →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/scarf-threat-audit",
+      "title": "SCARF Threat Audit OS",
+      "body": "Polyvagal repair handles state. SCARF handles the specific social threat that triggered the state in the first place. Use them together.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-polyvagal-newsletter",
+  "subscribe_source": "source-wiki-polyvagal",
+  "sources_intro": "All claims on this page are sourced from <em>The Difficult Conversations Playbook</em>, Chapter 2. Primary sources cited:",
+  "sources_list": [
+    "Porges, S. W. (2011). <em>The Polyvagal Theory: Neurophysiological Foundations of Emotions, Attachment, Communication, and Self-Regulation.</em>",
+    "Dana, D. (2018). <em>The Polyvagal Theory in Therapy.</em> The autonomic ladder framework.",
+    "Difficult Conversations Playbook Ch. 2 — Polyvagal Theory operationalized for conflict repair."
+  ],
+  "sources_outro": ""
+}

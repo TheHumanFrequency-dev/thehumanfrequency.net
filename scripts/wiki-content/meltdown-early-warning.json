@@ -1,0 +1,167 @@
+{
+  "slug": "meltdown-early-warning",
+  "page_num": "09",
+  "title": "Meltdown Early-Warning System",
+  "title_pre_words": "MELTDOWN",
+  "title_grad_word": "EARLY-WARNING",
+  "pillar": "UNDERSTANDING YOUR KIDS",
+  "thesis": "The signs are visible 20 minutes before the storm hits. The four-stage protocol that catches a meltdown in agitation, when intervention still works — instead of in crisis, when nothing does.",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Survival Blueprint, Ch. 6",
+  "date_published": "2026-05-01",
+  "meta_description": "The four stages of an ND meltdown — agitation, escalation, crisis peak, recovery — and what to do at each. Catch it early. Sourced from Survival Blueprint Ch. 6.",
+  "og_description": "The signs are visible 20 minutes before the storm hits. The four-stage protocol that catches a meltdown early.",
+  "twitter_description": "Meltdowns have four stages. The early warning is the only one where intervention still works.",
+  "schema_keywords": "ND meltdown, ADHD meltdown, autism meltdown, de-escalation, early warning signs, parenting",
+  "pull_quote": {
+    "text": "Meltdowns peak and recede. Typical duration: 15-45 minutes. Your only job during the peak is safety. Your real job is recognizing Stage 1 — when intervention still works.",
+    "cite": "— The Survival Blueprint, Chapter 6"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "By the time most parents notice the meltdown, the meltdown is already at full volume. The shouting, the throwing, the inability to communicate — that's Stage 3. Crisis peak. The point at which nothing you say lands and your only job is safety."
+    },
+    {
+      "type": "p",
+      "text": "But Stage 3 didn't appear out of nowhere. Stage 1 — agitation — was visible 10 to 20 minutes earlier. Pacing. Increased volume on a question repeated three times. Flushed cheeks. Clenched fists. A tiny rise in voice pitch on a totally normal sentence. The brain was already escalating, and almost no parent catches it because almost no parent has a name for what they are seeing."
+    },
+    {
+      "type": "p",
+      "text": "The meltdown early-warning system gives you names for the stages, signs at each one, and what to do. The earlier you catch it, the less you have to manage."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Survival Blueprint Chapter 6 maps the meltdown into four stages, each with a different intervention. Two things drive the architecture."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "The brain becomes less accessible at each stage.",
+      "rest": "Stage 1 (agitation): the prefrontal cortex is partially online. The child can still hear words, make small choices, and accept comfort. Stage 2 (escalation): rational communication is collapsing. The amygdala has the wheel. Stage 3 (crisis peak): full neurological flood. No words land. Stage 4 (recovery): the storm is receding; the body is depleted. Different stage, different intervention."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Wrong stage, wrong intervention.",
+      "rest": "The mistake most parents make is using a Stage-1 intervention (talking, reasoning, offering choices) at Stage 3 — and then doubling down on it when the child can't respond. This is the same error as using a calming technique on someone in hypoarousal. The technique isn't wrong; the moment is."
+    },
+    {
+      "type": "stat_box",
+      "label": "WHAT THE PEAK LOOKS LIKE",
+      "figure": "15-45 minutes · then it recedes",
+      "cite": "Survival Blueprint Ch. 6 — typical meltdown duration is 15-45 minutes from full crisis peak to recovery onset. Resisting the peak (with reasoning, consequences, ultimatums) prolongs it. Maintaining a regulated nervous system shortens it."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. The first three are stage-recognition; the last two are recovery and post-meltdown debrief."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Stage 1 — Agitation: catch it here",
+      "body": "Signs: increased volume, pacing, fidgeting, repetitive questions, facial flushing, clenched fists, rapid breathing. The child is still partially accessible. Lower your voice below conversation level. Validate without analyzing: \"I can see something is bothering you. That's okay.\" Offer two choices, not three. Reduce sensory input — dim lights, turn off TV/music. Do not ask questions, lecture, or explain why they should calm down.",
+      "tip": "Stage 1 is the only stage where verbal intervention reliably works. If you miss this, you skip into a crisis you can't talk down."
+    },
+    {
+      "name": "Stage 2 — Escalation: stop talking",
+      "body": "Signs: yelling, throwing objects, threatening language, attempting to leave. Rational communication is becoming impossible. Stop talking entirely except: \"You are safe. I am here.\" Ensure physical safety — remove dangerous objects, direct other children to leave the room. Do not touch the child unless they are in immediate physical danger. Do not issue ultimatums, threats, or consequences.",
+      "tip": "Every word you add at Stage 2 makes the storm bigger. Six syllables, repeated as needed: \"You are safe. I am here.\""
+    },
+    {
+      "name": "Stage 3 — Crisis Peak: only safety matters",
+      "body": "Signs: uncontrollable rage or sobbing, physical aggression, complete loss of verbal coherence, property destruction. Full neurological crisis. Your only job is safety. Wait. Meltdowns peak and recede on their own — typically 15 to 45 minutes. Maintain a calm physical presence. Your regulated nervous system is the external regulation their brain cannot generate. If you must speak: \"I am here. You are safe. This will pass.\" Nothing else.",
+      "tip": "If you find yourself wanting to lecture, problem-solve, or issue consequences during Stage 3 — that's your nervous system trying to regain control. Don't. The child cannot hear you. Stay calm and wait."
+    },
+    {
+      "name": "Stage 4 — Recovery: comfort, do not debrief",
+      "body": "Signs: crying subsides, physical tension releases, exhaustion, confusion, possible shame. Offer comfort: water, blanket, comfort object, or quiet proximity. Do not debrief, lecture, or discuss what happened. Allow rest or sleep. Post-meltdown exhaustion is neurological — the brain has just done the equivalent of running a marathon.",
+      "tip": "The child often feels deeply ashamed in Stage 4. Avoid reinforcing the shame. \"You're safe. We're okay.\" is enough."
+    },
+    {
+      "name": "Next-day debrief — the only teaching moment",
+      "body": "The day after a meltdown is the only moment when teaching is possible. Use a simple script: \"Yesterday was hard. What do you remember feeling before it got really big? What might help next time?\" Listen more than you speak. Write down what they tell you — those are your future Stage 1 cues, named by them.",
+      "tip": "Children often cannot remember Stage 3. They can remember Stage 1. Mining their memory of the early-warning signs is the most useful thing the debrief produces."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Stick it on the fridge or the inside of the bedroom door. Use it during, not after.",
+  "printable_card": {
+    "title": "MELTDOWN STAGES · QUICK REFERENCE",
+    "subtitle": "Survival Blueprint Ch. 6",
+    "items": [
+      {
+        "num": "01 · STAGE 1 AGITATION — INTERVENE",
+        "text": "Pacing, flushed cheeks, clenched fists. Lower voice. Validate.",
+        "help": "Two choices, dim lights, no questions."
+      },
+      {
+        "num": "02 · STAGE 2 ESCALATION — STOP TALKING",
+        "text": "Yelling, throwing. \"You are safe. I am here.\" Six syllables only.",
+        "help": "Don't touch unless danger. No ultimatums."
+      },
+      {
+        "num": "03 · STAGE 3 CRISIS PEAK — SAFETY ONLY",
+        "text": "15-45 min. Wait. Maintain calm presence.",
+        "help": "\"I am here. You are safe. This will pass.\""
+      },
+      {
+        "num": "04 · STAGE 4 RECOVERY — COMFORT",
+        "text": "Water, blanket, quiet. Do not debrief.",
+        "help": "Allow rest. Don't lecture."
+      },
+      {
+        "num": "05 · NEXT DAY — TEACH HERE",
+        "text": "\"What do you remember feeling before it got big?\"",
+        "help": "Listen more than speak. Write what they say."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $17.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/xigwwn",
+      "title": "The Survival Blueprint",
+      "body": "Chapter 6 covers the full four-stage protocol with the Post-Meltdown debrief script, the De-Escalation Quick Reference Card (Tool 5), and how to coordinate with co-parents and teachers across stages.",
+      "cta": "Read the guide →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/validate-then-redirect",
+      "title": "Validate-Then-Redirect OS",
+      "body": "The Stage-1 intervention sequence in full — what to validate first, when to redirect, and what \"order matters\" actually means.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-meltdown-ews-newsletter",
+  "subscribe_source": "source-wiki-meltdown-ews",
+  "sources_intro": "All claims on this page are sourced from <em>The Survival Blueprint</em>, Chapter 6. Primary sources cited in the book:",
+  "sources_list": [
+    "Survival Blueprint Ch. 6 — The Four-Stage De-Escalation Protocol; meltdown duration of 15-45 minutes typical; co-regulation as primary mechanism.",
+    "Siegel, D. J. (2012). <em>The Whole-Brain Child.</em> Foundational on the prefrontal cortex going offline during emotional flooding.",
+    "Greene, R. W. (2014). <em>The Explosive Child.</em> Collaborative & Proactive Solutions framework underlying Stage 1 intervention."
+  ],
+  "sources_outro": ""
+}

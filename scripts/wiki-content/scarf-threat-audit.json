@@ -1,0 +1,163 @@
+{
+  "slug": "scarf-threat-audit",
+  "page_num": "18",
+  "title": "SCARF Threat Audit OS",
+  "title_pre_words": "SCARF",
+  "title_grad_word": "THREAT AUDIT",
+  "pillar": "UNDERSTANDING EACH OTHER",
+  "thesis": "Five social domains your brain treats as survival-level threats: Status, Certainty, Autonomy, Relatedness, Fairness. The 5-minute audit before any difficult conversation that names which threats you're walking into — and which to defuse first.",
+  "reading_time": "8 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Difficult Conversations, Ch. 3",
+  "date_published": "2026-05-01",
+  "meta_description": "The SCARF Model — Status, Certainty, Autonomy, Relatedness, Fairness. The 5-minute pre-conversation threat audit. Sourced from Difficult Conversations Ch. 3.",
+  "og_description": "Five social domains your brain treats as threats. The 5-minute audit before any difficult conversation.",
+  "twitter_description": "SCARF: Status, Certainty, Autonomy, Relatedness, Fairness. The 5-minute audit.",
+  "schema_keywords": "SCARF model, David Rock, social threat, conflict preparation, neuroscience of leadership, difficult conversation",
+  "pull_quote": {
+    "text": "The brain processes social threats with the same neural circuitry as physical threats. SCARF — Status, Certainty, Autonomy, Relatedness, Fairness — names the five domains your nervous system is bracing for.",
+    "cite": "— Difficult Conversations Playbook, Chapter 3 (after David Rock, 2008)"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "You're walking into a performance review, a salary conversation, a relationship talk, or any other interaction where your nervous system is firing before the meeting starts. Your usual move is to script the words you'll say. But the words aren't the problem. The problem is that your body is bracing for something specific — and you don't know what."
+    },
+    {
+      "type": "p",
+      "text": "The SCARF Threat Audit is a 5-minute pre-conversation tool that surfaces what your brain is actually bracing for. It doesn't change the conversation. It changes how you walk in. Knowing that you're primarily bracing for a Status threat (vs. a Fairness threat, vs. an Autonomy threat) tells you which threat to defuse first — both for yourself and for the person across from you."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Two things make SCARF more useful than generic conflict-preparation advice."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Different threats need different responses.",
+      "rest": "A Status threat (\"this person is going to dismiss my expertise\") is defused by being asked your view, given recognition, or invited to demonstrate competence. A Certainty threat (\"I don't know what's about to happen\") is defused by clear agendas, transparent timelines, and explicit naming of next steps. A generic \"stay calm\" approach won't address either one. The SCARF model lets you target the specific threat with the specific antidote."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "The same neural circuitry as physical threat.",
+      "rest": "Eisenberger and Lieberman's foundational research showed that social pain and physical pain share the same neural substrate (anterior cingulate cortex, anterior insula). \"It hurts\" is not a metaphor when someone undermines your status or excludes you. SCARF gives names to the five social inputs that hit that circuitry hardest."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE FIVE DOMAINS",
+      "figure": "Status · Certainty · Autonomy · Relatedness · Fairness",
+      "cite": "David Rock (2008), <em>NeuroLeadership Journal.</em> Cited and operationalized in Difficult Conversations Ch. 3 — each domain is a discrete threat detection system in the brain; each can be triggered or defused independently."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. Run it 5-15 minutes before any conversation where the stakes feel high."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Status — what's at stake for relative importance?",
+      "body": "Status is your perceived rank or expertise relative to others. Threatened by criticism, unsolicited advice, public correction, or being ignored. Ask: Is this conversation likely to threaten my status? Whose status is the other person worried about? In a performance review, the employee's status is at stake. In a salary negotiation, both parties' status. Note the status dynamic explicitly before walking in.",
+      "tip": "Defusing a status threat: lead with recognition (\"I want to start by acknowledging the work you did on X\"). Asking for someone's view explicitly bolsters status; correcting someone in front of others crashes it."
+    },
+    {
+      "name": "Certainty — what's the unknown?",
+      "body": "Certainty is your ability to predict what happens next. Threatened by ambiguity, sudden changes, and undefined timelines. Ask: What does the other person not know about how this conversation will go? What don't I know? Naming the agenda and the timeline up front (\"I want to talk about three things; this should take 20 minutes\") often does more to lower the threat response than any specific words inside the conversation.",
+      "tip": "If you can't be certain about the outcome, be certain about the process. \"I don't know what we'll decide today, but I want us to leave knowing what we'll do by Friday\" defuses certainty without false promises."
+    },
+    {
+      "name": "Autonomy — where's the control?",
+      "body": "Autonomy is your sense of choice over events affecting you. Threatened by micromanagement, being told what to do without input, or having decisions made about you without consultation. Ask: Will this conversation reduce someone's sense of choice? Can I find one place to give the other person genuine agency, even if the broader decision isn't theirs to make?",
+      "tip": "Even small autonomy preservation matters: \"Would you prefer to talk now or after lunch?\" \"Which of these two approaches would work better for you?\" The choice doesn't have to be over the substance to register."
+    },
+    {
+      "name": "Relatedness — are we still on the same team?",
+      "body": "Relatedness is your sense of belonging and safety with the other person. Threatened by exclusion, in-group/out-group framing, or perceived betrayal. Ask: Will the structure of this conversation feel adversarial? What signals can I send that we are still allies even if we disagree on this specific issue?",
+      "tip": "Use \"we\" language and shared goals when you can. \"We need to figure out how to make this work\" lands very differently from \"You need to figure out how to fix this.\" Same content, opposite Relatedness signal."
+    },
+    {
+      "name": "Fairness — is the process equitable?",
+      "body": "Fairness is your sense of equitable treatment. Threatened by favoritism, opaque processes, or rules applied inconsistently. Ask: Will the other person feel they're being treated by the same standards as everyone else? Can I make the process visible? Naming the criteria you're using (\"the same metrics we apply to all reviews\") defuses fairness anxiety even when the outcome is unwelcome.",
+      "tip": "Fairness is the threat most often missed by managers. \"Why is X getting Y and I'm not?\" is a Fairness signal, not a Status one — and the fix is process transparency, not a defense of your decision."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Run the audit on the index card 5-15 minutes before any conversation where the stakes feel high. The naming is the work.",
+  "printable_card": {
+    "title": "SCARF THREAT AUDIT · 5 MIN",
+    "subtitle": "After Rock 2008 — DC Playbook Ch. 3",
+    "items": [
+      {
+        "num": "01 · STATUS",
+        "text": "Whose relative importance is at stake? Recognition defuses.",
+        "help": "Public correction crashes it. Asking views bolsters it."
+      },
+      {
+        "num": "02 · CERTAINTY",
+        "text": "What's the unknown? Name the agenda and timeline up front.",
+        "help": "Be certain about process if you can't be about outcome."
+      },
+      {
+        "num": "03 · AUTONOMY",
+        "text": "Where's the choice? Find one place to grant genuine agency.",
+        "help": "\"Now or after lunch?\" works."
+      },
+      {
+        "num": "04 · RELATEDNESS",
+        "text": "Are we still on the same team? Use \"we\" language.",
+        "help": "\"We need to figure this out,\" not \"you need to.\""
+      },
+      {
+        "num": "05 · FAIRNESS",
+        "text": "Is the process equitable? Make the criteria visible.",
+        "help": "\"The same metrics we apply to all reviews.\""
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · See store",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com",
+      "title": "The Difficult Conversations Playbook",
+      "body": "Chapter 3 covers SCARF in clinical detail with the full neuroscience, the threat/reward matrix, and worked examples for performance reviews, project conflicts, and team retros. Plus Chapters 4-5 on conducting the conversation itself.",
+      "cta": "Read the playbook →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/polyvagal-repair",
+      "title": "Polyvagal Repair OS",
+      "body": "When the audit fails and the conversation triggers nervous-system shutdown, the next page covers what to do — three steps, in order.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-scarf-newsletter",
+  "subscribe_source": "source-wiki-scarf",
+  "sources_intro": "All claims on this page are sourced from <em>The Difficult Conversations Playbook</em>, Chapter 3. Primary sources cited:",
+  "sources_list": [
+    "Rock, D. (2008). SCARF: A brain-based model for collaborating with and influencing others. <em>NeuroLeadership Journal.</em>",
+    "Eisenberger, N. I. & Lieberman, M. D. (2004). Why rejection hurts: a common neural alarm system for physical and social pain. <em>Trends in Cognitive Sciences.</em>",
+    "Difficult Conversations Playbook Ch. 3 — SCARF operationalized for difficult workplace conversations."
+  ],
+  "sources_outro": ""
+}

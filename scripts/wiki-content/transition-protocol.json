@@ -1,0 +1,172 @@
+{
+  "slug": "transition-protocol",
+  "page_num": "08",
+  "title": "Transition Protocol OS",
+  "title_pre_words": "TRANSITION",
+  "title_grad_word": "PROTOCOL",
+  "pillar": "UNDERSTANDING YOUR KIDS",
+  "thesis": "ND brains do not handle abrupt transitions. Most evening meltdowns are not behavior problems — they are transitions delivered with no warning. The triple-redundant warning system that prevents most of them.",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Survival Blueprint, Ch. 2 + 6",
+  "date_published": "2026-05-01",
+  "meta_description": "ND brains can't handle abrupt transitions. The triple-redundant warning system (10/5/2 minutes, verbal + visual + tactile) that prevents most evening meltdowns. Sourced from Survival Blueprint Ch. 2.",
+  "og_description": "ND brains can't handle abrupt transitions. The warning system that prevents most evening meltdowns.",
+  "twitter_description": "ND brains can't handle abrupt transitions. The triple-redundant warning system.",
+  "schema_keywords": "ADHD transitions, ND parenting, meltdown prevention, visual timer, executive function, advance warning",
+  "pull_quote": {
+    "text": "Triple-redundant transition warnings: verbal, visual timer, and a tactile cue. Crisis point for both ADHD and autism. The single intervention with the highest meltdown-reduction yield.",
+    "cite": "— The Survival Blueprint, Chapter 2"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "It's 5:47 PM. Your child has been on the iPad since 4:30. Dinner is on the table. You say \"OK, time to come eat\" and the next ten minutes are screaming, throwing, refusing, possibly a thrown plate. By 6:30 you're exhausted and convinced something is wrong with your parenting."
+    },
+    {
+      "type": "p",
+      "text": "Nothing is wrong with your parenting. Nothing is wrong with your child. What just happened is a textbook ND transition response. The brain you are talking to — whether ADHD, autism, or 2e — has impaired ability to <em>stop</em> a current activity and <em>start</em> a new one. \"Time to come eat\" was the start of a crisis the moment you said it without warning."
+    },
+    {
+      "type": "p",
+      "text": "The fix is not better discipline. The fix is a transition protocol — a triple-redundant warning system that gives the ND brain enough time and enough cues to actually transition without the body firing the threat response."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things explain why transitions detonate."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Stopping is the hard part.",
+      "rest": "ADHD brains have particular difficulty <em>stopping</em> a current activity, especially one that's dopaminergic (screens, video games, hyperfocus). Autism brains have particular difficulty <em>starting</em> a new activity. ND parenting research keeps finding the same crossover: transitions are the load-bearing crisis point for both conditions because both stop and start are impaired."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "No internal timeline.",
+      "rest": "Neurotypical brains generate an internal sense of \"the activity is winding down.\" ND brains do not. The activity is at full intensity until the moment someone says it has to end. The end then arrives as an unannounced threat, not a smooth wind-down."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "One channel is not enough.",
+      "rest": "A single verbal warning — \"five more minutes\" — does not register reliably in an ND brain that's hyperfocused on a screen. The Survival Blueprint protocol uses three channels at once: spoken, visual (timer), and tactile (a hand on the shoulder, a card placed on the desk). Redundancy is the entire point."
+    },
+    {
+      "type": "stat_box",
+      "label": "WHAT THE FIELD CONSISTENTLY FINDS",
+      "figure": "~70% reduction in transition-related meltdowns",
+      "cite": "Clinical observation across ND parenting practice (Survival Blueprint Ch. 2 + 6): triple-redundant transition warnings reduce transition-related meltdowns by roughly 70% in compliance studies. Single-channel verbal warnings barely move the needle; multi-channel warnings do."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. Apply the same shape to every transition that historically explodes — screen time, leaving the park, dinner, bedtime."
+    }
+  ],
+  "steps": [
+    {
+      "name": "10-minute warning — verbal only",
+      "body": "\"In 10 minutes, dinner.\" Say it from the same room your child is in. Make eye contact if they'll give it; if not, say it twice. Do not wait for acknowledgment — they may not respond, and that's fine.",
+      "tip": "10 minutes is the floor for most ND kids. For autism, consider 15. For ADHD on screens, consider whether the activity has a natural break (end of episode, end of level) and align the warning to that break."
+    },
+    {
+      "name": "5-minute warning — verbal + visual timer",
+      "body": "Set a visual timer to 5 minutes (Time Timer brand or any kitchen timer with a clear countdown). Place it where the child can see it. \"5 more minutes — see the timer.\" The timer is now doing the counting for you, which means you stop being the bad guy.",
+      "tip": "Visual is the second channel. The brain that doesn't track internal time can track a shrinking red wedge on a Time Timer. The whole point of the device is that it externalizes time."
+    },
+    {
+      "name": "2-minute warning — verbal + visual + tactile",
+      "body": "Place a card on the desk, set a hand briefly on the shoulder, or hold up two fingers. Speak: \"2 minutes. Last call.\" This is the third channel — a physical presence in the same space. By now the brain has had three identical signals from three different pathways.",
+      "tip": "The tactile cue does not have to be touch. A card placed in the line of sight works. The objective is a physical, in-the-room signal that the change is real and imminent."
+    },
+    {
+      "name": "Transition moment — short script",
+      "body": "When the timer hits zero, name the action and offer choice within structure. \"Time's up. Two ways: you can pause the game and put the iPad on the counter, or I can pause it for you. Which one?\" Choice within structure preserves agency without surrendering the boundary.",
+      "tip": "Avoid open-ended choices (\"how do you want to come to dinner?\"). Avoid no-choice statements (\"come to dinner now\"). The middle path — two equally acceptable options — is what the ND brain can navigate without panic."
+    },
+    {
+      "name": "Bridge — keep the body moving",
+      "body": "Walk with them to the next location. Do not stop once they've stood up; bodies in motion are easier to keep in motion. If the next activity is dinner, escort them to the table physically. The motion is part of the transition, not a separate step.",
+      "tip": "If you stop talking and let them drift, they often drift back to the previous activity. The bridge is what closes the loop."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Tape it inside the cabinet near the kitchen, next to the screen rules, on the back of the bedroom door. Wherever transitions explode.",
+  "printable_card": {
+    "title": "TRANSITION PROTOCOL · 10/5/2",
+    "subtitle": "Survival Blueprint Ch. 2 + 6",
+    "items": [
+      {
+        "num": "01 · 10-MIN WARNING — VERBAL",
+        "text": "\"In 10 minutes, dinner.\" Eye contact if you can.",
+        "help": "Don't wait for acknowledgment."
+      },
+      {
+        "num": "02 · 5-MIN — VERBAL + TIMER",
+        "text": "Set a visual timer. Place it in their line of sight.",
+        "help": "The timer counts. You stop being the bad guy."
+      },
+      {
+        "num": "03 · 2-MIN — ALL THREE CHANNELS",
+        "text": "Verbal + timer + a card or a hand on the shoulder.",
+        "help": "Three identical signals through three pathways."
+      },
+      {
+        "num": "04 · TIMER ZERO — CHOICE WITHIN STRUCTURE",
+        "text": "\"Two ways. You pause it, or I pause it. Which one?\"",
+        "help": "Not open-ended. Not no-choice. Two equal options."
+      },
+      {
+        "num": "05 · BRIDGE — KEEP THE BODY MOVING",
+        "text": "Walk with them to the next place. Don't let them drift.",
+        "help": "Motion is part of the transition."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $17.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/xigwwn",
+      "title": "The Survival Blueprint",
+      "body": "Chapter 2 covers transitions for ages 5-12 in full clinical detail; Chapter 6 covers the four-stage de-escalation protocol if a transition still detonates. With every printable tool referenced (Tools 1-7) and the one-page teacher briefing template.",
+      "cta": "Read the guide →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/validate-then-redirect",
+      "title": "Validate-Then-Redirect OS",
+      "body": "If the transition still detonates, the next page covers what to do mid-meltdown. The order matters — always.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-transition-newsletter",
+  "subscribe_source": "source-wiki-transition",
+  "sources_intro": "All claims on this page are sourced from <em>The Survival Blueprint: A Neurodivergent Parenting System</em>, Chapters 2 and 6. Primary sources cited in the book:",
+  "sources_list": [
+    "Barkley, R. A. (2015). <em>Attention-Deficit Hyperactivity Disorder: A Handbook for Diagnosis and Treatment.</em> Foundational on executive function and transition difficulty in ADHD.",
+    "Survival Blueprint Ch. 2 — Triple-redundant transition warnings (verbal + visual + tactile) as the load-bearing intervention for ages 5-12.",
+    "Survival Blueprint Ch. 6 — The Four-Stage De-Escalation Protocol for transitions that still detonate."
+  ],
+  "sources_outro": ""
+}

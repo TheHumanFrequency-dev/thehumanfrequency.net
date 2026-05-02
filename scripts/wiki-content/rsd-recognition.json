@@ -1,0 +1,172 @@
+{
+  "slug": "rsd-recognition",
+  "page_num": "15",
+  "title": "RSD Recognition OS",
+  "title_pre_words": "RSD",
+  "title_grad_word": "RECOGNITION OS",
+  "pillar": "UNDERSTANDING YOUR KIDS",
+  "thesis": "Rejection Sensitive Dysphoria is not a tantrum. It is an extreme neurobiological response to perceived rejection — and most of the children who have it are diagnosed with something else first. The 10-sign checklist that names what's actually happening.",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Survival Blueprint, Ch. 1.2",
+  "date_published": "2026-05-01",
+  "meta_description": "RSD is not a tantrum. The 10-sign checklist that recognizes Rejection Sensitive Dysphoria — an extreme neurobiological response to perceived rejection. Sourced from Survival Blueprint Ch. 1.2.",
+  "og_description": "RSD is not a tantrum. It's an extreme neurobiological response. The 10-sign checklist.",
+  "twitter_description": "RSD is not a tantrum. The 10-sign checklist.",
+  "schema_keywords": "RSD, Rejection Sensitive Dysphoria, William Dodson, ADHD emotional regulation, ND parenting",
+  "pull_quote": {
+    "text": "Rejection Sensitive Dysphoria affects up to 99% of individuals with ADHD according to clinical observations by Dr. William Dodson. RSD is not currently a formal diagnosis — which means many children suffer from it without anyone naming what is happening.",
+    "cite": "— The Survival Blueprint, Chapter 1.2"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "Your child quits the team after one critical comment. Tears up the project the moment the teacher says it could be better. Refuses to try anything where they might fail. Reads neutral facial expressions as anger. Believes \"everyone hates me\" after a single social snub. You assume they're sensitive, dramatic, or anxious. None of those names match what is actually happening."
+    },
+    {
+      "type": "p",
+      "text": "What is happening is Rejection Sensitive Dysphoria — an extreme emotional response to real or perceived rejection that can be physically painful, lasts for hours or days, and is neurologically distinct from ordinary sadness. Dr. William Dodson and colleagues have characterized it as the most impairing feature of ADHD for most adults living with it. It is not a behavior problem. It is a brain that experiences a critical comment the way most brains experience a physical wound."
+    },
+    {
+      "type": "p",
+      "text": "The first job is recognition. RSD is not a formal diagnosis, which means most children carry it for years before anyone names it. The 10-sign checklist below is the screen."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things distinguish RSD from ordinary sensitivity."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Magnitude.",
+      "rest": "Most people experience criticism as unpleasant. People with RSD experience it as catastrophic — a 0-to-10 emotional spike on a stimulus that registers as a 2 or 3 for neurotypical observers. The disproportion is the diagnostic marker. \"Why are you crying about this\" is the wrong question; the right question is \"what is your brain doing differently when this happens.\""
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Triggering threshold.",
+      "rest": "RSD does not require actual rejection. It triggers on perceived rejection — a neutral facial expression read as disappointment, a delayed reply read as anger, a casual comment read as personal criticism. The brain's threat-detection system runs hot, and ambiguity gets resolved as rejection by default."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Avoidance becomes the personality.",
+      "rest": "Over time, children with untreated RSD organize their lives to avoid the trigger. They stop trying things they might fail at. They quit teams, drop classes, and avoid activities where rejection is possible. From the outside this looks like \"selective motivation\" or \"laziness.\" From the inside it is a survival strategy. The accomplishment ceiling drops dramatically."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE PREVALENCE",
+      "figure": "Up to 99% of ADHD individuals · clinically observed",
+      "cite": "Dr. William Dodson and colleagues, cited in Survival Blueprint Ch. 1.2 — RSD is the single most impairing feature of ADHD for most adults living with it; recognition rates are extremely low because it is not a formal DSM-5 diagnosis."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps for recognition. The next page (RSD De-Escalation OS) covers what to do when you're in an episode; this page covers naming it before episodes start."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Run the 10-sign screen",
+      "body": "Five or more of the following indicates RSD is likely a significant factor: explosive disproportionate reactions to minor corrections; refusal to try new activities without near-guarantee of success; \"everyone hates me\" after a single snub; selective motivation (only excels at things they're already good at); reads neutral expressions as disappointment; tears up a project after one negative comment; obsessively replays interactions (\"are they mad at me?\"); avoids answering in class for fear of being wrong; inconsolable over losing a game; elaborate avoidance strategies (\"I don't care about grades\").",
+      "tip": "Run the screen during a calm period, not during an episode. The pattern is what you're looking for, not the intensity of any one event."
+    },
+    {
+      "name": "Name it for yourself first",
+      "body": "Before talking to anyone — the school, your co-parent, your child — get clear in your own head that what you're seeing is RSD. The naming is what stops you from interpreting the behavior as defiance, manipulation, or weakness. \"Their brain is doing this\" replaces \"they're being dramatic.\" The reframe lands first in you.",
+      "tip": "If you're not sure, log episodes for two weeks: trigger, response, duration, recovery. The pattern is unmistakable once written down."
+    },
+    {
+      "name": "Distinguish RSD from related conditions",
+      "body": "RSD often co-occurs with ADHD, autism, anxiety, and trauma — but it is not the same as any of them. Anxiety is anticipatory; RSD is reactive. Trauma response is triggered by reminders of past harm; RSD triggers on the present moment. ASD social processing differs in that the rejection signal often isn't even noticed; in RSD it's noticed and over-amplified. Getting the distinction right matters because the interventions differ.",
+      "tip": "If your child has both anxiety and RSD, the anxiety treatment will not touch the RSD episodes. Different mechanisms, different tools."
+    },
+    {
+      "name": "Loop in the prescriber",
+      "body": "RSD has a partial pharmacological response — particularly to alpha-agonists (clonidine, guanfacine) and certain stimulants. If your child is already on ADHD medication and the RSD pattern is severe, ask the prescriber explicitly: \"What can we do about the rejection-sensitivity component?\" Most prescribers will recognize the question; some will need to be educated.",
+      "tip": "Print the relevant pages from Survival Blueprint Ch. 1.2 and bring them to the appointment. Dr. Dodson's name is the credibility anchor; his clinical observations are widely cited."
+    },
+    {
+      "name": "Inform the school — selectively",
+      "body": "Teachers handling a child with RSD without naming it tend to escalate the cycle: public correction → meltdown → \"behavior problem\" label → more correction. The Survival Blueprint Ch. 2 Teacher Briefing includes one line on RSD specifically: \"deliver corrections privately, not in front of peers; written feedback is processed better than verbal.\" This single accommodation prevents most school RSD episodes.",
+      "tip": "You don't need a formal IEP to request private correction — many teachers will adopt it once you name what's happening. If they don't, the accommodation request letter (next step) makes it formal."
+    }
+  ],
+  "after_steps_h2": "The printable: the 10-sign screen",
+  "after_steps_p": "Print this. Run it during a calm period. Five or more = RSD is likely a significant factor in your child's life.",
+  "printable_card": {
+    "title": "RSD RECOGNITION · 10-SIGN SCREEN",
+    "subtitle": "Survival Blueprint Ch. 1.2",
+    "items": [
+      {
+        "num": "01 · DISPROPORTIONATE REACTIONS",
+        "text": "Explosive responses to minor corrections or feedback.",
+        "help": "0-to-10 spike on what registers as 2 or 3 for others."
+      },
+      {
+        "num": "02 · AVOIDANCE OF NEW THINGS",
+        "text": "Won't try without near-guarantee of success.",
+        "help": "\"Selective motivation\" — only excels where they already do."
+      },
+      {
+        "num": "03 · CATASTROPHIC SOCIAL READS",
+        "text": "\"Everyone hates me\" after a single snub.",
+        "help": "Neutral expressions read as disappointment or anger."
+      },
+      {
+        "num": "04 · QUITS AFTER ONE COMMENT",
+        "text": "Tears up project, drops team, leaves class.",
+        "help": "After a single negative remark."
+      },
+      {
+        "num": "05 · OBSESSIVE REPLAY + AVOIDANCE",
+        "text": "\"Are they mad at me?\" Avoids answering in class. Elaborate avoidance scripts.",
+        "help": "Five or more of these = RSD is likely significant."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $17.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/xigwwn",
+      "title": "The Survival Blueprint",
+      "body": "Chapter 1.2 covers RSD in full — the neuroscience, the case studies (Lily, age 14), the full 10-sign screen, and the clinical pharmacology where applicable. Plus the RSD First Aid Protocol and the Evidence File framework.",
+      "cta": "Read the guide →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/rsd-de-escalation",
+      "title": "RSD De-Escalation OS",
+      "body": "Once you've named RSD, the next page covers what to do during an active episode — the 6-step First Aid Protocol that prevents 30-minute episodes from becoming 3-hour ones.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-rsd-recognition-newsletter",
+  "subscribe_source": "source-wiki-rsd-recognition",
+  "sources_intro": "All claims on this page are sourced from <em>The Survival Blueprint</em>, Chapter 1.2. Primary sources cited:",
+  "sources_list": [
+    "Dodson, W. (clinical observations) — Rejection Sensitive Dysphoria as a feature of ADHD; widely cited in ADDitude Magazine and clinical practice.",
+    "Survival Blueprint Ch. 1.2 — The full RSD chapter; the 10-sign screen; the case study of Lily (age 14).",
+    "Beery, T. A. & Schmid, A. A. (2014). Rejection sensitivity and depression in young adults with ADHD. Foundational empirical work on the link."
+  ],
+  "sources_outro": ""
+}

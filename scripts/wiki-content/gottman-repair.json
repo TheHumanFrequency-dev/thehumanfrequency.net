@@ -1,0 +1,172 @@
+{
+  "slug": "gottman-repair",
+  "page_num": "21",
+  "title": "Gottman Repair Phrases OS",
+  "title_pre_words": "GOTTMAN",
+  "title_grad_word": "REPAIR",
+  "pillar": "UNDERSTANDING EACH OTHER",
+  "thesis": "John Gottman's research predicts relationship dissolution with 93% accuracy — by counting repair attempts. The Four Horsemen, their antidotes, and three repair phrases you can use in any escalating conversation. Critical rule: the repair attempt must NEVER be followed by \"but.\"",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Difficult Conversations, Ch. 10",
+  "date_published": "2026-05-01",
+  "meta_description": "The Four Horsemen of conversation breakdown — Criticism, Contempt, Defensiveness, Stonewalling — and their antidotes. Plus three repair phrases that prevent escalation. Sourced from DC Ch. 10 (Gottman).",
+  "og_description": "Gottman predicts relationship dissolution with 93% accuracy. The Four Horsemen and their antidotes.",
+  "twitter_description": "Four Horsemen, four antidotes, three repair phrases. Gottman.",
+  "schema_keywords": "Gottman, four horsemen, repair attempts, criticism contempt defensiveness stonewalling, relationship repair",
+  "pull_quote": {
+    "text": "An effective repair attempt must NEVER be followed by the word 'but.' Saying 'I apologize for my tone, but you started it' instantly invalidates the accountability and re-triggers defensiveness. The repair must stand alone.",
+    "cite": "— Difficult Conversations Playbook, Chapter 10 (after Gottman)"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "The conversation has tipped. Someone said something sharp. Someone else got defensive. Now the original substance is gone and you're arguing about how the other person is being unreasonable. By the time you both walk away, no one remembers what started it — but the resentment is real, and it's going to compound the next time the topic comes up."
+    },
+    {
+      "type": "p",
+      "text": "John Gottman spent decades watching couples have these conversations on video. His research identified four specific patterns — what he calls the Four Horsemen — that, when present in regular conversation, predict relationship dissolution with 93% accuracy. He also identified the antidote to each, and the structure of repair attempts that successful long-term partners use to interrupt the spiral."
+    },
+    {
+      "type": "p",
+      "text": "This page operationalizes that work for any difficult conversation — partner, family, friend, colleague. The Four Horsemen, their antidotes, and three repair phrases that work."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things drive the framework."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Patterns predict dissolution, not specific arguments.",
+      "rest": "Gottman's research found that the content of fights matters far less than the patterns. Couples who fought constantly but maintained repair attempts and avoided contempt stayed together. Couples who rarely fought but slipped into the Four Horsemen patterns dissolved. The pattern is the variable; the topic is incidental."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Each horseman has a specific antidote.",
+      "rest": "Criticism (attacking character) → \"I\" statements about specific behavior. Contempt (superiority, mockery) → genuine appreciation, building a culture of respect. Defensiveness (counter-attacking) → taking responsibility for even a small part. Stonewalling (emotional withdrawal) → physiological self-soothing and a tactical pause. Wrong horseman, wrong antidote — generic \"be nicer\" advice doesn't work."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Repair attempts are protective even when imperfect.",
+      "rest": "What separates durable relationships from dissolving ones is not the absence of conflict but the presence of repair attempts — small gestures, statements, or even humor that prevent negativity from cascading. A clumsy repair is better than no repair. The critical rule is that the repair cannot be followed by \"but\" — that one word converts the apology into a re-attack."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE PREDICTIVE POWER",
+      "figure": "93% accuracy predicting dissolution · across 14-year studies",
+      "cite": "Gottman, J. M. (1994). <em>Why Marriages Succeed or Fail.</em> The pattern of Four Horsemen presence + repair attempt frequency predicts relationship outcomes with high reliability across long-term studies."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. The first four are spotting and applying the antidotes; the fifth is the repair-attempt phrase library."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Spot Criticism — apply the \"I\" statement antidote",
+      "body": "Criticism attacks character: \"You always interrupt me — you don't care what I think.\" The antidote: an \"I\" statement focused on specific behavior. \"When I get interrupted, I lose my train of thought and I feel small. I need a few minutes to finish my point.\" Same content, different shape — and the partner can respond to the behavioral request without defending their character.",
+      "tip": "If you catch yourself starting a sentence with \"You always\" or \"You never,\" stop. Restart with \"When [specific event] happens, I feel [specific feeling] because [specific reason].\""
+    },
+    {
+      "name": "Spot Contempt — build a culture of appreciation",
+      "body": "Contempt is superiority. Sarcasm, mockery, eye-rolling, name-calling, name-flavored sighs. It is the single strongest predictor of dissolution in Gottman's research. The antidote is structural, not tactical: build a daily practice of appreciation. Name specific things you appreciate, in real time, frequently. Contempt withers in a relationship saturated with genuine respect.",
+      "tip": "If contempt has become a default in a relationship, the repair work is bigger than this page. Couples therapy is appropriate. The page-level move is naming when you've slipped into contempt and apologizing specifically for it."
+    },
+    {
+      "name": "Spot Defensiveness — take responsibility for any small part",
+      "body": "Defensiveness is counter-attack. \"You're saying I'm late? You were late yesterday too.\" The antidote: take responsibility for any piece of what they said, even a small one, before responding to the rest. \"You're right — I was 20 minutes late tonight, and that wasn't fair to you. The part about yesterday is more complicated, and I'd like to come back to that, but tonight I should have texted you.\"",
+      "tip": "The micro-accountability has to be genuine. Fake \"I'm sorry, but\" doesn't work — see step 5. Find the real thing you're responsible for and own it before introducing your counter-information."
+    },
+    {
+      "name": "Spot Stonewalling — request a tactical pause, not silence",
+      "body": "Stonewalling is emotional withdrawal — going silent, refusing to engage, the wall going up. It usually signals physiological flooding. The antidote is not pushing through; it's a tactical pause with a return commitment. \"I'm getting overwhelmed and I'm going to shut down if I keep going. Can we take 30 minutes and come back at 8 PM?\" The pause + the return commitment together prevents stonewalling from becoming abandonment.",
+      "tip": "If you find yourself wanting to stonewall, name it: \"I notice I want to go silent right now. I think I need 20 minutes.\" Naming what's happening preserves the relationship even when the conversation is paused."
+    },
+    {
+      "name": "Three repair phrases — the library",
+      "body": "Build a personal library of repair attempts that fit your authentic voice. Three durable templates: <strong>\"I think I came across wrong — can I try again?\"</strong> (interrupts your own escalation). <strong>\"We're on the same team here. Let's slow down.\"</strong> (relatedness signal + pace request). <strong>\"I can hear that I hurt you. I'm sorry. Can you tell me more about what landed?\"</strong> (validation + curiosity, with no \"but\"). Repair attempts must NEVER be followed by \"but.\" \"I apologize for my tone, but you started it\" instantly invalidates everything and re-triggers defensiveness.",
+      "tip": "Practice repair phrases out loud during calm moments, not first time during conflict. The phrases that don't fit your natural voice will collapse under pressure. Edit them until they sound like you."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Stick it on the back of your phone case or inside your wallet. The next time a conversation tips, glance at it before responding.",
+  "printable_card": {
+    "title": "GOTTMAN REPAIR · 4 ANTIDOTES + 3 PHRASES",
+    "subtitle": "DC Playbook Ch. 10",
+    "items": [
+      {
+        "num": "01 · CRITICISM → \"I\" STATEMENT",
+        "text": "Specific behavior, not character. \"When X, I feel Y because Z.\"",
+        "help": "Not \"you always.\""
+      },
+      {
+        "num": "02 · CONTEMPT → APPRECIATION",
+        "text": "Build daily appreciation practice.",
+        "help": "Strongest dissolution predictor — fix is structural."
+      },
+      {
+        "num": "03 · DEFENSIVENESS → OWN A SMALL PART",
+        "text": "Take responsibility for any piece before responding to the rest.",
+        "help": "Genuine, not \"I'm sorry but.\""
+      },
+      {
+        "num": "04 · STONEWALLING → TACTICAL PAUSE",
+        "text": "\"I'm getting overwhelmed. 30 minutes, back at 8.\"",
+        "help": "Pause + return commitment, not silence."
+      },
+      {
+        "num": "05 · THREE REPAIR PHRASES — NEVER + \"BUT\"",
+        "text": "\"Came across wrong — can I try again?\" / \"Same team. Slow down.\" / \"I hear I hurt you. Tell me more.\"",
+        "help": "\"But\" instantly cancels the repair."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · See store",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com",
+      "title": "The Difficult Conversations Playbook",
+      "body": "Chapter 10 covers the Gottman Method in clinical detail — the Four Horsemen, the antidotes, the Sound Relationship House framework, and the post-conflict processing protocol with three steps for genuine repair after the argument ceases.",
+      "cta": "Read the playbook →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/polyvagal-repair",
+      "title": "Polyvagal Repair OS",
+      "body": "Gottman handles the conversational pattern. Polyvagal handles the nervous system underneath it. Both are needed when conversations have tipped.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-gottman-newsletter",
+  "subscribe_source": "source-wiki-gottman",
+  "sources_intro": "All claims on this page are sourced from <em>The Difficult Conversations Playbook</em>, Chapter 10. Primary sources cited:",
+  "sources_list": [
+    "Gottman, J. M. & Silver, N. (1999). <em>The Seven Principles for Making Marriage Work.</em>",
+    "Gottman, J. M. (1994). <em>Why Marriages Succeed or Fail.</em> The Four Horsemen and the 93% prediction accuracy across 14-year longitudinal studies.",
+    "Difficult Conversations Playbook Ch. 10 — Gottman Method operationalized; Critical Rule on \"but\"."
+  ],
+  "sources_outro": ""
+}

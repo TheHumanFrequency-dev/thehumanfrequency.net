@@ -1,0 +1,168 @@
+{
+  "slug": "harvard-method",
+  "page_num": "20",
+  "title": "Harvard Method 4-Step OS",
+  "title_pre_words": "HARVARD METHOD",
+  "title_grad_word": "4-STEP OS",
+  "pillar": "UNDERSTANDING EACH OTHER",
+  "thesis": "The framework that ended the Apple-Samsung patent war. Four pillars of principled negotiation: separate people from problems, focus on interests not positions, generate options for mutual gain, insist on objective criteria. Plus your BATNA — the strongest negotiation lever you have.",
+  "reading_time": "8 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Difficult Conversations, Ch. 7",
+  "date_published": "2026-05-01",
+  "meta_description": "The Harvard Method 4-step principled negotiation framework. Plus BATNA — your walk-away power. Sourced from Difficult Conversations Ch. 7 (after Fisher & Ury).",
+  "og_description": "Four pillars of principled negotiation. The framework that ended Apple-Samsung.",
+  "twitter_description": "Four pillars of principled negotiation. Plus BATNA. The Harvard Method.",
+  "schema_keywords": "Harvard negotiation, Fisher Ury, principled negotiation, BATNA, interests vs positions, Getting to Yes",
+  "pull_quote": {
+    "text": "Seemingly incompatible positions often mask highly compatible needs. A position is 'I won't pay more than $50,000.' An interest is 'I need to keep operational costs under a ceiling to avoid layoffs.' Find the interest, find the deal.",
+    "cite": "— Difficult Conversations Playbook, Chapter 7 (after Fisher & Ury, 1981)"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "You're walking into a negotiation. Salary, contract, vendor terms, a co-founder split, a divorce. The instinct is to figure out your number and hold the line. The other side has done the same. Two opening positions, fifty miles apart. Hours of grinding back and forth. Either someone caves and resents it, or no deal happens and the relationship corrodes."
+    },
+    {
+      "type": "p",
+      "text": "Most negotiations get stuck because both sides are arguing positions. The Harvard Method, codified by Roger Fisher and William Ury in <em>Getting to Yes</em> and operationalized in Difficult Conversations Ch. 7, gives you four principles that move every conversation off positions and onto interests — where deals actually live."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things make principled negotiation outperform positional bargaining."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Positions hide interests.",
+      "rest": "A position is the specific outcome you're demanding. An interest is the underlying need that produced the demand. \"I want $145K\" is a position. \"I want to feel that my contribution is valued, and I need to cover daycare and my mortgage\" is the interest. Two parties' positions can be incompatible while their interests overlap dramatically. Move the conversation to interests and the deal space expands."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "BATNA is your real leverage.",
+      "rest": "BATNA — Best Alternative to a Negotiated Agreement — is your fallback if this negotiation fails. A strong BATNA gives you confidence and options; a weak BATNA leaves you stuck accepting bad terms. Define your BATNA before any meaningful negotiation. The strength of your BATNA is the actual lever, not your tone or your tactics."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Objective criteria short-circuit ego.",
+      "rest": "Anchoring agreements to external standards — market data, industry benchmarks, legal precedent, comparable transactions — converts \"my will vs. your will\" into \"what does the data say.\" When both parties anchor to the same criteria, the conversation becomes about interpretation, not power."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE FRAMEWORK",
+      "figure": "4 pillars + BATNA · used in Apple-Samsung settlement",
+      "cite": "Fisher, R. & Ury, W. (1981), <em>Getting to Yes</em>; operationalized in DC Playbook Ch. 7. Used in the Apple-Samsung patent settlement that ended years of multi-jurisdiction litigation."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. The four Harvard pillars + the BATNA preparation that has to happen before you walk in."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Define your BATNA — before the meeting",
+      "body": "Write down explicitly: what is my best alternative if this negotiation completely fails? Other job offers? Other vendors? Walking away entirely? The strength of your BATNA determines your true negotiation power. If your BATNA is weak, take time to strengthen it before negotiating — find another offer, build a parallel option, demonstrate you have alternatives. Walking in with a weak undefined BATNA is the most common failure mode in negotiation.",
+      "tip": "Estimate the other side's BATNA too. Their fallback determines how flexible they really are, regardless of what they say in the room."
+    },
+    {
+      "name": "Separate the people from the problem",
+      "body": "View yourselves as collaborators attacking a mutual problem, not adversaries attacking each other. Address the factual summit of the dispute while remaining empathetic to the emotional dynamics beneath. Practically: name the relational frame at the top of the conversation. \"I want us both to leave this conversation feeling we worked it out together.\" Even one sentence resets the adversarial default.",
+      "tip": "When the other side becomes hostile, don't match it. Hard on the problem, soft on the person — you can disagree forcefully on the substance while protecting the relationship."
+    },
+    {
+      "name": "Focus on interests, not positions",
+      "body": "Ask why behind every position. Why do you need $145K specifically? Why is the deadline non-negotiable? Why must the contract include this clause? Each \"why\" surfaces an interest. Name your own interests too — they're often less rigid than your position. Interests overlap. Positions don't.",
+      "tip": "If the other side won't reveal their interests, propose them tentatively: \"It sounds like the deadline matters because the board meets that week — am I reading that right?\" Wrong guesses get corrected, which is also useful."
+    },
+    {
+      "name": "Generate options for mutual gain",
+      "body": "Before deciding, brainstorm. Suspend judgment. \"Enlarge the pie before dividing it.\" If salary is fixed, what about signing bonus, equity, PTO, professional development budget, flexible hours, defined performance review timeline? If price is fixed, what about payment terms, scope, exclusivity, warranty? Most negotiations leave value on the table because options are generated only after positions have hardened.",
+      "tip": "The brainstorm has to happen before commitment. \"Let's spend ten minutes naming options before we evaluate any of them\" is an explicit rule that protects creativity from premature judgment."
+    },
+    {
+      "name": "Insist on objective criteria",
+      "body": "Anchor to market benchmarks, legal precedent, industry standards, comparable transactions. \"For directors with my track record in this region, comp typically ranges from $130K to $145K\" is more powerful than \"I want $140K.\" When both parties commit to objective criteria, the negotiation moves from will vs. will to interpretation of evidence. The party with the stronger evidence usually wins; both parties usually feel the process was fair.",
+      "tip": "If the other side rejects your criteria, propose theirs. \"What benchmarks would you find credible?\" Forces them to either propose objective criteria or admit they have none."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Run it before any negotiation where the dollar amount or stakes feel high. The 5-minute prep matters more than the words you'll say in the room.",
+  "printable_card": {
+    "title": "HARVARD METHOD · 4 PILLARS + BATNA",
+    "subtitle": "Fisher & Ury · DC Playbook Ch. 7",
+    "items": [
+      {
+        "num": "01 · DEFINE BATNA — BEFORE",
+        "text": "Best alternative if this fails. Strengthen it before you negotiate.",
+        "help": "Estimate theirs too."
+      },
+      {
+        "num": "02 · SEPARATE PEOPLE FROM PROBLEM",
+        "text": "Collaborators attacking a mutual problem.",
+        "help": "Hard on the problem, soft on the person."
+      },
+      {
+        "num": "03 · INTERESTS, NOT POSITIONS",
+        "text": "Ask \"why\" behind every demand. Yours and theirs.",
+        "help": "Interests overlap. Positions don't."
+      },
+      {
+        "num": "04 · GENERATE OPTIONS — BEFORE DECIDING",
+        "text": "Brainstorm. Suspend judgment. Enlarge the pie.",
+        "help": "10 minutes of generation before any evaluation."
+      },
+      {
+        "num": "05 · INSIST ON OBJECTIVE CRITERIA",
+        "text": "Market data, precedent, benchmarks. Mutual evidence.",
+        "help": "If they reject yours, ask what they'd find credible."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · See store",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com",
+      "title": "The Difficult Conversations Playbook",
+      "body": "Chapter 7 covers the full Harvard Method with the Apple-Samsung and Starbucks-Kraft case studies, the Principled Negotiation Preparation Workbook, and worked examples for salary, contract, and dispute negotiations. Chapter 12 is the salary-specific application.",
+      "cta": "Read the playbook →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/salary-negotiation",
+      "title": "Salary Negotiation OS",
+      "body": "The Harvard Method applied specifically to compensation conversations. With three negotiation scripts (Value Proposition, Pivot, Future Commitment).",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-harvard-newsletter",
+  "subscribe_source": "source-wiki-harvard",
+  "sources_intro": "All claims on this page are sourced from <em>The Difficult Conversations Playbook</em>, Chapter 7. Primary sources cited:",
+  "sources_list": [
+    "Fisher, R. & Ury, W. (1981/2011). <em>Getting to Yes: Negotiating Agreement Without Giving In.</em> The Harvard Negotiation Project's foundational text.",
+    "Difficult Conversations Playbook Ch. 7 — Harvard Method operationalized; Apple-Samsung and Starbucks-Kraft case studies.",
+    "Difficult Conversations Playbook Ch. 12 — Salary-specific application with three scripted frameworks."
+  ],
+  "sources_outro": ""
+}

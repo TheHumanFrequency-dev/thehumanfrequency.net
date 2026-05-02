@@ -1,0 +1,172 @@
+{
+  "slug": "school-advocacy-letter",
+  "page_num": "13",
+  "title": "School Advocacy Letter OS",
+  "title_pre_words": "SCHOOL ADVOCACY",
+  "title_grad_word": "LETTER OS",
+  "pillar": "UNDERSTANDING YOUR KIDS",
+  "thesis": "The accommodation request letter that schools cannot ignore. Specific, dated, documented, evidence-cited. The single document that turns a vague \"my kid is struggling\" into a 504 / IEP evaluation.",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Survival Blueprint, Ch. 7",
+  "date_published": "2026-05-01",
+  "meta_description": "The accommodation request letter template that triggers a 504 or IEP evaluation. Specific examples, dated diagnosis, written request. Sourced from Survival Blueprint Ch. 7 (Tool 7).",
+  "og_description": "The single letter that turns vague \"my kid is struggling\" into a 504 / IEP evaluation.",
+  "twitter_description": "The accommodation request letter that schools can't ignore.",
+  "schema_keywords": "504 plan, IEP, accommodation request, school advocacy, ADHD school, ND parenting",
+  "pull_quote": {
+    "text": "I am writing to formally request [a 504 Plan / an IEP evaluation] for my child... [Child]'s diagnosis affects their ability to access the curriculum due to [specific impacts]. I have enclosed diagnostic documentation and request a meeting within 30 days.",
+    "cite": "— Survival Blueprint, Chapter 7 (Tool 7)"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "Your child is failing — academically, behaviorally, or both. You have had three meetings with the teacher. Each meeting ends with sympathetic concern and no action. The school is friendly, well-meaning, and quietly hoping the situation resolves itself. It will not."
+    },
+    {
+      "type": "p",
+      "text": "Schools respond to specific written requests with documented diagnostic evidence and a clear ask. They do not respond to verbal concern, no matter how often it's repeated. The accommodation request letter is the artifact that converts a months-long meandering conversation into a 30-day clock."
+    },
+    {
+      "type": "p",
+      "text": "Survival Blueprint Chapter 7 reproduces this letter as Tool 7. It's two paragraphs of substance plus a list. Every word is doing work. The page below walks through how to fill it out and what to expect after you send it."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things make a written request behave differently from a verbal one."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "It triggers legal timelines.",
+      "rest": "Once a school district receives a written, dated request for evaluation, federal law (IDEA in the US, similar provincial frameworks in Canada) requires response within a defined window. Verbal requests don't trigger the clock. The written letter is the legal threshold."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "It documents specifics.",
+      "rest": "\"My kid is struggling\" gives the school nothing to act on. Three specific impact statements (\"cannot complete timed assessments due to processing speed deficits\") give the special-ed coordinator concrete, measurable items they can build a plan around. Specifics are the lever."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "It creates a paper trail.",
+      "rest": "If the request is ignored, denied, or stalled, the dated letter is the evidence you need to escalate — to the principal, the district special-ed director, or (in extreme cases) due-process complaint. Verbal conversations evaporate. Paper trails do not."
+    },
+    {
+      "type": "stat_box",
+      "label": "WHAT THE LETTER TRIGGERS",
+      "figure": "30-day evaluation clock · documented timeline · specific accommodations",
+      "cite": "Survival Blueprint Ch. 7 — Tool 7 (Accommodation Request Letter Template); written request engages federal/provincial timelines that verbal requests do not."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. Most of the work is in step 2 — the diagnostic documentation. The letter itself takes 20 minutes once you have the data."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Get the diagnostic documentation in hand",
+      "body": "You need: the diagnosis, the diagnosing clinician's name and credentials, and the date of diagnosis. If you don't have a written diagnostic report, request one from the assessing clinician. Most will produce it within 2-3 weeks. Without this, the letter has no foundation.",
+      "tip": "Schools can request an evaluation themselves if you don't have one — but a parent-initiated outside diagnostic is processed faster and gives you more control over the framing."
+    },
+    {
+      "name": "Write three specific impact statements",
+      "body": "Vague: \"My child has ADHD and struggles in school.\" Specific: \"Cannot complete timed assessments within standard time due to processing speed deficits.\" \"Experiences significant emotional dysregulation when receiving feedback in front of peers.\" \"Cannot independently organize multi-step assignments without external scaffolding.\" Three is the right number — more becomes noise.",
+      "tip": "Each impact statement should describe a measurable behavior in school terms. Pull from your most recent IEP, teacher reports, or parent observations. \"Has been late to assignments 14 of the last 20 school days\" is more powerful than \"is often late.\""
+    },
+    {
+      "name": "List the specific accommodations you're requesting",
+      "body": "Do not write \"appropriate accommodations.\" Write the specific accommodations: extended time on assessments, a quiet testing environment, written instructions in addition to verbal, preferential seating away from windows, breaks every 20 minutes. Pull from the table in Survival Blueprint Ch. 7 Section 7.2 or the standard 504/IEP accommodation menus.",
+      "tip": "Anchor your asks to the impact statements. Each accommodation should map back to one of the three specifics. The school is more likely to grant accommodations they understand the rationale for."
+    },
+    {
+      "name": "Send the letter — to the right person, in the right way",
+      "body": "Address it to: the principal AND the special education coordinator. Both. CC the homeroom teacher. Send by email AND printed/signed copy with delivery confirmation. \"Please confirm receipt of this letter in writing\" is a sentence that goes in every version. Keep a dated copy of everything.",
+      "tip": "Some districts route 504/IEP requests through a single coordinator; others go through the school. If you don't know your district's structure, send to both — it's better to over-CC than to have the request lost in the routing."
+    },
+    {
+      "name": "Track the response — and escalate if needed",
+      "body": "Federal law requires response within 30 days in most jurisdictions. If you don't hear back in 30 days, follow up in writing (email + paper) and reference the original letter date. If still ignored at 45 days, escalate to the district special education director with the original letter attached. The paper trail you built in steps 1-4 is what makes escalation work.",
+      "tip": "A polite, dated, factual escalation almost always produces a response. If it doesn't, the next step is a special-education advocate or attorney — but in most cases, the paper trail alone is sufficient."
+    }
+  ],
+  "after_steps_h2": "The printable: the letter template",
+  "after_steps_p": "Print this. Customize the bracketed fields. Send it tomorrow if you have the diagnostic documentation; this week if you don't. The wait costs your kid time.",
+  "printable_card": {
+    "title": "ACCOMMODATION REQUEST LETTER · TOOL 7",
+    "subtitle": "Survival Blueprint Ch. 7",
+    "items": [
+      {
+        "num": "01 · ADDRESSEE",
+        "text": "Principal + Special Ed Coordinator + (CC) Teacher.",
+        "help": "All three. Email + printed + dated."
+      },
+      {
+        "num": "02 · DIAGNOSIS LINE",
+        "text": "Child has been diagnosed with [X] by [clinician, credentials] on [date].",
+        "help": "Specific. Documented. Dated."
+      },
+      {
+        "num": "03 · THREE IMPACT STATEMENTS",
+        "text": "Specific, measurable behaviors. Not \"struggles\" — concrete examples.",
+        "help": "Each maps to an accommodation."
+      },
+      {
+        "num": "04 · ACCOMMODATION LIST",
+        "text": "Specific items, not \"appropriate accommodations.\"",
+        "help": "Pull from the menu in Section 7.2."
+      },
+      {
+        "num": "05 · TIMELINE + RECEIPT",
+        "text": "\"Please confirm receipt in writing.\" Request meeting within 30 days.",
+        "help": "Federal/provincial law triggers from written, dated request."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $17.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/xigwwn",
+      "title": "The Survival Blueprint",
+      "body": "Chapter 7 contains the full Accommodation Request Letter template (Tool 7), the accommodation menu by ND profile (Section 7.2), and the 504 vs. IEP decision framework. Plus Tool 7b — therapy and support options matched to specific challenges.",
+      "cta": "Read the guide →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/medication-decision",
+      "title": "Medication Decision Framework OS",
+      "body": "Once accommodations are in place, the next decision is medication. The 8-question framework that prevents prescriber appointments from going wrong.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-school-advocacy-newsletter",
+  "subscribe_source": "source-wiki-school-advocacy",
+  "sources_intro": "All claims on this page are sourced from <em>The Survival Blueprint</em>, Chapter 7. Primary sources cited:",
+  "sources_list": [
+    "Survival Blueprint Ch. 7 — Tool 7 (Accommodation Request Letter Template); Section 7.2 (accommodation menu by ND profile); 504 vs. IEP decision framework.",
+    "IDEA — Individuals with Disabilities Education Act (US federal law); analogous frameworks under provincial education law in Canada.",
+    "Section 504 of the Rehabilitation Act (US) — basis for accommodation rights distinct from IEP eligibility."
+  ],
+  "sources_outro": ""
+}

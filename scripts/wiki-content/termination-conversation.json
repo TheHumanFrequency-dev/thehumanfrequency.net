@@ -1,0 +1,169 @@
+{
+  "slug": "termination-conversation",
+  "page_num": "22",
+  "title": "Termination Conversation OS",
+  "title_pre_words": "TERMINATION",
+  "title_grad_word": "CONVERSATION",
+  "pillar": "UNDERSTANDING EACH OTHER",
+  "thesis": "The hardest conversation in business — letting someone go with dignity, clarity, and legal precision. The pre-flight checklist, the first 30 seconds, and the things you must never say. Sourced from Difficult Conversations Ch. 13.",
+  "reading_time": "8 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Difficult Conversations, Ch. 13",
+  "date_published": "2026-05-01",
+  "meta_description": "The protocol for compassionate, legally compliant termination conversations. Pre-flight checklist + the first 30 seconds + what never to say. Sourced from Difficult Conversations Ch. 13.",
+  "og_description": "Letting someone go with dignity, clarity, and legal precision. The protocol.",
+  "twitter_description": "Letting someone go with dignity. The protocol — first 30 seconds matter most.",
+  "schema_keywords": "termination, firing employee, layoff, HR compliance, severance, WARN Act, Title VII",
+  "pull_quote": {
+    "text": "Termination conversations must balance profound human empathy with rigorous HR compliance. Be direct and clear within the first 2 minutes. Burying the message in small talk or compliments creates more harm, not less.",
+    "cite": "— Difficult Conversations Playbook, Chapter 13"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "You're about to end someone's job. Maybe a layoff. Maybe a performance termination. Maybe both. You've been carrying the weight for a week. You don't want to do this conversation. The instinct is to soften it — open with chitchat, lead with compliments, get to the point only after warming them up. That instinct is wrong. Every minute you delay the message is a minute they're processing false information about why they were called into your office."
+    },
+    {
+      "type": "p",
+      "text": "Compassionate termination is direct. The directness is the compassion. The Difficult Conversations Playbook Chapter 13 outlines the protocol used by HR professionals at scale — pre-flight checklist, first 30 seconds, what to say and what to never say, and how to manage \"survivor syndrome\" in the team that remains."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things govern the protocol."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Documentation prevents legal exposure.",
+      "rest": "Before any termination — especially performance-based — verify that a comprehensive documentation trail exists: PIPs, attendance records, disciplinary warnings, dated. Without it, the company is exposed to discrimination claims under Title VII, WARN Act violations, and OWBPA non-compliance. Documentation is the protective layer; if it doesn't exist yet, the termination is premature."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Directness is kindness.",
+      "rest": "Burying the message in small talk creates false hope and prolongs the trauma. The standard is: be direct and clear within the first 2 minutes. The person knows something is up the moment you call them in. Stretching it for 10 minutes of preamble feels merciful and isn't. They're processing false information about why they were called in the entire time."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Logistics + dignity in equal measure.",
+      "rest": "After the message, the conversation pivots to logistics: severance, benefits, return of equipment, reference policy, transition support. Each of these is a place to preserve dignity — or to compound the injury. Have all the documents prepared in advance. Don't make promises about future rehire. Don't let the meeting happen on a Friday afternoon."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE STANDARD",
+      "figure": "Direct in 2 minutes · prepared documents · early in the workweek",
+      "cite": "DC Playbook Ch. 13 — Title VII / WARN Act / OWBPA compliance baseline; Friday-afternoon terminations leave the person without HR support over the weekend and predict worse outcomes."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. The first three are pre-meeting; the last two are the meeting itself and what comes after."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Pre-flight checklist — before scheduling",
+      "body": "Verify each item before you put the meeting on the calendar: documentation trail complete (PIPs, warnings, attendance — all dated). Legal/HR has reviewed. Severance prepared and approved. Private location secured (not a glass-walled conference room). Survivor communication plan drafted. Witnesses identified (HR partner is standard). If any item is missing, do not schedule — fix the gap first.",
+      "tip": "If this is a performance termination and the documentation trail is thin, you don't have a termination — you have a PIP. Initiate the PIP with proper documentation; revisit the termination question in 30-60 days."
+    },
+    {
+      "name": "Schedule it correctly — early week, private",
+      "body": "Early in the workweek (Tuesday-Wednesday is ideal), not Friday afternoon. Private location. Block 30-45 minutes minimum (you may need less, but never run short). Have the HR partner present. Have water and tissues available. Make sure the person can leave the building without walking through the team — and if they need to retrieve personal items, plan that explicitly.",
+      "tip": "If the termination is part of a layoff, schedule all the conversations on the same day, not staggered. The team finding out one person at a time over a week creates worse anxiety than a single hard day."
+    },
+    {
+      "name": "First 30 seconds — direct, prepared, unambiguous",
+      "body": "Open with the message. Three sentences, drafted in advance: <em>\"I have hard news. I'm letting you go effective today. I want to walk you through what happens next.\"</em> Or for layoff: <em>\"I have hard news. The company is making cuts and your role is being eliminated effective today. I want to walk you through what happens next.\"</em> Read it from notes if you need to. Do not soften the message. Do not couch it in praise. The directness is the dignity.",
+      "tip": "After the message, stop talking. Let them respond. They may need 30 seconds to absorb. Don't fill the silence with explanations. Wait."
+    },
+    {
+      "name": "Pivot to logistics — with humanity",
+      "body": "Once they've absorbed the message, walk through the logistics calmly: severance amount and timing, benefits continuation (COBRA / equivalent), return of equipment, reference policy, outplacement support if offered. Have all documents ready. Sign nothing today. Hand them the packet to review with counsel of their choice. Make no promises about future rehire or specific reference language — those come from HR, in writing.",
+      "tip": "If they ask \"why me?\" — and they often will — the answer is the same one in the documentation. Performance: \"the issues we discussed in the [date] PIP, [date] review, and [date] warning.\" Layoff: \"the role is being eliminated; this is not about your individual performance.\" Stick to the documented frame."
+    },
+    {
+      "name": "After the meeting — survivor management + next steps",
+      "body": "The team finding out tomorrow is the next conversation. \"Survivor syndrome\" — anxiety, lowered productivity, suspicion about future cuts — sets in if the announcement is opaque or delayed. Communicate transparently within 24 hours: who is gone, what role, what changes for remaining work. Do not share confidential personal details. Address the unstated question every survivor is asking: \"Am I next?\" — directly if you can. \"There are no further reductions planned\" if true; \"I'll communicate as soon as I have more information\" if uncertain.",
+      "tip": "Survivors often want the departed person's contact info to send messages of support. Facilitate this — it's a dignity gesture that costs nothing and matters disproportionately to the person who just lost their job."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Bring it to the pre-meeting prep. Do not bring it into the meeting itself.",
+  "printable_card": {
+    "title": "TERMINATION · 5-STEP PROTOCOL",
+    "subtitle": "DC Playbook Ch. 13",
+    "items": [
+      {
+        "num": "01 · PRE-FLIGHT CHECKLIST",
+        "text": "Documentation, legal review, severance, private location, witnesses.",
+        "help": "If anything is missing, don't schedule yet."
+      },
+      {
+        "num": "02 · SCHEDULE EARLY WEEK",
+        "text": "Tuesday-Wednesday. Private. 30-45 min block.",
+        "help": "Not Friday afternoon. Not a glass-walled room."
+      },
+      {
+        "num": "03 · FIRST 30 SECONDS — DIRECT",
+        "text": "Three sentences, drafted in advance. Read if you must.",
+        "help": "Don't soften. Don't preamble. The directness is the dignity."
+      },
+      {
+        "num": "04 · PIVOT TO LOGISTICS — HUMANELY",
+        "text": "Severance, benefits, equipment, reference policy. Documents ready.",
+        "help": "Sign nothing today. No verbal promises about rehire/references."
+      },
+      {
+        "num": "05 · MANAGE SURVIVORS WITHIN 24 HOURS",
+        "text": "Transparent announcement. Address \"am I next?\" directly.",
+        "help": "Survivor syndrome is the next risk. Manage it."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · See store",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com",
+      "title": "The Difficult Conversations Playbook",
+      "body": "Chapter 13 covers compassionate termination in full clinical detail — the legal architecture (Title VII, WARN Act, OWBPA), the script library, survivor management protocols, and the post-termination 30-day checklist.",
+      "cta": "Read the playbook →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/scarf-threat-audit",
+      "title": "SCARF Threat Audit OS",
+      "body": "Run the SCARF audit before the termination meeting. Status, Certainty, Autonomy, Relatedness, Fairness — all five are firing for the person across from you.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-termination-newsletter",
+  "subscribe_source": "source-wiki-termination",
+  "sources_intro": "All claims on this page are sourced from <em>The Difficult Conversations Playbook</em>, Chapter 13. Primary sources cited:",
+  "sources_list": [
+    "Title VII of the Civil Rights Act (US federal law) — anti-discrimination baseline.",
+    "Worker Adjustment and Retraining Notification (WARN) Act (US federal law) — large-scale layoff notification requirements.",
+    "Older Workers Benefit Protection Act (OWBPA) — additional protections for terminations affecting workers 40+.",
+    "Difficult Conversations Playbook Ch. 13 — full operational protocol with script library and survivor management."
+  ],
+  "sources_outro": ""
+}

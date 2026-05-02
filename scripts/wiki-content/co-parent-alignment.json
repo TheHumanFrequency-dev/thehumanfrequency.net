@@ -1,0 +1,172 @@
+{
+  "slug": "co-parent-alignment",
+  "page_num": "12",
+  "title": "Co-Parent Alignment Monthly Meeting",
+  "title_pre_words": "CO-PARENT",
+  "title_grad_word": "ALIGNMENT",
+  "pillar": "UNDERSTANDING YOUR KIDS",
+  "thesis": "ND kids cannot afford two different rule systems. The 30-minute monthly meeting that prevents the slow drift into \"Dad means consequences and Mom means safety\" — and the three minimum-viable agreements that hold even when philosophical alignment doesn't.",
+  "reading_time": "8 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Survival Blueprint, Ch. 5",
+  "date_published": "2026-05-01",
+  "meta_description": "ND kids need consistent rules across caregivers. The 30-minute monthly meeting agenda + the three Minimum Viable Agreements that hold even when full alignment doesn't. Sourced from Survival Blueprint Ch. 5.",
+  "og_description": "ND kids cannot afford two different rule systems. The monthly meeting that holds it together.",
+  "twitter_description": "30 minutes a month. Six items. The agenda that prevents the slow drift.",
+  "schema_keywords": "co-parenting ND, ADHD parenting consistency, divorced parenting, IEP coordination, Survival Blueprint",
+  "pull_quote": {
+    "text": "In families raising a neurodivergent child, co-parent conflict about discipline, medication, and screen time produces a child who learns 'Dad means punishment and Mom means safety.' The monthly co-parent alignment meeting prevents the cycle.",
+    "cite": "— The Survival Blueprint, Chapter 5"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "You and your co-parent agree your kid needs consistent rules. You disagree on what those rules are, when they apply, what counts as a violation, what the consequence should be, and whether the medication is helping. Each of you is right about half of it. Your kid lives the difference."
+    },
+    {
+      "type": "p",
+      "text": "ND brains depend on predictability more than neurotypical brains do. Two rule systems isn't twice the structure — it's no structure. The child stops trying to predict the environment and starts running parent-to-parent triage: <em>which one is here, what mood, ask for what.</em> That's not manipulation. That's adaptation to chaos."
+    },
+    {
+      "type": "p",
+      "text": "The Survival Blueprint monthly co-parent alignment meeting is a 30-minute structured agenda that prevents drift, surfaces problems early, and (when full philosophical alignment is impossible) lands on the Minimum Viable Agreement — three commitments that have to hold even when everything else is unresolved."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things make the meeting work."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Standing time, low-stakes context.",
+      "rest": "The meeting is a calendar appointment, not an in-the-moment crisis response. 30 minutes, once a month, never during bedtime, never during a meltdown, never when either parent is angry. Ideally outside the house — coffee shop, parked car, a walk. The context is what allows the conversation to happen."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Structured agenda + non-negotiable rules.",
+      "rest": "Six agenda items, in order: wins, data review, what's working, what's not, one focus for next month, self-care check. Rules: no interrupting, no phones, no relitigating past disagreements. If you can't get through the agenda without fighting, bring a therapist as moderator. That's not failure; that's wisdom."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Minimum Viable Agreement when alignment fails.",
+      "rest": "Most co-parents will not achieve full philosophical alignment. The fallback isn't endless argument — it's three non-negotiables that hold regardless of philosophical disagreement: never punish brain-based symptoms, present a united front in front of the child, protect the parent-child relationship over any single rule. Get those three locked and a lot of disagreement becomes survivable."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE STRUCTURE",
+      "figure": "30 minutes · 6 items · once a month",
+      "cite": "Survival Blueprint Ch. 5 — the standing monthly meeting + the three Minimum Viable Agreements; the Tool 3 agenda template is reproduced on this page."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. The first is the meeting structure; the last is the fallback when full alignment isn't achievable."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Schedule the meeting — same time every month",
+      "body": "Pick a recurring slot and make it sacred. Saturday morning at 9 AM works for many families. Out of the house is better than in. No phones. No kids. No checking work email mid-meeting. If a month gets skipped, the next one runs the same agenda — don't double up.",
+      "tip": "If your relationship has high conflict, run the first three meetings with a therapist or trusted neutral. The structure is what you're learning, not the content."
+    },
+    {
+      "name": "Run the 6-item agenda — 5 minutes each",
+      "body": "Wins (each parent names one thing the child did well + one thing the other parent did well). Data review (school reports, grades, medication side effects — facts, not feelings). What's working (continue). What's not (stop or modify, no blame). One focus for next month (single behavioral or academic goal, both parents commit to the SAME approach). Self-care check (how each parent is doing).",
+      "tip": "5 minutes per item is a maximum, not a minimum. If you finish item 2 in 90 seconds, move on. The cap on time prevents any single item from swallowing the meeting."
+    },
+    {
+      "name": "Lock one focus — not five",
+      "body": "The single most common failure of co-parent meetings is leaving with five new commitments instead of one. Pick one. The one with the highest leverage. The other four problems still exist; they wait until next month. Concentration is what makes the protocol work.",
+      "tip": "When in doubt, pick the focus that protects the parent-child relationship most directly. If a child is currently terrified of homework, fix homework before fixing screen time."
+    },
+    {
+      "name": "Lock the three Minimum Viable Agreements",
+      "body": "These three hold even when philosophical alignment doesn't. <strong>(1) We will not punish brain-based symptoms</strong> — fidgeting, forgetting, time blindness, struggle to start, are symptoms not defiance. <strong>(2) We will present a united front</strong> — disagreements about approach are discussed privately, never in front of the child; neither parent overrides the other in real time. <strong>(3) We will protect the relationship first</strong> — if any strategy is consistently damaging the parent-child bond, we modify it even if we believe it \"should\" work.",
+      "tip": "Print the three Minimum Viable Agreements and post them where you both see them daily. They're load-bearing. Disagreement on item 1, 2, or 3 is the place that needs a therapist's help; everything else can be negotiated."
+    },
+    {
+      "name": "Adapt for separated households",
+      "body": "Co-parents in separate households face exponentially harder consistency. Two solutions: written rule cards that travel with the child between houses (laminated, in the backpack), and a shared digital document for medication, school, and behavior tracking that both parents update. The meeting still happens — phone, video, neutral location, whatever works. The format is what makes it survivable.",
+      "tip": "When separated co-parents disagree on diagnosis or medication, the Survival Blueprint Ch. 5 is explicit: get the child's clinician involved, not the family lawyer. The clinician outranks both parents on this specific question."
+    }
+  ],
+  "after_steps_h2": "The printable: the agenda card",
+  "after_steps_p": "Print this. Use it as the actual agenda. Bring it to every meeting until the structure is automatic.",
+  "printable_card": {
+    "title": "CO-PARENT ALIGNMENT · 30 MINUTES",
+    "subtitle": "Survival Blueprint Ch. 5 — Tool 3",
+    "items": [
+      {
+        "num": "01 · WINS — 5 MIN",
+        "text": "One thing the child did well + one thing the other parent did well.",
+        "help": "Non-negotiable even when the month was terrible."
+      },
+      {
+        "num": "02 · DATA REVIEW — 5 MIN",
+        "text": "School reports, grades, medication side effects. Facts.",
+        "help": "Not feelings."
+      },
+      {
+        "num": "03 · WHAT'S WORKING — 5 MIN",
+        "text": "Strategies that produced positive results. Continue.",
+        "help": "Name them explicitly so they don't drift."
+      },
+      {
+        "num": "04 · WHAT'S NOT — 5 MIN",
+        "text": "Stop or modify. No blame.",
+        "help": "Hard. Required."
+      },
+      {
+        "num": "05 · ONE FOCUS · SELF-CARE — 10 MIN",
+        "text": "ONE goal for next month. Then how each parent is actually doing.",
+        "help": "Not five goals. One. Both parents same approach."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $17.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/xigwwn",
+      "title": "The Survival Blueprint",
+      "body": "Chapter 5 covers the four co-parent archetypes (with conflict-pattern matrices), the full Tool 3 agenda template, and Section 5.4 on co-parenting after separation or divorce. Plus the three Minimum Viable Agreements in their full form.",
+      "cta": "Read the guide →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/validate-then-redirect",
+      "title": "Validate-Then-Redirect OS",
+      "body": "The shared in-the-moment protocol both parents can run identically. Half of co-parent alignment is making sure the same script gets used in both households.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-coparent-newsletter",
+  "subscribe_source": "source-wiki-coparent",
+  "sources_intro": "All claims on this page are sourced from <em>The Survival Blueprint</em>, Chapter 5. Primary sources cited:",
+  "sources_list": [
+    "Survival Blueprint Ch. 5 — The Co-Parent Alignment System; Tool 3 (Monthly Meeting Agenda); the three Minimum Viable Agreements.",
+    "Pruett, K. D. & Pruett, M. K. (2009). <em>Partnership Parenting.</em> Foundational on consistency across caregivers as a primary moderator of child outcomes.",
+    "Survival Blueprint Ch. 5.4 — Co-Parenting After Separation or Divorce."
+  ],
+  "sources_outro": ""
+}

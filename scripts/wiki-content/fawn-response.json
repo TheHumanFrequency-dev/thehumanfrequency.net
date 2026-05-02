@@ -1,0 +1,83 @@
+{
+  "slug": "fawn-response",
+  "page_num": "01",
+  "title": "Fawn Response",
+  "title_pre_words": "FAWN",
+  "title_grad_word": "RESPONSE",
+  "pillar": "UNDERSTANDING YOURSELF",
+  "thesis": "The fourth trauma response. The one most people never name. A five-stage protocol to stop running it — sourced strictly from peer-reviewed work.",
+  "reading_time": "11 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Self-Care, Ch. 4 (pp. 48-59)",
+  "date_published": "2026-04-27",
+  "meta_description": "The fourth trauma response: appease. What it looks like, why it forms, and a five-stage protocol to stop running it. Sourced from The Self-Care You Were Never Taught, Chapter 4.",
+  "og_description": "The fourth trauma response. The five-stage protocol to stop running it.",
+  "twitter_description": "The fourth trauma response. The five-stage protocol to stop running it.",
+  "schema_keywords": "fawn response, trauma response, Pete Walker, complex PTSD, schema therapy, internal family systems, assertiveness",
+  "pull_quote": {
+    "text": "Fawn types seek safety by merging with the wishes, needs, and demands of others. They act as if they unconsciously believe that the price of admission to any relationship is the forfeiture of all their needs, rights, preferences, and boundaries.",
+    "cite": "— Pete Walker, Complex PTSD: From Surviving to Thriving (2013)"
+  },
+  "sections": [],
+  "steps": [
+    {
+      "name": "Recognition",
+      "body": "You see the pattern.",
+      "tip": ""
+    },
+    {
+      "name": "Tracking",
+      "body": "You start noticing the fawn response in real time.",
+      "tip": ""
+    },
+    {
+      "name": "Graduated Exposure",
+      "body": "Speed et al. (2017) framed assertiveness training around a 0-100 SUDS scale.",
+      "tip": ""
+    },
+    {
+      "name": "Integration",
+      "body": "The new behaviors stop feeling effortful.",
+      "tip": ""
+    },
+    {
+      "name": "Relapse and Repair",
+      "body": "You will fall back into fawn patterns. Guaranteed.",
+      "tip": ""
+    }
+  ],
+  "after_steps_h2": "The printable: a body-knowledge check",
+  "after_steps_p": "",
+  "printable_card": {
+    "title": "BODY-KNOWLEDGE CHECK",
+    "subtitle": "Four questions. Answer fast.",
+    "items": [
+      {
+        "num": "01 · Expanded or contracted?",
+        "text": "Notice your chest, jaw, stomach.",
+        "help": "Genuine generosity feels expansive. Fawning feels tight, pressured, resigned."
+      },
+      {
+        "num": "02 · Can I say no without rehearsing?",
+        "text": "Try the no in your head, plain and unjustified.",
+        "help": "If the no needs a script, an excuse, or extensive justification, the yes was probably fear-based."
+      },
+      {
+        "num": "03 · Will I resent this later?",
+        "text": "Imagine yourself doing the thing. Watch your gut.",
+        "help": "Resentment is the signature emotion of the fawn response."
+      },
+      {
+        "num": "04 · Would I do this if no one knew?",
+        "text": "Strip the audience away.",
+        "help": "Fawning often requires an audience. Kindness usually doesn't."
+      }
+    ]
+  },
+  "exits": [],
+  "subscribe_form_name": "wiki-fawn-newsletter",
+  "subscribe_source": "source-wiki-fawn-response",
+  "sources_intro": "All claims on this page are cited in The Self-Care You Were Never Taught, Chapter 4 (pp. 48-59).",
+  "sources_list": [],
+  "sources_outro": ""
+}

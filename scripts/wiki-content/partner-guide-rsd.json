@@ -1,0 +1,172 @@
+{
+  "slug": "partner-guide-rsd",
+  "page_num": "17",
+  "title": "Partner's Guide to RSD",
+  "title_pre_words": "PARTNER'S GUIDE",
+  "title_grad_word": "TO RSD",
+  "pillar": "UNDERSTANDING EACH OTHER",
+  "thesis": "RSD doesn't end at 18. The partner's protocol for adult relationships where one or both people experience rejection sensitivity. What to say in the moment. What never to say. How to repair when you've triggered it without meaning to.",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Survival Blueprint, Ch. 1.2 + Difficult Conversations Ch. 10",
+  "date_published": "2026-05-01",
+  "meta_description": "RSD doesn't end at 18. The partner's protocol for adult relationships — what to say, what never to say, and how to repair after triggering it. Sourced from Survival Blueprint Ch. 1.2 + DC Ch. 10.",
+  "og_description": "RSD in adult relationships. The partner's protocol. What to say. What never to say.",
+  "twitter_description": "RSD doesn't end at 18. The partner's protocol.",
+  "schema_keywords": "RSD adults, partner RSD, ADHD relationships, rejection sensitivity, repair attempt, Gottman",
+  "pull_quote": {
+    "text": "Loving someone with RSD means accepting that small comments will sometimes register as catastrophic. Not because they're 'too sensitive' — because their nervous system is doing something measurably different.",
+    "cite": "— Survival Blueprint Ch. 1.2 + Difficult Conversations Ch. 10"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "You said something neutral. \"Did you remember to take out the recycling?\" Or \"I'm tired tonight.\" Or you didn't text back for three hours because you were in a meeting. Your partner is now in their head, replaying the interaction, certain you are angry with them or thinking about leaving, and the next conversation will be them either withdrawing entirely or asking some version of \"are you mad at me?\" forty minutes after the trigger."
+    },
+    {
+      "type": "p",
+      "text": "If this pattern is recurring in your relationship, RSD is probably part of the picture. RSD is not a children's diagnosis — it persists into adulthood and shapes adult relationships in specific, predictable ways. Most adults living with it have never had it named. Most partners have learned to walk on eggshells without knowing why."
+    },
+    {
+      "type": "p",
+      "text": "This page is the partner's protocol — what to say in the moment, what never to say, and how to repair when you've triggered an episode without meaning to. It draws from Survival Blueprint's RSD framework and Difficult Conversations' Gottman repair attempt research."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things matter for partners."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Triggers in adult relationships are different from triggers in childhood.",
+      "rest": "Children with RSD trigger on classroom corrections and peer comments. Adults with RSD trigger on what Gottman calls \"bids for connection that get ignored\" — delayed replies, neutral facial expressions, perceived sighs of frustration, the ambiguous tone of a text. The threshold is the same; the input changes."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Pursuit and withdrawal are both RSD responses.",
+      "rest": "Some adults with RSD pursue — \"are you mad at me, what did I do, please tell me\" — until the partner reassures them. Others withdraw — silence, distance, an emotional wall. Both are coping strategies for the same neurological event. Recognizing which strategy your partner runs is the first step to responding usefully."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Repair attempts have to be explicit.",
+      "rest": "John Gottman's research on long-term relationships found that the strongest predictor of relationship durability is the quality and frequency of repair attempts — small gestures or statements designed to prevent negativity from escalating. For partners managing RSD together, repair attempts have to be more explicit, more deliberate, and more frequent than they would be otherwise. Subtle repair signals don't register through the RSD filter."
+    },
+    {
+      "type": "stat_box",
+      "label": "GOTTMAN'S CRITICAL RULE",
+      "figure": "An effective repair attempt must NEVER be followed by \"but\"",
+      "cite": "Difficult Conversations Ch. 10 (Gottman) — \"I apologize for my tone, but you started it\" instantly invalidates the accountability and re-triggers defensiveness. The repair must stand alone. For RSD partners, this rule is non-negotiable."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. The first three are in-the-moment; the last two are the architecture of a relationship where RSD is part of the landscape."
+    }
+  ],
+  "steps": [
+    {
+      "name": "When triggered: name the gap, not the misread",
+      "body": "Don't say \"I never said that\" or \"you misunderstood me.\" Both are accurate and both will escalate. Instead, name the gap between what you sent and what they received: \"I didn't mean for that to land the way it did. The thing I was actually trying to say is...\" The reframe centers your intention, not their interpretation, which removes the implicit accusation from the conversation.",
+      "tip": "If you find yourself wanting to defend, pause. The defensive instinct is the exact thing that prolongs the episode. Lead with curiosity instead: \"I can see that landed badly — can you tell me what you heard?\""
+    },
+    {
+      "name": "Validate the feeling — without endorsing the false belief",
+      "body": "Same rule as RSD with kids. Validate the experience: \"I can see you're hurting right now.\" \"This is hard.\" Do NOT validate the false belief: don't say \"yes, I am angry with you\" if you weren't, and don't say \"I'm sorry I made you feel that way\" because it's a false-attribution apology. The line is: feeling is real, the conclusion the brain drew about your intent isn't.",
+      "tip": "If you genuinely don't know whether you contributed to the trigger, ask. \"Was there something in what I said that landed wrong?\" is a curiosity question, not a defensive one."
+    },
+    {
+      "name": "Offer presence, then space — let them choose",
+      "body": "Some adults with RSD want to be held. Others want to be left alone for an hour. The question that respects both is: \"Do you want me here, or do you want me to give you some space and check back in an hour?\" Not \"do you want to talk about it,\" which is a demand. Let them choose the form of regulation that works for their nervous system.",
+      "tip": "If they choose space, actually leave. Coming back \"to check\" 10 minutes later reads as not respecting the answer. Set a phone alarm for the agreed-on window and trust the protocol."
+    },
+    {
+      "name": "Build the explicit-repair architecture",
+      "body": "Have the meta-conversation during a calm period, not during an episode. Three things to lock: (1) what triggers tend to land catastrophically (often delayed replies, neutral tone in person, sighs after work, withheld eye contact); (2) the words your partner finds genuinely repairing (\"I'm not angry. I love you. Nothing has changed.\" works for many); (3) the recovery time your partner typically needs after an episode. Knowing all three converts a chaotic pattern into a known one.",
+      "tip": "Write the answers down. RSD episodes erase memory of these conversations. Having a written reference both partners can return to is part of what makes the architecture survive."
+    },
+    {
+      "name": "Build a shared Evidence File — for the relationship",
+      "body": "Adapt the Survival Blueprint's child-focused Evidence File to the relationship. A shared box, document, or note: kind text exchanges, photos of happy moments, the early-relationship messages, the things you've each said that the other person felt seen by. During an RSD episode, the partner can be invited to look. \"Your brain is lying to you right now. Want to look at the file?\" The same line that works for kids works for adults whose nervous systems are running the same pattern.",
+      "tip": "The file does not replace therapy, communication work, or in some cases medication. It is a supplemental intervention — load-bearing, not primary."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Use it the next time something neutral lands as catastrophic. The protocol is what saves the next 90 minutes.",
+  "printable_card": {
+    "title": "PARTNER'S GUIDE TO RSD",
+    "subtitle": "Survival Blueprint Ch. 1.2 + DC Ch. 10",
+    "items": [
+      {
+        "num": "01 · NAME THE GAP",
+        "text": "\"I didn't mean for that to land the way it did. What I meant was...\"",
+        "help": "Center your intention, not their interpretation."
+      },
+      {
+        "num": "02 · VALIDATE FEELING — NOT FALSE BELIEF",
+        "text": "\"I can see you're hurting.\" Not \"yes, I'm angry.\"",
+        "help": "Feeling is real. The brain's conclusion isn't."
+      },
+      {
+        "num": "03 · PRESENCE OR SPACE — THEY CHOOSE",
+        "text": "\"Want me here, or want space and I check in an hour?\"",
+        "help": "If they choose space, leave. Trust the answer."
+      },
+      {
+        "num": "04 · BUILD EXPLICIT REPAIR ARCHITECTURE",
+        "text": "Triggers, repair phrases, recovery time — written down.",
+        "help": "Have the meta-conversation during calm."
+      },
+      {
+        "num": "05 · SHARED EVIDENCE FILE",
+        "text": "Photos, kind messages, early-relationship texts. Saved.",
+        "help": "\"Want to look at the file?\""
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $17.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/xigwwn",
+      "title": "The Survival Blueprint",
+      "body": "Chapter 1.2 covers RSD across the lifespan, including the persistence into adulthood, the medication considerations, and the cross-generational pattern when both parent and child carry it.",
+      "cta": "Read the guide →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/gottman-repair",
+      "title": "Gottman Repair Phrases OS",
+      "body": "The empirically-grounded repair attempts that work in any difficult conversation, with or without RSD in the picture. Drafted from Difficult Conversations Ch. 10.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-partner-rsd-newsletter",
+  "subscribe_source": "source-wiki-partner-rsd",
+  "sources_intro": "All claims on this page are sourced from <em>The Survival Blueprint</em>, Chapter 1.2 and <em>The Difficult Conversations Playbook</em>, Chapter 10. Primary sources cited:",
+  "sources_list": [
+    "Dodson, W. (clinical observations) — RSD as a feature of ADHD persisting across the lifespan.",
+    "Gottman, J. M. & Silver, N. (1999). <em>The Seven Principles for Making Marriage Work.</em> Foundational on repair attempts and the Four Horsemen.",
+    "Survival Blueprint Ch. 1.2; Difficult Conversations Ch. 10 — Gottman Method: Rupture and Repair."
+  ],
+  "sources_outro": ""
+}

@@ -1,0 +1,167 @@
+{
+  "slug": "humming-protocol",
+  "page_num": "05",
+  "title": "Humming and OM Protocol",
+  "title_pre_words": "HUMMING",
+  "title_grad_word": "PROTOCOL",
+  "pillar": "UNDERSTANDING YOURSELF",
+  "thesis": "Five minutes of humming. The lowest stress index of any condition tested in a Holter monitoring study — including sleep. Free, silent enough to do at your desk, and one of the most underused regulation tools in the catalogue.",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Self-Care, Ch. 3",
+  "date_published": "2026-05-01",
+  "meta_description": "Five minutes of humming or OM chanting produces the lowest stress index of any condition tested — including sleep. Mechanism, protocol, wallet card. Sourced from Inbaraj et al. 2022.",
+  "og_description": "Five minutes of humming. Lower stress index than sleep. The most underused regulation tool in the catalogue.",
+  "twitter_description": "Five minutes of humming. Lower stress index than sleep, in a Holter study.",
+  "schema_keywords": "humming, OM chanting, Bhramari Pranayama, vagus nerve, HRV, Inbaraj 2022, parasympathetic",
+  "pull_quote": {
+    "text": "A Holter monitoring study found humming produced the lowest stress index of all conditions tested, including sleep (p < 0.05), with the highest total HRV power and SDNN.",
+    "cite": "— Inbaraj et al. (2022), International Journal of Yoga"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "You're at a desk. You can't take a cold-water break. You can't lie on the floor and do five minutes of structured breathing. You can quietly hum, with your mouth closed, while reading email."
+    },
+    {
+      "type": "p",
+      "text": "Humming is the least-glamorous regulation tool in the chapter and one of the most effective. The exhale is long because singing is a long exhale. The vibration mechanically stimulates the vagus nerve. Five minutes shifts the autonomic state more reliably than ten minutes of trying to think your way calm."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Humming and chanting work through dual vagal stimulation — two pathways at once."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Long exhale, again.",
+      "rest": "Sustained vocalization on the exhale activates vagal pathways through the same respiratory entrainment that powers cyclic sighing and diaphragmatic breathing. You can't hum on the inhale. The technique forces the long exhale into existence."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Mechanical vagal stimulation.",
+      "rest": "The vocal fold vibrations directly stimulate the recurrent laryngeal branch of the vagus nerve — a literal mechanical signal sent up the same nerve that the long exhale activates chemically. This is the part you can't get from breathing alone. Five minutes of steady humming has been shown to measurably shift heart rate variability."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "The OM evidence.",
+      "rest": "Inbaraj et al. (2022, <em>International Journal of Yoga</em>) demonstrated that five minutes of loud OM chanting produces immediate increases in HF-HRV power — a marker of parasympathetic dominance. A separate Holter monitoring study found humming produced the lowest stress index of any condition tested, with the highest total HRV power and SDNN. Including sleep. p < 0.05."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE HOLTER STUDY RESULT",
+      "figure": "Lowest stress index of any condition · including sleep",
+      "cite": "Holter monitoring study cited in Self-Care Ch. 3: humming produced the lowest stress index of all conditions tested, with the highest total HRV power and SDNN (p < 0.05). Inbaraj et al. (2022): five minutes of OM chanting → immediate HF-HRV increase."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. Five to ten minutes. Best done somewhere you don't mind making sound — but a closed-mouth hum is quiet enough for an open-plan office."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Settle and seal",
+      "body": "Sit comfortably. Mouth closed, lips lightly touching, teeth slightly apart. Optional: place your index fingers in your ears — this amplifies the vibration and turns the practice into Bhramari Pranayama, the traditional version.",
+      "tip": "If you're at a desk and can't seal off the world, just close the mouth and lean into the vibration. The mechanical stimulation works either way."
+    },
+    {
+      "name": "Inhale through the nose — full but unstrained",
+      "body": "Slow inhale through the nose. Aim for a full breath — you need the air to sustain the hum. Don't max it out; you need to be able to hum for the full exhale.",
+      "tip": "If you find yourself running out of air halfway through the hum, you took too big of an inhale or held too high a pitch. Adjust on the next breath."
+    },
+    {
+      "name": "Hum the exhale — low, steady, like a bee",
+      "body": "On the exhale, make a low, steady humming sound — close to your natural speaking pitch, slightly lower if comfortable. Hold it for the full duration of the exhale. Feel the vibration in the throat, chest, and sinuses.",
+      "tip": "The Bhramari version uses the syllable \"mmm.\" Some people prefer \"hmm\" or even an OM. The specific syllable matters less than the sustained vibration on a long exhale."
+    },
+    {
+      "name": "Repeat for five to ten minutes",
+      "body": "Continue inhale-hum-inhale-hum. Don't count. Don't try to make it sound \"right.\" The point is the mechanical stimulation, not the music. After two or three minutes, most people notice a settling — that's the parasympathetic shift landing.",
+      "tip": "Five minutes is the floor. The Holter study used continuous humming sessions; longer durations correlated with stronger HRV effects."
+    },
+    {
+      "name": "Settle in silence — one minute",
+      "body": "When the timer ends, breathe normally with the mouth closed for one minute. Don't talk yet. The post-protocol silence is where the autonomic shift consolidates and the system anchors the new baseline.",
+      "tip": "If you feel slightly buzzed or pleasantly altered — that's normal. The combined HRV shift and the rich oxygenation produce a mild flow state. Don't drive immediately after a 10-minute session."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "The whole protocol fits on a card. Print it. Tape it inside the cabinet next to your desk. Use it before the meetings.",
+  "printable_card": {
+    "title": "HUMMING · 5-10 MINUTES",
+    "subtitle": "Inbaraj et al. 2022 · Bhramari Pranayama",
+    "items": [
+      {
+        "num": "01 · SETTLE AND SEAL",
+        "text": "Mouth closed, lips touching, teeth apart. Fingers in ears (optional).",
+        "help": "Bhramari version. Or just close the mouth."
+      },
+      {
+        "num": "02 · INHALE — NOSE, FULL",
+        "text": "Slow nasal inhale. Full but unstrained.",
+        "help": "Enough air to hum the full exhale."
+      },
+      {
+        "num": "03 · HUM THE EXHALE — LOW",
+        "text": "Steady hum, like a bee. Low, comfortable pitch.",
+        "help": "Vibration in throat, chest, sinuses."
+      },
+      {
+        "num": "04 · REPEAT 5-10 MIN",
+        "text": "Don't count. Don't try to sound right.",
+        "help": "Mechanical stimulation, not music."
+      },
+      {
+        "num": "05 · SETTLE IN SILENCE 1 MIN",
+        "text": "Mouth closed. No talking. Breathe normal.",
+        "help": "The shift consolidates here."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full chapter · $27",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/lwawbf",
+      "title": "The Self-Care You Were Never Taught",
+      "body": "Chapter 3 covers humming and Bhramari Pranayama, plus four other vagal-tone protocols and the state-matching framework. Chapter 5 covers vagal tone as a measurable trait and the practices that build it over weeks and months.",
+      "cta": "Read the book →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/cyclic-sighing",
+      "title": "Cyclic Sighing OS",
+      "body": "Humming and cyclic sighing share the same engine: long exhale plus vagal stimulation. If you can't hum where you are, cyclic sighing is silent and equally well-evidenced.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-humming-newsletter",
+  "subscribe_source": "source-wiki-humming",
+  "sources_intro": "All claims on this page are cited in <em>The Self-Care You Were Never Taught</em>, Chapter 3. Primary sources:",
+  "sources_list": [
+    "Inbaraj, G. et al. (2022). Immediate effects of OM chanting on heart rate variability measures. <em>International Journal of Yoga.</em>",
+    "Holter monitoring study (cited in Self-Care Ch. 3) — humming produced the lowest stress index of all conditions tested, including sleep (p < 0.05); highest total HRV power and SDNN."
+  ],
+  "sources_outro": ""
+}

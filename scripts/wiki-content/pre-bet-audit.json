@@ -1,0 +1,168 @@
+{
+  "slug": "pre-bet-audit",
+  "page_num": "24",
+  "title": "5-Question Pre-Bet Audit",
+  "title_pre_words": "5-QUESTION",
+  "title_grad_word": "PRE-BET AUDIT",
+  "pillar": "UNDERSTANDING YOURSELF",
+  "thesis": "The decision discipline that separates winning poker players from losing ones — and applies equally to any high-stakes choice you make under pressure. Five questions to run before committing chips, capital, or commitment.",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Wired to Win, Ch. 14",
+  "date_published": "2026-05-01",
+  "meta_description": "The 5-question pre-bet audit — the decision discipline that separates winning players from losing ones, applied to any high-stakes decision. Sourced from Wired to Win Ch. 14.",
+  "og_description": "Five questions before any high-stakes decision. The discipline that separates winners from losers.",
+  "twitter_description": "Five questions before betting chips, capital, or commitment.",
+  "schema_keywords": "decision making, poker strategy, pre-decision audit, EV thinking, expected value, Wired to Win",
+  "pull_quote": {
+    "text": "The losing player and the winning player look identical in any single hand. The difference is invisible: the winner ran a five-question audit before pressing the chip forward; the loser pressed first and rationalized after.",
+    "cite": "— Wired to Win, Chapter 14"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "You're about to make a decision under pressure. A bet at the poker table. A trade. A pricing call on a contract. A response in a difficult conversation. The system 1 (fast, intuitive) brain has already produced an answer. The system 2 (slow, deliberative) brain hasn't shown up yet. Most decisions made under pressure are made by system 1 alone — which means they're made on pattern-match, not on math."
+    },
+    {
+      "type": "p",
+      "text": "The 5-Question Pre-Bet Audit forces system 2 online for 30 seconds before commitment. It's the decision-quality equivalent of a pilot's pre-flight checklist: not because pilots are bad, but because the cost of a missed item is asymmetric. Wired to Win Chapter 14 frames it as the highest-leverage decision tool in the catalog. The page below extracts the framework so it works for any high-stakes choice, not just poker."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things make the 5 questions outperform improvisation."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "System 2 needs an external prompt.",
+      "rest": "Under pressure, the deliberative brain has to be summoned deliberately. It does not show up on its own. A written list of five questions — printed, memorized, tattooed on a wallet card — is the prompt that pulls system 2 online. The questions are not optional even when the answer feels obvious."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Each question targets a known cognitive failure mode.",
+      "rest": "Q1 (what's my range vs. theirs) targets the failure to think probabilistically. Q2 (what's the EV) targets the failure to compute expected value. Q3 (am I tilted) targets the failure to notice your own emotional state. Q4 (what's my BATNA / fold equity) targets the failure to consider alternatives. Q5 (what's the worst case I can live with) targets the failure to size the bet to actual stakes. Each question is a checkpoint against a specific bias."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Process discipline beats intuition over time.",
+      "rest": "Even great players make decisions that look identical to a losing player's in any single hand. The difference is process discipline — running the questions every hand, every time, regardless of how obvious the answer feels. Over thousands of decisions, the disciplined process compounds. Over single decisions, it looks like overhead. The compounding is the point."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE COMPOUND",
+      "figure": "Process discipline > raw skill over thousands of decisions",
+      "cite": "Wired to Win Ch. 14 — the difference between winning and losing professional players is rarely individual hand quality; it's the consistency of the pre-decision audit applied across thousands of decisions."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps, one per question. Adapted from poker to any high-stakes decision. The shapes hold; only the inputs change."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Q1: What's the range — mine and the other side's?",
+      "body": "In poker: what hands could my opponent realistically have, and what hands could I have given the action so far? In any decision: what are the realistic possibilities — for what I'm trying to achieve and for what the other side is doing? \"They have a strong hand\" is a guess. \"They could have any of these 12 hand combinations, and 8 of them beat mine\" is a range.",
+      "tip": "Most decision-making improves dramatically just from substituting \"a range of possibilities\" for \"the most likely outcome.\" The probabilistic frame is the entire trick."
+    },
+    {
+      "name": "Q2: What's the expected value (EV)?",
+      "body": "What does this decision pay off, weighted by the probability it pays off? In poker: pot size × probability I win, minus call size × probability I lose. In business: upside × probability of upside, minus cost × probability of failure. EV thinking forces you to multiply, not just add. \"There's a chance this works\" doesn't pencil. \"There's a 30% chance this returns 4x and a 70% chance it returns 0\" pencils.",
+      "tip": "If you can't put numbers on probability, use ranges (\"between 20% and 40%\") and compute EV at both ends. If both endpoints have positive EV, the decision holds; if only one does, you're in fragile territory."
+    },
+    {
+      "name": "Q3: Am I tilted?",
+      "body": "Tilt is any emotional state that's distorting my decision-making. In poker, tilt has seven types (covered on the Tilt Taxonomy page). In life, tilt looks like: I'm angry, I'm scared, I'm desperate to recover a loss, I'm proving something to someone, I just won and feel invincible. If I am tilted, my pre-bet answers in Q1 and Q2 are unreliable. The honest answer to Q3 may be: pause until tilted state passes. That's a complete decision.",
+      "tip": "If you can't tell whether you're tilted, ask: would I make this decision the same way if I'd had the previous 30 minutes go differently? If the answer is no, you're tilted."
+    },
+    {
+      "name": "Q4: What's my BATNA?",
+      "body": "What is my best alternative to making this commitment right now? In poker: I can fold and play the next hand. In business: I can wait, negotiate further, walk away to another offer, or do nothing. Most pressured decisions feel binary (\"do this or lose everything\") and are actually multi-option. Naming the BATNA explicitly — even for 10 seconds — is what shifts the decision from \"do it\" to \"is this better than my alternative.\"",
+      "tip": "If your BATNA is genuinely terrible, that's information about the broader situation, not an instruction to take the current bad option. Often the right response to a bad BATNA is to invest in strengthening alternatives, not to accept a bad current deal."
+    },
+    {
+      "name": "Q5: What's the worst case I can live with?",
+      "body": "If this decision goes badly, what's the loss? Can I survive it financially, professionally, relationally? Sizing the bet to your actual stakes is the difference between healthy risk-taking and ruin. \"This will work out\" is not a sizing rule. \"If this returns 0, I can absorb it\" is. The Tendler stop-loss principle applies here: pre-commit the worst case before pressure arrives.",
+      "tip": "If you cannot articulate the worst case in concrete terms (specific dollar loss, specific reputation hit, specific time cost), you're not ready to commit. The unease is information."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Keep it visible during high-stakes decisions. The 30 seconds it takes to run is the highest-leverage time in the entire decision.",
+  "printable_card": {
+    "title": "5-QUESTION PRE-BET AUDIT",
+    "subtitle": "Wired to Win Ch. 14",
+    "items": [
+      {
+        "num": "01 · RANGE — MINE AND THEIRS",
+        "text": "What are the realistic possibilities? Probabilistic, not single-answer.",
+        "help": "\"A range of\" beats \"the likely.\""
+      },
+      {
+        "num": "02 · EXPECTED VALUE",
+        "text": "Upside × probability minus downside × probability.",
+        "help": "Multiply, not add."
+      },
+      {
+        "num": "03 · AM I TILTED?",
+        "text": "Angry, scared, desperate, proving? If yes, pause.",
+        "help": "Tilted answers to Q1+Q2 are unreliable."
+      },
+      {
+        "num": "04 · BATNA",
+        "text": "Best alternative if I don't commit right now?",
+        "help": "Most pressured decisions feel binary, are multi-option."
+      },
+      {
+        "num": "05 · WORST CASE I CAN LIVE WITH",
+        "text": "Concrete dollar / time / reputation loss. Pre-committed.",
+        "help": "If you can't articulate it concretely, you're not ready."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $34.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/cepsrj",
+      "title": "Wired to Win",
+      "body": "Chapter 14 covers the 5-Question Pre-Bet Audit in poker context, with worked examples for cash games and tournaments. Plus the full tilt taxonomy and the mental hand history framework that catches what the audit missed.",
+      "cta": "Read the book →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/tilt-taxonomy",
+      "title": "Tendler 7-Tilt OS",
+      "body": "Q3 — \"am I tilted\" — has seven distinct answers. The next page covers each, with the specific cognitive injection that defuses each one.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-pre-bet-newsletter",
+  "subscribe_source": "source-wiki-pre-bet",
+  "sources_intro": "All claims on this page are sourced from <em>Wired to Win</em>, Chapter 14. Primary sources cited:",
+  "sources_list": [
+    "Tendler, J. (2011). <em>The Mental Game of Poker.</em> Foundational on tilt and structured pre-decision discipline.",
+    "Kahneman, D. (2011). <em>Thinking, Fast and Slow.</em> System 1 vs. System 2 framework underlying the audit's necessity.",
+    "Wired to Win Ch. 14 — operationalized for poker; this page extracts the framework for any high-stakes decision."
+  ],
+  "sources_outro": ""
+}

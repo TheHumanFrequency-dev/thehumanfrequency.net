@@ -1,0 +1,168 @@
+{
+  "slug": "five-non-negotiables",
+  "page_num": "06",
+  "title": "The Five Non-Negotiables",
+  "title_pre_words": "FIVE",
+  "title_grad_word": "NON-NEGOTIABLES",
+  "pillar": "UNDERSTANDING YOURSELF",
+  "thesis": "The five practices Self-Care argues you cannot skip — five minutes of cyclic sighing, consistent sleep timing, one HALT check, one implementation intention, one honest conversation a week. Each backed by evidence. None requires more than five minutes.",
+  "reading_time": "6 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Self-Care, Ch. 8",
+  "date_published": "2026-05-01",
+  "meta_description": "The five practices Self-Care argues you cannot skip. Each evidence-based. None more than five minutes. The minimum-viable nervous-system maintenance schedule.",
+  "og_description": "Five practices. None more than five minutes. The non-negotiable floor for nervous-system maintenance.",
+  "twitter_description": "Five practices. None more than five minutes. The non-negotiable floor.",
+  "schema_keywords": "self-care basics, daily habits, cyclic sighing, sleep timing, HALT check, implementation intention, honest conversation",
+  "pull_quote": {
+    "text": "These are not negotiable. They are the non-negotiable requirements of being human. And meeting them takes less than 30 minutes a day, total.",
+    "cite": "— The Self-Care You Were Never Taught, Chapter 8"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "Most self-care advice fails for the same reason most fitness advice fails: it scales the floor instead of holding it. Someone tells you to meditate for an hour, journal in two layers, do morning pages, run, drink eight glasses of water, set boundaries, and feel your feelings. Three days in, you skip one. Then two. Then the whole architecture collapses and you blame your discipline."
+    },
+    {
+      "type": "p",
+      "text": "The fix is not more discipline. The fix is a smaller, non-negotiable floor — five practices small enough that on your worst day you can still hit them. Donald Winnicott called this the good-enough principle. Self-Care, Chapter 8, calls it the Five Non-Negotiables."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "These five aren't the most ambitious self-care practices. They are the load-bearing ones. Each closes a specific physiological or psychological loop the body cannot self-regulate without."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Nervous system regulation.",
+      "rest": "Cyclic sighing and consistent sleep timing maintain the autonomic rhythm. Without these, every other practice is fighting upstream against a dysregulated baseline."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Bodily-needs accuracy.",
+      "rest": "The HALT check (Hungry? Angry? Lonely? Tired?) prevents the most common error in emotional life: interpreting a physiological state as an emotional one. \"I'm depressed\" is sometimes \"I haven't eaten in six hours.\" Thirty seconds of asking solves a surprising amount."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Behavioral lock-in.",
+      "rest": "An implementation intention — \"if X happens, then I will do Y\" — has a Cohen's d effect size of 0.65 in the meta-analysis literature, meaning it roughly doubles follow-through versus a generic intention. Pair it with a honest weekly conversation, and the social and behavioral dimensions of regulation are covered too."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE EFFECT SIZE",
+      "figure": "d = 0.65 · implementation intentions vs. plain intent",
+      "cite": "Self-Care Ch. 8 — implementation intentions roughly double follow-through compared to generic intentions. Combined with the four other non-negotiables, the floor for sustainable regulation."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five practices. Total daily cost: under 30 minutes. Each one's optional individually; together they're the floor."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Five minutes of cyclic sighing — daily",
+      "body": "The single most evidence-backed breathing technique. Outperformed mindfulness meditation in the 2023 Stanford RCT. Five minutes. Every day. Non-negotiable.",
+      "tip": "If you can't make five minutes, make two. Skip-day rate matters more than session length."
+    },
+    {
+      "name": "Consistent sleep timing — within 30 minutes",
+      "body": "Same bedtime and wake time, within 30 minutes, including weekends. This single change improves sleep quality more than any other sleep hygiene intervention. Not perfect timing — consistent timing.",
+      "tip": "Anchor the wake time first. If wake is consistent, bedtime stabilizes on its own within two weeks."
+    },
+    {
+      "name": "One HALT check per day",
+      "body": "Hungry? Angry? Lonely? Tired? Address the physiological need before interpreting the emotion. Thirty seconds. Most distress that masquerades as a mood disorder is a HALT signal that's been ignored long enough to feel like personality.",
+      "tip": "Tag this onto an existing daily moment — at the kitchen sink after lunch, when you close your laptop, etc. Don't create a new ritual; bolt it onto a real one."
+    },
+    {
+      "name": "One implementation intention",
+      "body": "Choose one self-care behavior. Write one if-then plan: \"If [trigger], then I will [behavior].\" Follow it for two weeks before adding another. Effect size d = 0.65 — roughly double the follow-through of generic intentions.",
+      "tip": "Trigger has to be something that already happens reliably. \"After my morning coffee\" works. \"When I have time\" doesn't."
+    },
+    {
+      "name": "One honest conversation per week",
+      "body": "With someone you trust. About how you actually are, not how you want to appear. This single practice covers emotional rest, social rest, and co-regulation. Once a week is the floor; more is better.",
+      "tip": "Doesn't have to be in person. A 20-minute phone call counts. The criterion is honesty, not duration or format."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Stick it on your bathroom mirror. Five practices. Check the boxes daily. The floor.",
+  "printable_card": {
+    "title": "FIVE NON-NEGOTIABLES · DAILY FLOOR",
+    "subtitle": "Self-Care Chapter 8",
+    "items": [
+      {
+        "num": "01 · CYCLIC SIGHING — 5 MIN",
+        "text": "Inhale, top-off, long exhale. Five minutes a day.",
+        "help": "Outperformed mindfulness in the 2023 Stanford RCT."
+      },
+      {
+        "num": "02 · SLEEP TIMING — ±30 MIN",
+        "text": "Same bed and wake time. Including weekends.",
+        "help": "Single biggest sleep-quality lever."
+      },
+      {
+        "num": "03 · HALT CHECK — 30 SECONDS",
+        "text": "Hungry? Angry? Lonely? Tired? Address the physical first.",
+        "help": "Most distress is a body signal mislabeled."
+      },
+      {
+        "num": "04 · ONE IMPLEMENTATION INTENTION",
+        "text": "If [real trigger], then I will [specific behavior].",
+        "help": "d = 0.65 effect size. Doubles follow-through."
+      },
+      {
+        "num": "05 · ONE HONEST CONVERSATION / WEEK",
+        "text": "Trusted person. How you actually are.",
+        "help": "Emotional + social rest + co-regulation in one practice."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full chapter · $27",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/lwawbf",
+      "title": "The Self-Care You Were Never Taught",
+      "body": "Chapter 8 builds the full self-care plan around the Five Non-Negotiables — the architecture for habit-stacking, the worksheet, the morning and evening anchors. Chapter 7 is on implementation intentions in clinical detail.",
+      "cta": "Read the book →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/cyclic-sighing",
+      "title": "Cyclic Sighing OS",
+      "body": "The first non-negotiable, in full. Five minutes a day, the protocol, the mechanism, the wallet card.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-non-negotiables-newsletter",
+  "subscribe_source": "source-wiki-non-negotiables",
+  "sources_intro": "All claims on this page are cited in <em>The Self-Care You Were Never Taught</em>, Chapters 7-8. Primary sources:",
+  "sources_list": [
+    "Balban, M. Y. et al. (2023). Brief structured respiration practices enhance mood and reduce physiological arousal. <em>Cell Reports Medicine.</em> Stanford RCT — basis for cyclic sighing as the first non-negotiable.",
+    "Gollwitzer, P. M. & Sheeran, P. (2006). Implementation intentions and goal achievement: a meta-analysis of effects and processes. <em>Advances in Experimental Social Psychology.</em> d = 0.65 effect size.",
+    "Walker, M. P. (2017). <em>Why We Sleep.</em> Foundational work on consistent sleep timing as the strongest single sleep-hygiene intervention."
+  ],
+  "sources_outro": ""
+}

@@ -1,0 +1,173 @@
+{
+  "slug": "state-matched-decision-tree",
+  "page_num": "07",
+  "title": "State-Matched Decision Tree",
+  "title_pre_words": "STATE-MATCHED",
+  "title_grad_word": "DECISION TREE",
+  "pillar": "UNDERSTANDING YOURSELF",
+  "thesis": "Most self-care advice ignores the only question that matters: what state am I actually in? Generic calming techniques produced 28% improvement. State-matched interventions hit 67%. The decision tree that picks the right tool for the actual moment.",
+  "reading_time": "9 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Self-Care, Ch. 3",
+  "date_published": "2026-05-01",
+  "meta_description": "State-matched regulation is the principle that decides which self-care tool fits which moment. The Window of Tolerance + the 5-step decision tree. Sourced from Kim et al. 2023 and Siegel.",
+  "og_description": "Generic regulation: 28% improvement. State-matched regulation: 67%. The decision tree that picks the right tool.",
+  "twitter_description": "State-matched regulation has 67% improvement vs 28% for generic. Pick the right tool.",
+  "schema_keywords": "state matching, window of tolerance, hyperarousal, hypoarousal, Dan Siegel, Kim 2023, polyvagal, regulation",
+  "pull_quote": {
+    "text": "Mismatched regulation strategies — using calming techniques during hypoarousal — actively worsened outcomes in 34% of participants. State-matched interventions showed a 67% improvement rate compared to 28% for generic approaches.",
+    "cite": "— Kim et al. (2023), Journal of Affective Disorders"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "You're shut down — flat, numb, unable to feel anything sharp. So you do the thing the wellness industry told you to do: a meditation, a body scan, a slow breath. Twenty minutes later you're shut down and disappointed in yourself. The technique \"didn't work,\" so the conclusion is that you're broken."
+    },
+    {
+      "type": "p",
+      "text": "You're not broken. You used a down-regulation tool while your nervous system needed an up-regulation tool. Most self-care advice ignores this distinction entirely — and according to Kim et al. (2023), it makes outcomes <em>worse</em> in roughly a third of cases."
+    },
+    {
+      "type": "p",
+      "text": "State-matching is the principle that picks the right tool for the actual state. The decision tree below is the operating system for the rest of the wiki."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three concepts make state-matching work."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "The Window of Tolerance.",
+      "rest": "Daniel Siegel's framework: every nervous system has a zone of arousal it can function within. Above the window, you're hyperaroused — anxious, racing, hypervigilant. Below it, you're hypoaroused — numb, flat, disconnected. Inside it, you can think, feel, and engage. Most regulation work is about returning to the window, not about staying inside it permanently."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Direction matters.",
+      "rest": "Above the window, the body needs <em>down-regulation</em> — vagal activation to engage the parasympathetic brake. Cyclic sighing, diving reflex, humming, extended-exhale breathing. Below the window, the body needs <em>up-regulation</em> — gentle activation to climb out of dorsal vagal shutdown. Cold water on wrists, rhythmic bilateral movement, energizing breath, strong sensory input. Wrong direction, wrong outcome."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "The mismatch cost is real.",
+      "rest": "Kim et al. (2023, <em>Journal of Affective Disorders</em>) found that state-mismatched interventions — using calming techniques during hypoarousal — not only failed to improve mood, they actively worsened outcomes in 34% of participants. State-matched interventions hit 67% improvement vs. 28% for generic. The same techniques. The variable was whether they fit the state."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE STATE-MATCH RESULT",
+      "figure": "67% improvement (matched) vs 28% (generic) · 34% worse outcomes when mismatched",
+      "cite": "Kim et al. (2023, Journal of Affective Disorders) — autonomic state assessment should precede any regulation intervention. The same tools work or actively backfire depending on whether they fit the direction the nervous system actually needs."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. Use it before reaching for any regulation tool. The whole point is the order — assessment first, intervention second."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Pause and locate",
+      "body": "Before doing anything else, pause for 30 seconds. Notice your body without trying to change it. Heart rate. Muscle tension. Breath rhythm. Energy. Don't analyze. Just locate.",
+      "tip": "If 30 seconds feels too long, three breaths is enough. The point is to interrupt the automatic reach for whatever technique you usually default to."
+    },
+    {
+      "name": "Where am I — above, below, or within the window?",
+      "body": "Above (hyperarousal): racing thoughts, muscle tension, rapid heart rate, hypervigilance, can't sit still, irritability. Below (hypoarousal): numb, flat, disconnected, unable to move, brain-foggy, vague heaviness. Within: present and engaged, even if struggling with something specific. Most people are not within. Most people are slightly above or slightly below all day and have stopped noticing.",
+      "tip": "If you can't tell, you are probably slightly below. People who can't locate state usually default-numb under chronic stress."
+    },
+    {
+      "name": "If above — down-regulate",
+      "body": "Engage the parasympathetic brake. Cyclic sighing (5 min), cold water on the face (15-30 sec), humming (5 min), or extended-exhale breathing (4 in, 8 out). Do not try to think your way through it. The prefrontal cortex is offline above the window. Calm the body first, then engage cognition.",
+      "tip": "If above the window for more than an hour, multiple short interventions outperform one long one. Cold water reset → 5 min cyclic sighing → 5 min walk."
+    },
+    {
+      "name": "If below — up-regulate, gently",
+      "body": "Gently mobilize energy without triggering full sympathetic. Cold water on wrists (not face — different effect). Rhythmic bilateral movement (walking with arm swing, drumming on knees). Energizing breath (short inhale, sharp exhale, 30 seconds). Strong sensory input (ice, lemon, peppermint oil). Calling a safe person.",
+      "tip": "Slower is faster. Pushing too hard tips you from hypoarousal into sympathetic activation, which is more dysregulated, not less."
+    },
+    {
+      "name": "If within — HALT and respond",
+      "body": "If you're inside the window but still struggling, the issue isn't autonomic state. Run the HALT check (Hungry? Angry? Lonely? Tired?) and address the physiological need. Then ask which dimension of rest is most depleted (physical, mental, emotional, social, sensory, creative) and pick a practice from that dimension.",
+      "tip": "Within-the-window distress is usually a HALT signal or a needs-not-met signal, not a regulation problem. Don't apply autonomic tools to a needs problem."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Carry it. The 30-second pause to consult the card is the entire trick — the rest is just picking the right tool for the state you actually located.",
+  "printable_card": {
+    "title": "STATE-MATCHED DECISION TREE",
+    "subtitle": "Kim et al. 2023 · Siegel · Self-Care Ch. 3",
+    "items": [
+      {
+        "num": "01 · PAUSE — 30 SECONDS",
+        "text": "Notice the body. Don't analyze. Just locate.",
+        "help": "Heart, breath, tension, energy."
+      },
+      {
+        "num": "02 · ABOVE, BELOW, OR WITHIN?",
+        "text": "Above: racing, tense, hypervigilant. Below: numb, flat, foggy.",
+        "help": "Most people are slightly outside the window."
+      },
+      {
+        "num": "03 · IF ABOVE — DOWN-REGULATE",
+        "text": "Cyclic sighing, cold water on face, humming, long exhale.",
+        "help": "Body first. Don't think your way through it."
+      },
+      {
+        "num": "04 · IF BELOW — UP-REGULATE GENTLY",
+        "text": "Cold on wrists, walking, rhythm, sensory input, safe person.",
+        "help": "Slower is faster. Don't overshoot to sympathetic."
+      },
+      {
+        "num": "05 · IF WITHIN — HALT",
+        "text": "Hungry? Angry? Lonely? Tired? Address the body need first.",
+        "help": "Then pick a rest dimension and a practice from it."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full chapter · $27",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/lwawbf",
+      "title": "The Self-Care You Were Never Taught",
+      "body": "Chapter 3 covers the full state-matching framework, the autonomic ladder (Deb Dana / Polyvagal Theory), pendulation practice (Peter Levine), and the complete tool inventory for both directions of regulation. The decision tree is the OS; the chapter is the manual.",
+      "cta": "Read the book →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/cyclic-sighing",
+      "title": "Cyclic Sighing OS",
+      "body": "The most-used down-regulation tool when the decision tree points above the window. Five minutes a day, Stanford 2023.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-state-matched-newsletter",
+  "subscribe_source": "source-wiki-state-matched",
+  "sources_intro": "All claims on this page are cited in <em>The Self-Care You Were Never Taught</em>, Chapter 3. Primary sources:",
+  "sources_list": [
+    "Kim, S. et al. (2023). State-matched regulation strategies and outcome variability in mood disorders. <em>Journal of Affective Disorders.</em> 67% improvement matched vs. 28% generic; 34% worsened with mismatch.",
+    "Siegel, D. J. (1999/2020). The Window of Tolerance — foundational framework in <em>The Developing Mind</em> and subsequent clinical work.",
+    "Dana, D. (2018). <em>The Polyvagal Theory in Therapy.</em> The autonomic ladder model.",
+    "Levine, P. (1997). <em>Waking the Tiger.</em> Pendulation practice as the bridge between activation and settling."
+  ],
+  "sources_outro": ""
+}

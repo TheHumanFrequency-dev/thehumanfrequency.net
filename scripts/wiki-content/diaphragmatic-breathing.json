@@ -1,0 +1,167 @@
+{
+  "slug": "diaphragmatic-breathing",
+  "page_num": "04",
+  "title": "Diaphragmatic Breathing OS",
+  "title_pre_words": "DIAPHRAGMATIC",
+  "title_grad_word": "BREATHING",
+  "pillar": "UNDERSTANDING YOURSELF",
+  "thesis": "Eight breaths a minute. Inhale four, exhale six to eight. The protocol that flips the autonomic switch from sympathetic to parasympathetic — backed by a systematic review of every breathing technique that's been studied.",
+  "reading_time": "8 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Self-Care, Ch. 3",
+  "date_published": "2026-05-01",
+  "meta_description": "Diaphragmatic breathing at ~8 breaths per minute makes parasympathetic activity dominant. The mechanism, the 5-step protocol, and a wallet card. Sourced from Hopper et al. 2019 systematic review.",
+  "og_description": "Eight breaths a minute. Inhale four, exhale six to eight. The protocol that flips the autonomic switch.",
+  "twitter_description": "Eight breaths a minute is the trigger. Sourced from Hopper et al. 2019.",
+  "schema_keywords": "diaphragmatic breathing, parasympathetic, vagal tone, extended exhale, Hopper 2019, anxiety reduction",
+  "pull_quote": {
+    "text": "Slow diaphragmatic breathing at approximately eight breaths per minute makes parasympathetic activity dominant. The longer the exhale relative to the inhale, the more vagal tone.",
+    "cite": "— Hopper et al. (2019), JBI Database of Systematic Reviews"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "Most people breathe 12 to 20 times a minute. Most of those breaths are shallow — chest only, the diaphragm barely moving. That's a perfectly fine breathing pattern for sitting at a desk. It's also a breathing pattern that keeps your sympathetic nervous system mildly engaged most of the day."
+    },
+    {
+      "type": "p",
+      "text": "Diaphragmatic breathing is the lever for everything else. Slower than your default. Lower in the body. Longer on the exhale than the inhale. Practice it for five minutes and the body shifts from \"mildly braced\" to \"actively recovering.\" Practice it daily and the baseline moves."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things are happening when you breathe diaphragmatically with a long exhale."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Vagal activation.",
+      "rest": "The vagus nerve runs from the brainstem to the gut, and it's the main parasympathetic highway. Long exhales mechanically stimulate it. The longer the exhale relative to the inhale, the more vagal tone you generate. This is why every evidence-based breathing protocol — cyclic sighing, resonance, 4-7-8 — is built around the same physics."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Slowing the breath.",
+      "rest": "Slow diaphragmatic breathing at roughly eight breaths per minute makes parasympathetic activity dominant. Hopper et al. (2019, <em>JBI Database</em>) reviewed the evidence systematically and found this rate is the inflection point — slower is better, faster doesn't reliably shift autonomic balance."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Diaphragm vs. chest.",
+      "rest": "Chest breathing — what most people default to under stress — keeps the breath shallow and the rhythm fast. Diaphragmatic breathing engages the larger muscle, draws air deeper, and naturally slows the rate. The hand-on-belly check is the simplest way to know which one you're doing."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE SYSTEMATIC REVIEW FINDING",
+      "figure": "~8 breaths/min · inhale 4 · exhale 6-8",
+      "cite": "Hopper et al. (2019, JBI Database of Systematic Reviews) — diaphragmatic breathing decreases physiological and psychological stress; the ratio of inhale to exhale matters more than the specific count, and ~8 breaths per minute is the parasympathetic-dominant inflection point."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. Five to ten minutes. Sit, lie down, walk slowly — the rate matters more than the position."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Find the diaphragm",
+      "body": "One hand on chest, one on belly. The hand on your belly should rise more than the hand on your chest. If the chest is the only thing moving, you're shallow-breathing. Send the breath lower — let the belly expand outward like a balloon.",
+      "tip": "Lying down makes this easier the first few times — gravity helps you feel the diaphragm dropping."
+    },
+    {
+      "name": "Inhale four counts — through the nose",
+      "body": "Slow inhale through the nose. Count to four. The expansion is in the belly and lower ribs, not the chest. Don't strain — \"four counts\" is a rhythm, not a target.",
+      "tip": "Nasal breathing matters here. Mouth-breathing tends to pull the breath back into the chest and accelerate the rate."
+    },
+    {
+      "name": "Exhale six to eight counts — through the mouth",
+      "body": "Long, slow exhale through the mouth. Aim for six to eight counts — at least 1.5x the inhale. This is the vagal lever. The longer the exhale, the more parasympathetic shift.",
+      "tip": "Slight pursing of the lips creates resistance and naturally lengthens the exhale. It also slows the rate without you having to think about it."
+    },
+    {
+      "name": "Hold the rhythm for five minutes",
+      "body": "Continue the cycle. Don't count breaths — count the rhythm. Eight breaths a minute is roughly one breath every 7.5 seconds. After two or three minutes, the body usually settles into the rhythm without active counting.",
+      "tip": "If you lose the rhythm or the mind wanders, just resume on the next inhale. There's no penalty. The body keeps responding to the pattern even when attention drifts."
+    },
+    {
+      "name": "Notice — then carry it",
+      "body": "After five minutes, breathe normally for one minute. Then take the rhythm with you. Diaphragmatic breathing is a default state you can return to between meetings, before sleep, in traffic, in a difficult conversation. The five-minute practice trains the rhythm; the rest of the day applies it.",
+      "tip": "Pair it with an existing trigger — \"every time I sit at my desk\" or \"every time I close a browser tab\" — to build the default without adding effort."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "The whole protocol fits on a card. Print it. Set it as your phone lock screen. Use it in the meetings where you need it.",
+  "printable_card": {
+    "title": "DIAPHRAGMATIC BREATHING · 5 MINUTES",
+    "subtitle": "Hopper et al. 2019 — JBI systematic review",
+    "items": [
+      {
+        "num": "01 · FIND THE DIAPHRAGM",
+        "text": "One hand on chest, one on belly. Belly should rise more.",
+        "help": "Chest only = shallow. Send the breath lower."
+      },
+      {
+        "num": "02 · INHALE 4 — NOSE",
+        "text": "Slow, through the nose. Belly expands.",
+        "help": "Rhythm, not target. Don't strain."
+      },
+      {
+        "num": "03 · EXHALE 6-8 — MOUTH",
+        "text": "Long, slow exhale. Pursed lips help.",
+        "help": "At least 1.5x the inhale. The vagal lever."
+      },
+      {
+        "num": "04 · HOLD THE RHYTHM 5 MIN",
+        "text": "~8 breaths per minute. Don't count.",
+        "help": "Roughly one breath every 7.5 seconds."
+      },
+      {
+        "num": "05 · CARRY IT",
+        "text": "Return to the rhythm during the day. Pair with a trigger.",
+        "help": "The session trains it. The day applies it."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full chapter · $27",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/lwawbf",
+      "title": "The Self-Care You Were Never Taught",
+      "body": "Chapter 3 covers diaphragmatic breathing in clinical context, plus four other evidence-based protocols (cyclic sighing, resonance, 4-7-8, box) and the state-matching framework that decides which to use when. 162 pages, 94+ peer-reviewed studies cited.",
+      "cta": "Read the book →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/cyclic-sighing",
+      "title": "Cyclic Sighing OS",
+      "body": "Diaphragmatic breathing is the daily baseline. Cyclic sighing is the variant with the strongest acute-state evidence — five minutes a day for 28 days, the Stanford 2023 result.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-diaphragmatic-newsletter",
+  "subscribe_source": "source-wiki-diaphragmatic",
+  "sources_intro": "All claims on this page are cited in <em>The Self-Care You Were Never Taught</em>, Chapter 3. Primary sources:",
+  "sources_list": [
+    "Hopper, S. I. et al. (2019). Effectiveness of diaphragmatic breathing for reducing physiological and psychological stress in adults: a quantitative systematic review. <em>JBI Database of Systematic Reviews and Implementation Reports.</em>",
+    "Balban, M. Y. et al. (2023). Brief structured respiration practices enhance mood and reduce physiological arousal. <em>Cell Reports Medicine.</em> Stanford RCT establishing the value of long-exhale breathing protocols generally."
+  ],
+  "sources_outro": ""
+}

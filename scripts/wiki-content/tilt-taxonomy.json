@@ -1,0 +1,172 @@
+{
+  "slug": "tilt-taxonomy",
+  "page_num": "25",
+  "title": "Tendler 7-Tilt OS",
+  "title_pre_words": "TENDLER",
+  "title_grad_word": "7-TILT OS",
+  "pillar": "UNDERSTANDING YOURSELF",
+  "thesis": "Tilt isn't one thing. It's seven distinct types, each with a different trigger, a different root belief, and a different cognitive injection that defuses it. Treating all tilt the same is like treating all illnesses with the same medicine.",
+  "reading_time": "9 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Wired to Win, Ch. 13",
+  "date_published": "2026-05-01",
+  "meta_description": "Jared Tendler's tilt taxonomy: seven types of emotional disruption, each with a specific cognitive injection that defuses it. Sourced from Wired to Win Ch. 13.",
+  "og_description": "Tilt isn't one thing. It's seven distinct types, each with a different cure.",
+  "twitter_description": "Seven types of tilt. Seven cognitive injections. Tendler's framework.",
+  "schema_keywords": "tilt, emotional regulation, Jared Tendler, mental game, decision making under stress",
+  "pull_quote": {
+    "text": "Treating all tilt as a single phenomenon, as most players do, is like treating all illnesses with the same medicine. You have to diagnose before you can treat.",
+    "cite": "— Wired to Win, Chapter 13 (after Tendler)"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "Something just went badly. A bad beat, a missed forecast, a project that imploded, a comment that landed wrong. The next 20 minutes of your decision-making are not the same as the previous 20. Your brain is now operating from a different state — heightened emotion, narrowed focus, distorted probability assessment. This is tilt."
+    },
+    {
+      "type": "p",
+      "text": "Most people treat tilt as a single condition: \"I'm tilted, I should calm down.\" Jared Tendler's framework — synthesized in Wired to Win Ch. 13 — argues that tilt is actually seven distinct conditions. Each has its own trigger, its own underlying belief, and its own cognitive correction. Generic \"calm down\" advice fails because the right correction depends on which type of tilt you're in."
+    },
+    {
+      "type": "p",
+      "text": "This page maps the seven tilts. The exact cognitive injection from Tendler's framework is included for each. The whole list fits on a card you can carry."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things make the taxonomy useful."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Each tilt has a flawed belief.",
+      "rest": "Tendler's insight: tilt is downstream of an underlying belief that's wrong. Running-Bad tilt is downstream of \"results should match decision quality in the short run.\" Hate-Losing tilt is downstream of \"losing reflects negatively on me as a person.\" The cognitive injection works by surfacing and correcting the belief, not by suppressing the emotion."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Reading the injection out loud engages a different circuit.",
+      "rest": "Tendler recommends building a \"tilt first-aid kit\" — written corrections in your own words, accessed during a break. The act of reading, not just thinking, engages different cognitive pathways than the emotional circuits firing. Reading breaks the loop in a way internal monologue can't."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Naming is half the work.",
+      "rest": "Just identifying which type of tilt you're in often defuses 30-50% of it. The diagnostic act — \"this is Mistake Tilt, not Running-Bad Tilt\" — is itself an act of system 2 engagement, which lowers system 1's grip. Even if you don't apply the injection, naming the type helps."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE SEVEN TYPES",
+      "figure": "Running-Bad · Injustice · Hate-Losing · Entitlement · Revenge · Desperation · Mistake",
+      "cite": "Tendler, J. (2011). <em>The Mental Game of Poker.</em> Synthesized in Wired to Win Ch. 13. Each type has a distinct trigger, root belief, and cognitive injection."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. Step 1 is the diagnostic; steps 2-5 are the four most-encountered tilt types and their injections. The full seven are on the printable card."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Diagnose first — name the type",
+      "body": "Before applying any injection, identify which tilt type is firing. The triggers help: did you just have a streak of bad outcomes (Running-Bad)? A specific unfair-feeling event (Injustice)? Any loss at all (Hate-Losing)? A loss to someone you perceive as inferior (Entitlement)? A specific opponent (Revenge)? A deep losing session you want to recover (Desperation)? A mistake you knew was wrong as you made it (Mistake)? Pick the one that fits.",
+      "tip": "If two types feel applicable, the more specific one usually fires first. \"I lost to my rival\" looks like both Hate-Losing and Entitlement; if the trigger is the rival specifically, it's Entitlement; if it's the loss in general, it's Hate-Losing."
+    },
+    {
+      "name": "Running-Bad → variance is math, not punishment",
+      "body": "Trigger: a cluster of negative outcomes. Belief: \"results should match decision quality in the short run.\" Injection (read aloud): <em>\"Variance is a mathematical certainty, not a personal attack. A 5bb/100 winner will lose for 50,000 hands and it's a statistically unremarkable event. My strategy doesn't become wrong because the last 500 hands went against me. The sample is too small to draw any conclusion. Keep playing correctly. The math takes care of the rest.\"</em>",
+      "tip": "Adapt the injection to your domain. For trading: \"a 60%-edge strategy will lose 40% of trades, including streaks. The streak is not evidence the strategy is wrong.\" For business: \"good decisions can produce bad outcomes in any single quarter.\""
+    },
+    {
+      "name": "Injustice → opponent's mistake = your long-term profit",
+      "body": "Trigger: a specific bad beat that feels fundamentally unfair. Belief: \"the game should reward good play and punish bad play in real time.\" Injection: <em>\"My opponent's mistake is my long-term profit source. If they always played correctly, I'd have no edge. The specific hand where their mistake got rewarded is the price of admission to a game where their mistakes fund my income across thousands of hands. I want them to make that call every time.\"</em>",
+      "tip": "Injustice tilt is the most contagious — it spreads to bystanders watching your bad beat. Articulating the injection to yourself prevents the spread."
+    },
+    {
+      "name": "Hate-Losing → losing is structural, not personal",
+      "body": "Trigger: any loss, even a correct one. Belief: \"losing reflects on me as a player and as a person.\" Injection: <em>\"Losing is a structural feature of the game, not a failure. Even the best player in the world loses roughly 40% of their sessions. My job is to make correct decisions, not to win every hand. Decision quality is the only metric that matters, and it's completely disconnected from short-term monetary results.\"</em>",
+      "tip": "Hate-Losing is the most common tilt in domains where competence is part of identity (engineering, surgery, anything credential-heavy). The injection is decoupling decision quality from outcome."
+    },
+    {
+      "name": "Mistake → recover, don't compound",
+      "body": "Trigger: making an error you knew was wrong as you made it. Belief: \"one mistake means I've lost control. If I can't play my A-game, I might as well give up on this session.\" Injection: <em>\"Everyone makes mistakes. The best players in the world make multiple mistakes per session. The difference is that they don't let one mistake become five. Acknowledge the error, note it for post-session review, and reset. The next hand is independent of the last one. My ability to recover from a mistake is a more important skill than never making one.\"</em>",
+      "tip": "Mistake Tilt is the most dangerous because it cascades. Catching it early is the difference between a one-mistake session and a ten-mistake session. The Mental Hand History (next page) is the post-session debrief that prevents the same mistake next time."
+    }
+  ],
+  "after_steps_h2": "The printable: the seven-tilt card",
+  "after_steps_p": "Print this. The card lists all seven tilts with their triggers and injections. Build your own \"tilt first-aid kit\" — write the injections in your own words, with examples from your own history.",
+  "printable_card": {
+    "title": "TENDLER 7-TILT TAXONOMY",
+    "subtitle": "Wired to Win Ch. 13",
+    "items": [
+      {
+        "num": "01 · RUNNING-BAD",
+        "text": "Cluster of negative outcomes. \"Results should match decisions short-term.\"",
+        "help": "Variance is math, not punishment."
+      },
+      {
+        "num": "02 · INJUSTICE",
+        "text": "Specific unfair beat. \"The game should reward good play in real time.\"",
+        "help": "Their mistake is your long-term profit."
+      },
+      {
+        "num": "03 · HATE-LOSING + ENTITLEMENT",
+        "text": "Any loss / loss to inferior. Structural feature, not personal failure.",
+        "help": "Even pros lose 40% of sessions."
+      },
+      {
+        "num": "04 · REVENGE + DESPERATION",
+        "text": "Specific opponent / want to recover before quitting.",
+        "help": "Each hand independent. Honor the stop-loss."
+      },
+      {
+        "num": "05 · MISTAKE",
+        "text": "Error you knew was wrong as you made it.",
+        "help": "Recover, don't compound. One mistake ≠ five."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $34.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/cepsrj",
+      "title": "Wired to Win",
+      "body": "Chapter 13 covers all seven tilts in clinical detail with poker-specific examples and the full tilt first-aid kit template. Chapter 14 is the pre-bet audit; Chapter 16 is the mental hand history that converts post-session reflection into compounding skill.",
+      "cta": "Read the book →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/mental-hand-history",
+      "title": "Mental Hand History OS",
+      "body": "After tilt, the post-session debrief. The 5-step Mental Hand History format that turns emotional leakage into structured learning.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-tilt-newsletter",
+  "subscribe_source": "source-wiki-tilt",
+  "sources_intro": "All claims on this page are sourced from <em>Wired to Win</em>, Chapter 13. Primary sources cited:",
+  "sources_list": [
+    "Tendler, J. (2011). <em>The Mental Game of Poker.</em>",
+    "Tendler, J. (2013). <em>The Mental Game of Poker 2.</em>",
+    "Wired to Win Ch. 13 — synthesized tilt taxonomy with poker-specific cognitive injections; framework adapted for general decision-making in this page."
+  ],
+  "sources_outro": ""
+}

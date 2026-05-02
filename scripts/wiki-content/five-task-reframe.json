@@ -1,0 +1,172 @@
+{
+  "slug": "five-task-reframe",
+  "page_num": "10",
+  "title": "The 5-Task Reframe",
+  "title_pre_words": "THE",
+  "title_grad_word": "5-TASK REFRAME",
+  "pillar": "UNDERSTANDING YOUR KIDS",
+  "thesis": "\"Go get ready for bed\" is five tasks. Maybe seven. \"Clean your room\" is twelve. The reframe that explains why ND kids stall on the obvious — and the micro-command structure that fixes it.",
+  "reading_time": "6 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Survival Blueprint, Ch. 2 (Teacher Briefing)",
+  "date_published": "2026-05-01",
+  "meta_description": "ND brains can't reverse-engineer multi-step requests. The 5-task reframe shows what every \"simple\" parental command actually contains — and the micro-command fix.",
+  "og_description": "\"Go get ready for bed\" is five tasks. Why ND kids stall on the obvious.",
+  "twitter_description": "\"Go get ready for bed\" is five tasks. The reframe that explains the stall.",
+  "schema_keywords": "task initiation, executive function, multi-step instructions, ADHD, ND parenting, working memory",
+  "pull_quote": {
+    "text": "[Child] may appear 'unmotivated' when actually they cannot neurologically activate for low-interest tasks. Working memory limits mean multi-step verbal instructions are lost after step 2.",
+    "cite": "— The Survival Blueprint, Chapter 2 (Teacher Briefing)"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "It's 7:15 PM. You said \"go get ready for bed\" twenty-five minutes ago. Your child has changed into pajamas — only the top — and is sitting on the bathroom floor staring at their toothbrush. They are not defying you. They are not lazy. They are not even particularly distractible right now. They have stalled on a request you experience as trivial."
+    },
+    {
+      "type": "p",
+      "text": "Here's why. \"Go get ready for bed\" is not one task. To you it feels like one because you have done it 15,000 times and the steps have collapsed into a single mental gesture. To the ND brain in front of you, the request is: <strong>brush teeth → use toilet → wash face → change into pajamas → put dirty clothes in the hamper → get into bed → wait for me to come read</strong>. That's seven tasks. Each one is its own start. Each one needs the prefrontal cortex to activate, which is the exact circuit that's impaired."
+    },
+    {
+      "type": "p",
+      "text": "The 5-task reframe is the realization that turns parenting an ND child from constant frustration into an executable system: every \"simple\" command you issue contains hidden steps, and the brain you are talking to needs each step named explicitly."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things explain the stall."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Task initiation is its own deficit.",
+      "rest": "ADHD researcher Russell Barkley has written extensively on task initiation as a discrete executive function — the ability to start a non-preferred task when nothing in the environment is forcing the start. ND brains have measurably less capacity here. They are not lacking willpower; they are lacking the activation circuit that converts \"I should do this\" into \"my body is doing this.\""
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Working memory tops out at 2.",
+      "rest": "The Survival Blueprint Teacher Briefing puts the limit explicitly: multi-step verbal instructions are lost after step 2 in most ND learners. \"Brush your teeth, get dressed, and come downstairs\" stacks three commands. By the time the child has finished tooth-brushing, the rest has evaporated. They genuinely do not remember they were supposed to get dressed."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Reverse-engineering doesn't happen.",
+      "rest": "FASD and ADHD research both confirm this: the brain cannot reverse-engineer a goal into steps under stress. \"Clean your room\" produces executive paralysis because the brain cannot determine where to start, what to do next, or what \"clean\" means in concrete terms. The result looks like defiance and is actually paralysis."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE WORKING-MEMORY CEILING",
+      "figure": "Multi-step verbal instructions evaporate after step 2",
+      "cite": "Survival Blueprint Ch. 2 + Invisible Disability Ch. 4 (Magic Key #7) — ND brains process instructions one step at a time. Stacking commands does not save time; it creates the appearance of non-compliance."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. Apply this to every routine that historically stalls — bedtime, mornings, leaving the house, homework start."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Map the steps once — written down",
+      "body": "Sit with paper. Take the request that always stalls. Break it into atomic steps until each one is a single, concrete physical action. \"Get ready for bed\" becomes a numbered list of 5-7 steps. \"Clean your room\" becomes 8-12. The mapping is a one-time investment that pays off forever.",
+      "tip": "If you can't break a step further without feeling silly, you're at the right level. \"Pick up the clothes from the floor and put them in the hamper\" is one step. \"Tidy your floor\" is not."
+    },
+    {
+      "name": "Issue one micro-command",
+      "body": "Speak only step 1. Wait for completion. Do not preview the rest. \"Step 1: Brush your teeth.\" Then stop. The child does not need to know where this is heading. Their brain only needs the next thing.",
+      "tip": "Naming \"Step 1\" verbally is part of the technique. It signals to the child that there is structure, even if you don't reveal it all at once."
+    },
+    {
+      "name": "Wait — and confirm completion",
+      "body": "Stay nearby. Wait until the step is complete. Confirm: \"OK, teeth done.\" The confirmation closes one loop in their head, freeing up the working-memory bandwidth needed to receive the next instruction.",
+      "tip": "The wait feels excruciating the first ten times. It is faster than the alternative, which is repeating yourself for forty-five minutes."
+    },
+    {
+      "name": "Issue the next micro-command",
+      "body": "\"Step 2: Put on your pajamas.\" Wait. Confirm. Step 3. Wait. Confirm. The cadence is slow on purpose. Each step gets its own activation. Each completion gets its own dopamine hit. The brain that struggles with task initiation gets seven small wins instead of one impossible request.",
+      "tip": "If the child resists at any step, that's the place that needs scaffolding. Note it. That's where the next visual schedule, body-doubling intervention, or tool goes."
+    },
+    {
+      "name": "Convert the map into a visual schedule",
+      "body": "Once you have run the protocol verbally a few times, convert the list into a posted visual schedule with photos or icons. Mount it at the child's eye level. Velcro-backed cards moved to a \"done\" column work especially well for ages 5-9. The visual schedule replaces you over time — the goal is to fade your verbal scaffolding as the visual scaffolding takes over.",
+      "tip": "The schedule lives where the activity happens. Bedtime schedule → bathroom mirror. Morning schedule → bedroom door. Homework schedule → next to the desk. Don't centralize."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. Pin it inside the cabinet next to wherever the stall keeps happening. Use it the next time \"get ready\" produces a 25-minute pause.",
+  "printable_card": {
+    "title": "5-TASK REFRAME · MICRO-COMMANDS",
+    "subtitle": "Survival Blueprint Ch. 2",
+    "items": [
+      {
+        "num": "01 · MAP THE STEPS — WRITTEN",
+        "text": "Break the request into 5-7 atomic actions. One time.",
+        "help": "If you can't break it further without feeling silly, you're at the right level."
+      },
+      {
+        "num": "02 · ISSUE ONE STEP",
+        "text": "\"Step 1: Brush your teeth.\" Then stop. Don't preview.",
+        "help": "The brain only needs the next thing."
+      },
+      {
+        "num": "03 · WAIT + CONFIRM",
+        "text": "Stay nearby. \"OK, teeth done.\" Close the loop.",
+        "help": "Frees working memory for step 2."
+      },
+      {
+        "num": "04 · NEXT STEP",
+        "text": "Step 2. Wait. Confirm. Step 3.",
+        "help": "Slow on purpose. Seven small wins."
+      },
+      {
+        "num": "05 · CONVERT TO VISUAL SCHEDULE",
+        "text": "Posted schedule + Velcro \"done\" cards.",
+        "help": "Replaces your scaffolding over time."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $17.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/xigwwn",
+      "title": "The Survival Blueprint",
+      "body": "Chapter 2 has the full one-page Teacher Briefing template, plus the daily structure templates by age band (5-9, 10-14, 15-18) and the visual schedule materials. Tool 7b lists therapy and support options matched by ND profile.",
+      "cta": "Read the guide →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/transition-protocol",
+      "title": "Transition Protocol OS",
+      "body": "Once each step is named, transitions between them are the next failure mode. The triple-redundant warning system handles it.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-five-task-reframe-newsletter",
+  "subscribe_source": "source-wiki-five-task-reframe",
+  "sources_intro": "All claims on this page are sourced from <em>The Survival Blueprint</em>, Chapter 2 (Teacher Briefing) and Chapter 7 (School Advocacy). Primary sources cited:",
+  "sources_list": [
+    "Barkley, R. A. (2015). <em>Attention-Deficit Hyperactivity Disorder.</em> Foundational on task initiation as a discrete executive function deficit.",
+    "Survival Blueprint Ch. 2 — The One-Page Teacher Briefing template; multi-step verbal instructions are lost after step 2.",
+    "Invisible Disability Ch. 4 — Magic Key #7: Specific Directives — micro-commands, not goals."
+  ],
+  "sources_outro": ""
+}

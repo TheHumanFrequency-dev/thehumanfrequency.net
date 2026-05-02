@@ -1,0 +1,168 @@
+{
+  "slug": "salary-negotiation",
+  "page_num": "23",
+  "title": "Salary Negotiation OS",
+  "title_pre_words": "SALARY",
+  "title_grad_word": "NEGOTIATION",
+  "pillar": "UNDERSTANDING EACH OTHER",
+  "thesis": "Three scripted frameworks: the Value Proposition that opens the negotiation, the Pivot when base salary is denied, and the Future Commitment that secures the next review. Plus the five non-salary elements you can negotiate when the base is fixed.",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Difficult Conversations, Ch. 12",
+  "date_published": "2026-05-01",
+  "meta_description": "Three scripted salary negotiation frameworks: Value Proposition, Pivot, Future Commitment. Plus the five non-salary elements you can ask for. Sourced from Difficult Conversations Ch. 12.",
+  "og_description": "Three scripted salary negotiation frameworks. Plus the non-salary asks.",
+  "twitter_description": "Three scripts. Plus what to ask for when base is denied.",
+  "schema_keywords": "salary negotiation, compensation, BATNA, value proposition, anchoring, principled negotiation",
+  "pull_quote": {
+    "text": "Salary negotiations represent a direct negotiation over Status and Fairness. Success demands pivoting from combative positional bargaining to the integrative, value-creation principles of the Harvard Method.",
+    "cite": "— Difficult Conversations Playbook, Chapter 12"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "You've been offered a number. Or you're going into a review and want a raise. Either way, the next 20 minutes will determine your compensation for the next 12. The instinct is to argue your case — list your accomplishments, ask for what you want, hope. The instinct underperforms. Most salary conversations are won or lost in the first three sentences."
+    },
+    {
+      "type": "p",
+      "text": "The Difficult Conversations Playbook Chapter 12 gives you three scripted frameworks: the Value Proposition (your opening), the Pivot (your fallback when base is denied), and the Future Commitment (the structure that protects you if today's answer is no). Plus the five non-salary elements you can ask for when the base is locked. The scripts work because they anchor on data, not on hope."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things make scripted compensation conversations outperform improvised ones."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Anchoring with market data shifts the frame.",
+      "rest": "Saying \"based on market data, comp typically ranges from $130K to $145K\" anchors the conversation to an external benchmark. The negotiation moves from \"my will vs. your will\" to \"interpretation of evidence.\" The party with the stronger market data usually wins; both parties usually feel the process was fair (which matters for the post-negotiation relationship)."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Specific accomplishments beat general claims.",
+      "rest": "\"I exceeded revenue targets by 20%\" beats \"I had a great year.\" \"I led the migration that cut infrastructure costs by $400K\" beats \"I'm a strong contributor.\" Specific numbers, dates, and outcomes are what convert your value proposition from a request into a calculation."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Non-salary asks expand the deal space.",
+      "rest": "If base salary is fixed, the negotiation isn't over. Signing bonus, performance bonus tied to specific metrics, equity, additional PTO, professional development budget, flexible hours, defined review timeline — all of these are negotiable, often more easily than base. The Pivot script is what redirects the conversation onto these levers."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE THREE SCRIPTS",
+      "figure": "Value Proposition · Pivot · Future Commitment",
+      "cite": "Difficult Conversations Playbook Ch. 12 — three scripted frameworks for the standard arc of a compensation negotiation; based on Harvard Method principles applied to salary specifically."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. The first two are prep; the last three are the three scripts in their natural sequence."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Pre-meeting research — get the market data",
+      "body": "Pull comparable compensation data from at least three sources before walking in. Levels.fyi, Glassdoor, Payscale, BLS, recent recruiter conversations. Find the range for your role + region + level + company tier. Not the average — the range. Memorize the bottom of the range, the median, and the top. \"Compensation typically ranges from $130K to $145K\" requires real data behind it.",
+      "tip": "If you can't find market data because your role is unusual, find proxy data — adjacent roles, similar companies, recent hires at your seniority. Some data beats no data; aim for credible, not perfect."
+    },
+    {
+      "name": "Pre-meeting accomplishments — three specifics",
+      "body": "List your top three accomplishments from the past 12 months in measurable terms. Revenue, cost savings, team growth, projects shipped, problems solved. Each one needs a number, a timeframe, and a name (\"the Q3 product launch\"). Three specifics outperform a list of ten general claims because the negotiation is anchored to evidence, not enthusiasm.",
+      "tip": "If your role doesn't produce easily measurable outcomes, use proxies: \"I onboarded 14 new hires across 3 functions, cutting average ramp time from 6 weeks to 4.\" Even back-office roles produce metrics if you look."
+    },
+    {
+      "name": "Script 1: Value Proposition (opening)",
+      "body": "<em>\"I appreciate the opportunity to discuss my compensation. Over the past twelve months, I have [accomplishment 1 with metric], [accomplishment 2], and [accomplishment 3]. Based on market data for [role] with this track record in [region/industry], compensation typically ranges from $X to $Y. I would like to discuss adjusting my base salary to align with this standard and my expanded contributions.\"</em> Read it. Practice it. Deliver it directly. Then stop talking and let them respond.",
+      "tip": "The silence after the ask is uncomfortable. Don't fill it. Don't soften it (\"I know it's a lot to ask...\"). The first person to break the silence is the one who weakens their position."
+    },
+    {
+      "name": "Script 2: Pivot (when base is denied)",
+      "body": "<em>\"I completely understand that departmental budgets are currently fixed. Given my enthusiasm for this role, I would love to explore other elements of the compensation package. Would there be flexibility to discuss a performance-based signing bonus, an additional week of PTO, or a dedicated stipend for professional development certifications?\"</em> The Pivot redirects the conversation onto non-base elements. List 3-5 specifics — having concrete alternatives ready prevents the conversation from ending at \"no.\"",
+      "tip": "Rank your non-salary asks by personal value beforehand. If the company will give you one item from a list of five, you want them to give you the most valuable one to you, not the cheapest one to them."
+    },
+    {
+      "name": "Script 3: Future Commitment (regardless of today's outcome)",
+      "body": "<em>\"Can we establish a specific set of performance metrics that, if achieved over the next six months, would trigger an automatic compensation review?\"</em> This script protects you from the most common failure mode: today's no becoming next year's no. By converting the no into a defined milestone, you turn a compensation conversation into a measurable goal with a known timeline. Even if today's negotiation produces nothing, the Future Commitment is what makes the next one different.",
+      "tip": "Get the agreed-on metrics in writing — email follow-up at minimum. \"To confirm what we discussed, the metrics we'll review against in February are X, Y, and Z.\" Verbal commitments evaporate; written ones don't."
+    }
+  ],
+  "after_steps_h2": "The printable: the three scripts",
+  "after_steps_p": "Print this. Practice the three scripts out loud at least three times before the meeting. The naturalness comes from rehearsal, not improvisation.",
+  "printable_card": {
+    "title": "SALARY NEGOTIATION · 3 SCRIPTS",
+    "subtitle": "DC Playbook Ch. 12",
+    "items": [
+      {
+        "num": "01 · MARKET DATA — RANGE NOT AVERAGE",
+        "text": "Bottom, median, top from 3+ sources.",
+        "help": "Levels.fyi, Glassdoor, Payscale, BLS, recruiter convos."
+      },
+      {
+        "num": "02 · THREE ACCOMPLISHMENTS — METRICS",
+        "text": "Number + timeframe + project name. Three only.",
+        "help": "Specifics > general claims."
+      },
+      {
+        "num": "03 · VALUE PROPOSITION — OPEN",
+        "text": "Three accomplishments + range + ask. Stop talking.",
+        "help": "Don't fill the silence. Don't soften."
+      },
+      {
+        "num": "04 · PIVOT — WHEN BASE IS DENIED",
+        "text": "Signing bonus, PTO, dev stipend, flex hours, review timeline.",
+        "help": "Rank by personal value beforehand."
+      },
+      {
+        "num": "05 · FUTURE COMMITMENT — REGARDLESS",
+        "text": "\"Specific metrics → automatic review in 6 months.\"",
+        "help": "Get it in writing. Email follow-up."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · See store",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com",
+      "title": "The Difficult Conversations Playbook",
+      "body": "Chapter 12 covers compensation negotiation in full — the three scripts in expanded form, the BATNA architecture for salary specifically, market data sourcing strategies, and the five non-salary elements with negotiation playbooks for each. Chapter 7 is the underlying Harvard Method.",
+      "cta": "Read the playbook →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/harvard-method",
+      "title": "Harvard Method 4-Step OS",
+      "body": "Salary is one application; the Harvard Method is the underlying framework. Use both — pillars + scripts.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-salary-newsletter",
+  "subscribe_source": "source-wiki-salary",
+  "sources_intro": "All claims on this page are sourced from <em>The Difficult Conversations Playbook</em>, Chapter 12. Primary sources cited:",
+  "sources_list": [
+    "Fisher, R. & Ury, W. (1981). <em>Getting to Yes.</em> Underlying principled negotiation framework.",
+    "Difficult Conversations Playbook Ch. 12 — three scripted frameworks (Value Proposition, Pivot, Future Commitment); five non-salary elements ranked.",
+    "Babcock, L. & Laschever, S. (2003). <em>Women Don't Ask.</em> Foundational on the cumulative cost of not negotiating, particularly for women."
+  ],
+  "sources_outro": ""
+}

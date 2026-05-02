@@ -1,0 +1,172 @@
+{
+  "slug": "medication-decision",
+  "page_num": "14",
+  "title": "Medication Decision Framework OS",
+  "title_pre_words": "MEDICATION",
+  "title_grad_word": "DECISION OS",
+  "pillar": "UNDERSTANDING YOUR KIDS",
+  "thesis": "The 8 questions to ask the prescribing physician before any medication trial. The 30-day tracking sheet that turns prescriber appointments from guesswork into data. Sourced from Survival Blueprint Ch. 8.",
+  "reading_time": "8 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Survival Blueprint, Ch. 8",
+  "date_published": "2026-05-01",
+  "meta_description": "The 8 questions to ask before any ND medication trial + the 30-day tracking sheet that gives prescribers objective data. Sourced from Survival Blueprint Ch. 8 (Tools 4 + 8).",
+  "og_description": "8 questions to ask the prescriber. 30 days of data. Better titration decisions.",
+  "twitter_description": "8 questions before. 30 days of data after. Survival Blueprint Ch. 8.",
+  "schema_keywords": "ADHD medication, stimulant medication, prescribing decisions, medication tracking, ND parenting",
+  "pull_quote": {
+    "text": "Physicians make better titration decisions with objective longitudinal data than with retrospective impressions. The 30-day tracking sheet is what converts \"I think it's helping\" into a clinical conversation.",
+    "cite": "— The Survival Blueprint, Chapter 8"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "Most medication decisions for ND kids happen in 15-minute prescriber appointments where the parent reports \"I think it's working\" or \"I'm not sure,\" the prescriber adjusts the dose based on impressions, and the next 30 days are an experiment with no data."
+    },
+    {
+      "type": "p",
+      "text": "This isn't anyone's fault. The prescriber wasn't there for the 30 days. The parent's memory is shaped by the worst day of the month, not the typical day. The child can't articulate side effects yet. The system asks for data and produces stories."
+    },
+    {
+      "type": "p",
+      "text": "The Survival Blueprint Chapter 8 framework converts the medication decision into two artifacts: 8 specific questions to ask the prescriber before starting, and a 30-day tracking sheet that captures actual daily behavior. Together they turn medication into a measurable trial instead of a hopeful experiment."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things drive better medication decisions."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "The 8 questions are forcing functions.",
+      "rest": "Asking \"what specific symptoms are we targeting\" forces the prescriber to commit to measurable outcomes. Asking \"what is the expected timeline for effects\" forces a checkpoint. Asking \"what is the plan if this doesn't work\" prevents the most common failure mode — drifting on a medication for 6 months because no one set a stop condition."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Daily data outperforms monthly recall.",
+      "rest": "Tool 4 — the medication trial tracking sheet — captures focus, mood, sleep, appetite, and side effects daily for 30 days. The data lets the prescriber see patterns the parent's recall would miss: side effects that fade by day 14, focus benefits that peak at hour 3, appetite suppression that depends on dose timing."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Stop conditions are pre-committed.",
+      "rest": "The framework explicitly defines what \"not working\" looks like before the trial starts: no noticeable improvement after the expected timeline, intolerable side effects, personality flattening (the \"zombie\" risk), or insomnia that doesn't respond to timing changes. Pre-committed stop conditions prevent the slow drift into \"this isn't great but I don't know how to bring it up.\""
+    },
+    {
+      "type": "stat_box",
+      "label": "THE TIMELINE TO EFFECT",
+      "figure": "Stimulants: same day · Non-stimulants: 4-6 weeks",
+      "cite": "Survival Blueprint Ch. 8 — different ND medications have very different timelines to effect; setting expectations before starting prevents premature \"it's not working\" conclusions on non-stimulants and unrealistic immediate-improvement hopes on extended-release formulations."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. The first is the 8-question script for the prescriber appointment; the rest cover what to do after."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Bring the 8 questions to the appointment",
+      "body": "Print them. Read them off the page. Write down the answers. (1) What specific symptoms are we targeting? How will we measure whether it's working? (2) What's the expected timeline for effects? (3) What side effects should we watch for in the first two weeks? (4) How does this medication interact with puberty, growth, and appetite? (5) Should it be taken daily or only on school days? (6) What is the plan if this doesn't work? (7) At what point would we consider non-stimulant options? (8) How will we involve my child in the medication decision as they develop?",
+      "tip": "If a prescriber bristles at the questions, that's a flag — not about the medication, but about the prescriber. Specialists who treat ND kids regularly are used to these questions and welcome them."
+    },
+    {
+      "name": "Set up the 30-day tracking sheet",
+      "body": "Tool 4 from the Survival Blueprint is the canonical version. Daily metrics: focus, mood, sleep, appetite, side effects. Plus space for narrative observations (what the morning looked like, when the medication wore off, any specific incidents). Complete one row per day for 30 days. The sheet goes back to the prescriber at the next appointment.",
+      "tip": "If the tracking sheet feels like too much to maintain daily, simplify — even a 1-5 rating on the four metrics with a one-line note is more data than the prescriber would otherwise have."
+    },
+    {
+      "name": "Track the first 14 days closely",
+      "body": "Most side effects appear in the first two weeks. Appetite suppression, sleep disruption, mood flatness, headaches, increased anxiety. The first 14 days is the highest-information window. If anything in this period crosses an intolerable threshold, contact the prescriber — don't wait for the scheduled follow-up.",
+      "tip": "Side effects in the first 3-5 days are often transient. Side effects that persist past day 14 are usually durable. The two-week mark is the right place to make a stay-vs-adjust call."
+    },
+    {
+      "name": "Bring the completed sheet to every follow-up",
+      "body": "The prescriber's titration decisions get measurably better with longitudinal data. \"At 10mg, focus rated 3/5; at 15mg starting day 8, focus rated 4/5 but appetite dropped from 4/5 to 2/5\" is a conversation the prescriber can do something with. \"I think it's helping but I'm not sure\" is not.",
+      "tip": "If the prescriber doesn't ask for the sheet, hand it over anyway. Most clinicians appreciate it; some are stunned by it."
+    },
+    {
+      "name": "Apply the stop conditions if they hit",
+      "body": "From the framework: re-evaluate the medication if (a) no noticeable improvement after the expected timeline, (b) intolerable side effects persist past 2 weeks, (c) personality flattening (\"zombie\" presentation), or (d) insomnia that doesn't respond to timing adjustments. The framework offers a tiered response: timing change → dose change → formulation change → switch class → re-evaluate diagnosis.",
+      "tip": "Step 5 of the framework — \"re-evaluate the diagnosis\" — is the one most overlooked. If multiple medication trials fail, the original diagnosis may be incomplete. ADHD comorbid with anxiety, autism, or trauma is treated very differently from ADHD alone."
+    }
+  ],
+  "after_steps_h2": "The printable: the 8 questions",
+  "after_steps_p": "Print this. Bring it to the next prescriber appointment. The 30-day tracking sheet (Tool 4) is in the book.",
+  "printable_card": {
+    "title": "8 QUESTIONS · BEFORE THE TRIAL",
+    "subtitle": "Survival Blueprint Ch. 8",
+    "items": [
+      {
+        "num": "01 · TARGET + MEASURE",
+        "text": "What specific symptoms are we targeting? How will we know it's working?",
+        "help": "Forces measurable outcomes."
+      },
+      {
+        "num": "02 · TIMELINE + SIDE EFFECTS",
+        "text": "Expected timeline? Side effects to watch in the first 2 weeks?",
+        "help": "Stimulants: same day. Non-stimulants: 4-6 weeks."
+      },
+      {
+        "num": "03 · GROWTH + APPETITE + DOSING",
+        "text": "Effect on puberty/growth/appetite? Daily or school days only?",
+        "help": "Drug holidays are real options for some families."
+      },
+      {
+        "num": "04 · STOP CONDITIONS",
+        "text": "What's the plan if this doesn't work? When would we consider non-stimulant?",
+        "help": "Pre-commit before starting."
+      },
+      {
+        "num": "05 · CHILD'S VOICE",
+        "text": "How will we involve my child in the decision as they develop?",
+        "help": "By age 12-14 they should have a voice."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $17.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/xigwwn",
+      "title": "The Survival Blueprint",
+      "body": "Chapter 8 contains the full 8-question framework, the 30-day Medication Trial Tracking Sheet (Tool 4), the side-effect troubleshooting matrix, and the medication-class comparison table — stimulant vs. non-stimulant by ND profile.",
+      "cta": "Read the guide →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/school-advocacy-letter",
+      "title": "School Advocacy Letter OS",
+      "body": "Medication is rarely sufficient on its own. The 504/IEP accommodation request is the parallel intervention that does most of the lift.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-medication-newsletter",
+  "subscribe_source": "source-wiki-medication",
+  "sources_intro": "All claims on this page are sourced from <em>The Survival Blueprint</em>, Chapter 8. Primary sources cited:",
+  "sources_list": [
+    "Survival Blueprint Ch. 8 — Section 8.2 (Questions to Ask the Prescribing Physician); Section 8.3 (Medication Trial Tracking Sheet, Tool 4).",
+    "American Academy of Pediatrics ADHD Treatment Guidelines (2019).",
+    "Faraone, S. V. et al. (2021). The World Federation of ADHD International Consensus Statement: 208 Evidence-based Conclusions about the Disorder."
+  ],
+  "sources_outro": ""
+}

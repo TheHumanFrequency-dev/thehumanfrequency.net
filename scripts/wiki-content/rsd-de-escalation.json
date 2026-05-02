@@ -1,0 +1,172 @@
+{
+  "slug": "rsd-de-escalation",
+  "page_num": "16",
+  "title": "RSD De-Escalation OS",
+  "title_pre_words": "RSD",
+  "title_grad_word": "DE-ESCALATION",
+  "pillar": "UNDERSTANDING YOUR KIDS",
+  "thesis": "The 6-step RSD First Aid Protocol. Do not argue with the emotion. Do not minimize. Validate, then offer presence. The Evidence File is the long-term intervention. Sourced from Survival Blueprint Ch. 1.2.",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Survival Blueprint, Ch. 1.2",
+  "date_published": "2026-05-01",
+  "meta_description": "The 6-step RSD First Aid Protocol — what to do during an active rejection-sensitivity episode. Plus the Evidence File framework. Sourced from Survival Blueprint Ch. 1.2.",
+  "og_description": "Do not argue with the emotion. Do not minimize. The 6-step RSD First Aid Protocol.",
+  "twitter_description": "Do not argue with the emotion. Do not minimize. The 6-step RSD First Aid Protocol.",
+  "schema_keywords": "RSD treatment, RSD first aid, Evidence File, William Dodson, ADHD emotional regulation, de-escalation",
+  "pull_quote": {
+    "text": "Do NOT argue with the emotion. It is neurological, not logical. Saying 'You're overreacting' is like telling someone having a migraine that their head doesn't really hurt.",
+    "cite": "— The Survival Blueprint, Chapter 1.2 (RSD First Aid Protocol)"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "Your child has just been told their painting could use \"a bit more contrast\" by a well-meaning art teacher in front of the class. To everyone else, the comment is mild constructive feedback. To your child's brain, the comment was: <em>your work is terrible, the teacher hates you, everyone is looking at you, you are humiliated.</em> They are now sobbing in the bathroom and they are not coming out for an hour."
+    },
+    {
+      "type": "p",
+      "text": "This is an active RSD episode. Your instinct will be to fix it: reframe the teacher's words, point out that the comment was actually positive, remind them how good their other paintings are. Every one of those moves makes the episode worse. The brain in front of you cannot process the reframe — the prefrontal cortex is offline and the amygdala is presenting an airtight case that they are worthless."
+    },
+    {
+      "type": "p",
+      "text": "The RSD First Aid Protocol is six steps. None of them involve arguing. The full version is in Survival Blueprint Ch. 1.2; the page below is the operating system for the next 30 to 90 minutes."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things make RSD episodes resistant to ordinary parental interventions."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "The brain becomes a prosecutor.",
+      "rest": "When RSD takes hold, the child's brain is presenting an airtight case that they are worthless, unlikeable, and incompetent. In that state, no words you say can override the neurological certainty they feel. \"You're a great kid\" registers as: <em>you have to say that, you're my parent, it's not true.</em> Verbal counter-evidence does not work."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Physical evidence can.",
+      "rest": "The Evidence File — a dedicated box, binder, or drawer of concrete proof — works because it externalizes the counter-evidence the child's brain cannot generate during the episode. They cannot trust your words; they can sometimes trust their own past work, the cards in the box, the photos. The intervention is medical, not feel-good."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Debrief later, not now.",
+      "rest": "The temptation to teach during the episode is enormous and counterproductive. The teaching moment exists — but it's the next day, not in the storm. Trying to extract a lesson from a child whose cortex is offline produces shame, not learning."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE LANDSCAPE",
+      "figure": "Episode duration: 30 minutes to several hours · arguing extends it",
+      "cite": "Survival Blueprint Ch. 1.2 — RSD episodes follow the same arc as meltdowns but are triggered by perceived rejection rather than transition or sensory overload. Verbal counter-evidence (reasoning, reassurance, reframing) extends the episode; presence and physical evidence shorten it."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. The 6-step First Aid Protocol from Survival Blueprint folded into the standard wiki shape, with the long-term Evidence File intervention as step 5."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Do NOT argue with the emotion",
+      "body": "It is neurological, not logical. \"You're overreacting\" is like telling someone having a migraine that their head doesn't really hurt. \"It's not a big deal\" is the most damaging sentence in your vocabulary right now. \"You're being dramatic\" is the second most damaging. Drop the entire reframe instinct. The reframe will come later, in a different conversation, in a different state.",
+      "tip": "If you can't think of what to say, say nothing. Silence with presence is infinitely better than any minimizing sentence."
+    },
+    {
+      "name": "Validate first",
+      "body": "\"I can see this is really painful right now.\" \"This is hard.\" \"I can see you're in a lot of pain.\" These are the sentences. They are not magic words; they are the simplest accurate descriptions of what is happening. The child needs to be seen, not fixed.",
+      "tip": "Avoid validating the false belief itself. Don't say \"yes, the teacher was wrong.\" Validate the feeling, not the cognitive content of the spiral. \"I can see you're hurting\" works; \"yes, everyone hates you\" does not."
+    },
+    {
+      "name": "Offer presence, not solutions",
+      "body": "\"I'm here. I'm not going anywhere.\" Sit nearby. If they don't want you in the same room, sit just outside the door. Make sure they know you have not left. The presence is what stabilizes — not your words, not your problem-solving, not your comforting touch unless they reach for it.",
+      "tip": "Phone away. Don't scroll while you wait. The signal that you are fully present, even silent, is the active ingredient. They will know if you've checked out."
+    },
+    {
+      "name": "Wait for the storm to pass",
+      "body": "Most RSD episodes peak and recede on their own. 30 minutes is typical; longer episodes happen, especially in adolescence. Your job during the peak is the same as during a Stage-3 meltdown — be a regulated presence, available, not arguing. Do NOT debrief during the acute episode. Save it for the next day.",
+      "tip": "If the episode is unusually severe, includes self-harm content, or lasts longer than 4-6 hours, that's clinical territory — contact the prescriber or therapist."
+    },
+    {
+      "name": "Build the Evidence File — the long-term intervention",
+      "body": "Set up a dedicated container — box, binder, drawer. Add: completed projects they're proud of (or photos), kind notes from teachers/friends/family, awards and recognitions, photos of happy moments, written compliments captured on index cards, and a parent letter describing three specific things you admire about them, sealed and labeled \"open during a hard moment.\" During calm periods, add to it ritually. \"That's going in the file\" becomes a household phrase. When the next RSD episode hits and the storm starts to pass, do not lecture — simply say: \"Your brain is lying to you right now. Want to check the file?\" Let them open it. Let the evidence do the talking.",
+      "tip": "Let the child name the container — \"Evidence File\" works for some kids; others want a code name. Ownership of the project is part of why it works."
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "Print this. The next 30 minutes of an RSD episode are easier when you don't have to remember the protocol — you just have to read it.",
+  "printable_card": {
+    "title": "RSD FIRST AID · 6 STEPS",
+    "subtitle": "Survival Blueprint Ch. 1.2",
+    "items": [
+      {
+        "num": "01 · DO NOT ARGUE",
+        "text": "Drop the reframe. It's neurological, not logical.",
+        "help": "\"It's not a big deal\" is the most damaging sentence."
+      },
+      {
+        "num": "02 · VALIDATE FIRST",
+        "text": "\"I can see this is really painful right now.\"",
+        "help": "Validate the feeling, not the false belief."
+      },
+      {
+        "num": "03 · PRESENCE, NOT SOLUTIONS",
+        "text": "\"I'm here. I'm not going anywhere.\" Phone away.",
+        "help": "The presence is the active ingredient."
+      },
+      {
+        "num": "04 · WAIT — DON'T DEBRIEF NOW",
+        "text": "30 minutes typical. Debrief next day.",
+        "help": "Teaching mid-storm produces shame, not learning."
+      },
+      {
+        "num": "05 · EVIDENCE FILE — LONG TERM",
+        "text": "Box of physical proof. \"Want to check the file?\"",
+        "help": "Externalized counter-evidence the brain can't generate."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $17.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/xigwwn",
+      "title": "The Survival Blueprint",
+      "body": "Chapter 1.2 contains the original 6-step RSD First Aid Protocol, the full Evidence File framework, the Lily case study, and Section 2.6 on partnering with teachers to prevent classroom RSD episodes. Plus the medication considerations specific to RSD.",
+      "cta": "Read the guide →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/rsd-recognition",
+      "title": "RSD Recognition OS",
+      "body": "If you arrived here mid-episode without being sure RSD is the right name for what you're seeing, the recognition page is the 10-sign screen.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-rsd-de-escalation-newsletter",
+  "subscribe_source": "source-wiki-rsd-de-escalation",
+  "sources_intro": "All claims on this page are sourced from <em>The Survival Blueprint</em>, Chapter 1.2. Primary sources cited:",
+  "sources_list": [
+    "Dodson, W. (clinical observations) — RSD First Aid Protocol; widely cited in ADDitude Magazine and clinical practice.",
+    "Survival Blueprint Ch. 1.2 — The 6-step First Aid Protocol; the Evidence File framework.",
+    "Siegel, D. J. & Bryson, T. P. (2011). <em>The Whole-Brain Child.</em> Cortex-offline framework underlying validation-first."
+  ],
+  "sources_outro": ""
+}

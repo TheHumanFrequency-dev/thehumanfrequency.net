@@ -1,0 +1,88 @@
+{
+  "slug": "cyclic-sighing",
+  "page_num": "02",
+  "title": "Cyclic Sighing OS",
+  "title_pre_words": "CYCLIC",
+  "title_grad_word": "SIGHING OS",
+  "pillar": "UNDERSTANDING YOURSELF",
+  "thesis": "Five minutes a day. The strongest single-modality result in any 2023 anxiety-reduction trial — including mindfulness meditation. Free, free of side effects, free of equipment.",
+  "reading_time": "8 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Self-Care, Ch. 3",
+  "date_published": "2026-05-01",
+  "meta_description": "The five-minute breathing protocol with the strongest evidence in any 2023 RCT. The mechanism, the steps, and a wallet card.",
+  "og_description": "Five minutes a day. The strongest single-modality result in any 2023 anxiety-reduction trial.",
+  "twitter_description": "Five minutes a day. Strongest evidence in any 2023 anxiety-reduction trial.",
+  "schema_keywords": "cyclic sighing, physiological sigh, Balban Stanford 2023, anxiety reduction, breathing protocol, parasympathetic",
+  "pull_quote": {
+    "text": "Five minutes daily of cyclic sighing produced the highest improvement in positive affect (1.91 vs. 1.22 for mindfulness, p < 0.05) and the greatest reduction in respiratory rate over 28 days.",
+    "cite": "— Balban et al. (2023), Cell Reports Medicine — Stanford"
+  },
+  "sections": [],
+  "steps": [
+    {
+      "name": "Settle",
+      "body": "Sit or lie comfortably.",
+      "tip": ""
+    },
+    {
+      "name": "Inhale through the nose, expanding low",
+      "body": "Breathe in slowly through your nose.",
+      "tip": ""
+    },
+    {
+      "name": "Top off — a second small sip",
+      "body": "At the top of the inhale, take a second small sip of air through the nose.",
+      "tip": ""
+    },
+    {
+      "name": "Exhale long, through the mouth",
+      "body": "Exhale slowly through your mouth.",
+      "tip": ""
+    },
+    {
+      "name": "Repeat for five minutes — then settle",
+      "body": "Continue the cycle for five minutes.",
+      "tip": ""
+    }
+  ],
+  "after_steps_h2": "The printable: a wallet card",
+  "after_steps_p": "",
+  "printable_card": {
+    "title": "CYCLIC SIGHING · 5 MINUTES",
+    "subtitle": "Stanford 2023 — Balban et al.",
+    "items": [
+      {
+        "num": "01 · SETTLE",
+        "text": "Sit or lie comfortably. One hand on chest, one on belly.",
+        "help": "Belly should rise more than chest."
+      },
+      {
+        "num": "02 · INHALE — through the nose",
+        "text": "Slow breath in. Expand the lower ribs and belly.",
+        "help": "Not the upper chest. Send the breath low."
+      },
+      {
+        "num": "03 · TOP OFF — second small sip",
+        "text": "At the top of the inhale, take a second short sip through the nose.",
+        "help": "This is the signature move. Reinflates the alveoli."
+      },
+      {
+        "num": "04 · EXHALE — long, through the mouth",
+        "text": "Twice as long as the inhale. Let it pour out.",
+        "help": "The longer the exhale, the more parasympathetic."
+      },
+      {
+        "num": "05 · REPEAT FOR 5 MINUTES — THEN SETTLE",
+        "text": "No counting. Follow the rhythm. Sit quietly for one minute after.",
+        "help": "Daily practice is where the 28-day shift comes from."
+      }
+    ]
+  },
+  "exits": [],
+  "subscribe_form_name": "wiki-cyclic-newsletter",
+  "subscribe_source": "source-wiki-cyclic-sighing",
+  "sources_intro": "",
+  "sources_list": [],
+  "sources_outro": ""
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "mental-hand-history",
+  "page_num": "26",
+  "title": "Mental Hand History OS",
+  "title_pre_words": "MENTAL HAND",
+  "title_grad_word": "HISTORY",
+  "pillar": "UNDERSTANDING YOURSELF",
+  "thesis": "The 5-step structured-writing protocol that converts emotional leakage into compounding skill. Used by professional poker players to externalize tilt analysis. Applies to any domain where decisions under pressure matter.",
+  "reading_time": "7 min read",
+  "last_updated": "May 2026",
+  "source_chapter": "Wired to Win, Ch. 13 + 16",
+  "date_published": "2026-05-01",
+  "meta_description": "The Mental Hand History — Tendler's 5-step structured writing format that turns emotional leakage into compounding skill. Sourced from Wired to Win Ch. 13 + 16.",
+  "og_description": "Five-step structured writing. Externalize the tilt. Compound the learning.",
+  "twitter_description": "Five steps. Structured writing. Externalize the tilt.",
+  "schema_keywords": "mental hand history, Jared Tendler, structured reflection, decision review, post-session debrief",
+  "pull_quote": {
+    "text": "Writing forces the analytical brain to engage, which is exactly what both ADHD and autistic emotional processing benefit from. The MHH externalizes implicit emotional regulation into explicit systematic analysis.",
+    "cite": "— Wired to Win, Chapter 13"
+  },
+  "sections": [
+    {
+      "type": "h2",
+      "title": "The problem",
+      "no_rule": true
+    },
+    {
+      "type": "p",
+      "text": "You had a bad session. Bad day at work. Bad meeting. Bad week. The tilt has receded; the lessons haven't landed. You know something went wrong but you can't articulate what — and tomorrow you'll probably make the same mistake."
+    },
+    {
+      "type": "p",
+      "text": "Tendler's solution from poker, refined in Wired to Win, is the Mental Hand History (MHH) — a 5-step structured-writing protocol that converts implicit emotional processing into explicit systematic analysis. It's not journaling. It's not venting. It's a deliberate format that catches what your unconscious processing would otherwise miss."
+    },
+    {
+      "type": "p",
+      "text": "The page below applies the MHH format to any domain where decisions under pressure matter. The structure holds. Only the inputs change."
+    },
+    {
+      "type": "h2",
+      "title": "The mechanism"
+    },
+    {
+      "type": "p",
+      "text": "Three things make MHH outperform unstructured reflection."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Writing engages a different circuit.",
+      "rest": "Internal rumination tends to loop the same emotional content without resolution. Writing forces sequencing, naming, and explicit causation — all functions of the analytical brain. The act of producing words on paper engages the prefrontal cortex in a way that thinking about what happened doesn't."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Format catches what free-form misses.",
+      "rest": "Five fixed steps prevent the brain from gravitating to its preferred narrative. Step 4 — naming the underlying flawed belief — is the one most people skip in free-form reflection. The format makes it mandatory."
+    },
+    {
+      "type": "p_bold_lead",
+      "lead": "Weekly review compounds.",
+      "rest": "A single MHH entry is useful. A weekly review of recent entries reveals patterns you cannot see at the level of individual events. Three weeks of entries shows that your tilt episodes cluster around the same trigger type. Six months shows whether your corrections are actually working. The compounding is in the review, not the writing."
+    },
+    {
+      "type": "stat_box",
+      "label": "THE FORMAT",
+      "figure": "5 steps · 10-15 minutes · weekly review",
+      "cite": "Wired to Win Ch. 13 — Mental Hand History format from Tendler's <em>The Mental Game of Poker</em>; the weekly review described in Ch. 16 is what produces compounding pattern recognition."
+    },
+    {
+      "type": "h2",
+      "title": "The protocol"
+    },
+    {
+      "type": "p",
+      "text": "Five steps. One per MHH entry. 10-15 minutes per entry. Done after the session/event ends and the body has settled — not during the heat."
+    }
+  ],
+  "steps": [
+    {
+      "name": "Describe the triggering situation factually",
+      "body": "What happened, in concrete terms. No emotional language yet. \"At 3:47 PM I lost a 12 bb pot to a flush draw that hit on the river.\" Or \"In the 2 PM meeting, my proposal was rejected after 90 seconds of discussion, and the CEO interrupted me when I tried to clarify.\" Just the facts. No interpretation. No \"and that wasn't fair\" yet.",
+      "tip": "If you find yourself adding interpretation, edit it out. The discipline of writing the facts cleanly is itself an act of cognitive control."
+    },
+    {
+      "name": "Identify the emotional response without judgment",
+      "body": "What did you feel, in plain language. Not why. Not whether it was justified. Just the feeling. \"I felt anger that intensified into a sense of helplessness over the next 10 minutes.\" \"I felt humiliation followed by a strong urge to leave the meeting.\" The naming itself does work that pure rumination cannot.",
+      "tip": "Use specific emotional vocabulary. \"I was upset\" is too vague. \"I felt resentful, then ashamed, then a flat tiredness\" surfaces information about the actual cascade."
+    },
+    {
+      "name": "Name the tilt type — from the taxonomy",
+      "body": "Match the response to one of the seven tilts from the previous page (Running-Bad, Injustice, Hate-Losing, Entitlement, Revenge, Desperation, Mistake). The diagnostic act is what activates the right correction. \"This is Injustice Tilt — the river card felt unfair.\" \"This is Hate-Losing — I was angry that the proposal lost, not specifically about who won.\" Pick one even if multiple feel applicable; the more specific one usually fires first.",
+      "tip": "If none of the seven fits, you may be in sensory overload (especially relevant for ND profiles), grief, or fatigue — which require different interventions than tilt. Naming \"this isn't tilt, it's overload\" is itself useful."
+    },
+    {
+      "name": "Trace it to the underlying flawed belief",
+      "body": "Tendler's insight: every tilt sits on top of a wrong belief. Surface yours. \"My belief was: <em>my opponent's bad call shouldn't be rewarded</em> — which assumes the game owes me something.\" Or \"My belief was: <em>my proposal was so well-prepared it deserved to win on merit</em> — which assumes the meeting was a meritocracy and not a political environment.\" Be brutal about it.",
+      "tip": "The honest answer to \"what did I believe?\" is often something you wouldn't want to say out loud. Write it anyway. The ugly version is the accurate one."
+    },
+    {
+      "name": "Write the logical correction in your own words",
+      "body": "Replace the flawed belief with one that's true. \"The game does not owe me variance-free results. My opponent's bad calls fund my edge over thousands of hands. The river hand is the cost of running a profitable strategy.\" \"Meetings are political environments. Merit is necessary but not sufficient. My job is to combine merit with influence and stakeholder management.\" Use specific examples from your own history when you can — concrete corrections compound faster than abstract ones.",
+      "tip": "Save these. The collection of corrections becomes your tilt first-aid kit — exactly the thing Tendler recommends. Read them during the next tilt episode, not for the first time during it."
+    }
+  ],
+  "after_steps_h2": "The printable: the MHH worksheet",
+  "after_steps_p": "Print this. Use it the next time something goes badly. 10-15 minutes of structured writing produces more learning than 3 hours of unstructured rumination.",
+  "printable_card": {
+    "title": "MENTAL HAND HISTORY · 5 STEPS",
+    "subtitle": "Tendler · Wired to Win Ch. 13",
+    "items": [
+      {
+        "num": "01 · TRIGGERING SITUATION — FACTUALLY",
+        "text": "What happened, no emotional language yet.",
+        "help": "Edit out interpretation."
+      },
+      {
+        "num": "02 · EMOTIONAL RESPONSE — NO JUDGMENT",
+        "text": "What you felt, in specific vocabulary. Not why.",
+        "help": "Specific words surface the cascade."
+      },
+      {
+        "num": "03 · TILT TYPE — FROM TAXONOMY",
+        "text": "Pick one of the seven. Most specific fits.",
+        "help": "Activates the right correction."
+      },
+      {
+        "num": "04 · UNDERLYING FLAWED BELIEF",
+        "text": "What did I believe that produced this response?",
+        "help": "Be brutal. Ugly version = accurate version."
+      },
+      {
+        "num": "05 · LOGICAL CORRECTION — OWN WORDS",
+        "text": "Replace the flawed belief with one that's true.",
+        "help": "Save them. They become your first-aid kit."
+      }
+    ]
+  },
+  "exits": [
+    {
+      "tag": "Full guide · $34.99",
+      "tag_class": "",
+      "url": "https://thehumanfrequency.gumroad.com/l/cepsrj",
+      "title": "Wired to Win",
+      "body": "Chapter 13 contains the full MHH framework with worked examples for every tilt type. Chapter 16 covers the weekly review process that produces pattern recognition across entries — the compounding part.",
+      "cta": "Read the book →"
+    },
+    {
+      "tag": "Wiki · Free",
+      "tag_class": "free",
+      "url": "/human-os/tilt-taxonomy",
+      "title": "Tendler 7-Tilt OS",
+      "body": "Step 3 of the MHH requires diagnosing which of the seven tilts is firing. The taxonomy page is the reference.",
+      "cta": "Read the page →"
+    },
+    {
+      "tag": "Show · Coming soon",
+      "tag_class": "community",
+      "url": "/thf-podcast",
+      "title": "The Live Show",
+      "body": "A live call-in show on the topics this wiki covers — unscripted, judgment-free, ordinary people, extraordinary stories. Join the waitlist for the launch.",
+      "cta": "Get on the list →"
+    }
+  ],
+  "subscribe_form_name": "wiki-mhh-newsletter",
+  "subscribe_source": "source-wiki-mhh",
+  "sources_intro": "All claims on this page are sourced from <em>Wired to Win</em>, Chapters 13 and 16. Primary sources cited:",
+  "sources_list": [
+    "Tendler, J. (2011). <em>The Mental Game of Poker.</em> Origin of the Mental Hand History format.",
+    "Wired to Win Ch. 13 — MHH 5-step structure; Ch. 16 — weekly review for pattern recognition.",
+    "Pennebaker, J. W. (1997). Writing about emotional experiences as a therapeutic process. <em>Psychological Science.</em> Foundational empirical support for structured-writing protocols."
+  ],
+  "sources_outro": ""
+}
