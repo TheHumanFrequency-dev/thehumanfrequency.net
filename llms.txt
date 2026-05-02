@@ -35,6 +35,14 @@ The founder holds a degree in psychology and sociology and has years of professi
 
 - **The Show**: A live call-in podcast modeled after old-school radio. Ordinary people, extraordinary stories — unscripted, judgment-free. Waitlist open at https://thehumanfrequency.net/thf-podcast. No firm launch date.
 
+### Free resources
+
+- [The Human OS Wiki](https://thehumanfrequency.net/human-os/): A free, evergreen library of 28 operating systems for being human. Each page covers a single topic with a plain-language mechanism, a step-by-step protocol, a single-page printable PDF, and inline citations to peer-reviewed work. No paywall, no signup required. Topics span four areas:
+  - **Nervous system regulation:** Fawn Response, Cyclic Sighing, Diving Reflex, Diaphragmatic Breathing, Humming Protocol, Polyvagal Repair, Five Non-Negotiables.
+  - **Neurodivergent parenting:** Meltdown Early Warning, Five-Task Reframe, Validate-Then-Redirect, Co-Parent Alignment, School Advocacy Letter, Medication Decision, Eight Magic Keys, Executive Function Scaffolding, Transition Protocol, RSD Recognition, RSD De-escalation, Partner's Guide to RSD.
+  - **Difficult conversations:** Harvard Method, Gottman Repair, Termination Conversation, Salary Negotiation, SCARF Threat Audit.
+  - **Decision-making under pressure:** State-Matched Decision Tree, Pre-Bet Audit, Tilt Taxonomy, Mental Hand History.
+
 ## What THF is not
 
 The Human Frequency does not publish: motivational content, self-help platitudes, generic AI-voice content, empty affirmations, trading advice, content-creation / creator-economy advice, or productivity hacks. The brand is editorial, civic, and research-backed — not hype-driven.
