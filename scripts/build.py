@@ -17,6 +17,7 @@ from __future__ import annotations
 
 import argparse
 import difflib
+import re
 import sys
 from pathlib import Path
 
@@ -59,6 +60,32 @@ TOP_LEVEL_PAGES: list[tuple[str, str]] = [
 # no nav/footer, would gain nothing from sharing partials.
 
 
+# Wiki pages — 28 pages with rich hand-edited content. The Phase 2 strategy
+# is "patch chrome only" rather than "re-render from JSON" because the JSON
+# files in scripts/wiki-content/ are skeletal and the real content lives in
+# the HTML. The build patches the main nav of each wiki page to keep it in
+# sync with _src/partials/nav.html, then leaves everything else alone.
+WIKI_PAGES: list[str] = [
+    # Pillar 01 — Understanding Yourself
+    "fawn-response", "cyclic-sighing", "diving-reflex",
+    "diaphragmatic-breathing", "humming-protocol",
+    "five-non-negotiables", "state-matched-decision-tree",
+    "pre-bet-audit", "tilt-taxonomy", "mental-hand-history",
+    "executive-function-scaffolding",
+    # Pillar 02 — Understanding Your Kids
+    "transition-protocol", "meltdown-early-warning",
+    "five-task-reframe", "validate-then-redirect",
+    "co-parent-alignment", "school-advocacy-letter",
+    "medication-decision", "rsd-recognition",
+    "rsd-de-escalation", "eight-magic-keys",
+    # Pillar 03 — Understanding Each Other
+    "scarf-threat-audit", "polyvagal-repair",
+    "harvard-method", "gottman-repair",
+    "termination-conversation", "salary-negotiation",
+    "partner-guide-rsd",
+]
+
+
 # --- Jinja env -----------------------------------------------------------
 def make_env() -> Environment:
     # ChainableUndefined: undefined vars render as empty string and don't error
@@ -88,10 +115,50 @@ def render_top_level(env: Environment, check: bool = False) -> list[tuple[Path, 
     return results
 
 
+# Match the top-level <nav>...</nav> on a wiki page. The breadcrumb uses
+# <nav class="crumb"> which has a class attribute, so the bare `<nav>` opener
+# distinguishes the main nav. The `<a class='nav-logo'` inside is an extra
+# anchor to make sure we caught the right block.
+WIKI_NAV_RE = re.compile(
+    r"<nav>\s*\n\s*<a class='nav-logo'.*?</nav>",
+    re.DOTALL,
+)
+
+
 def render_wiki(env: Environment, check: bool = False) -> list[tuple[Path, str, str]]:
-    """Phase 2 - not yet wired. Stub for now."""
-    print("  (wiki pages not yet migrated to Jinja - Phase 2)")
-    return []
+    """Patch the main nav block of each wiki HTML page with the rendered
+    nav.html partial (active_page=wiki). Content stays untouched.
+
+    This solves the "nav change = 28 edits" maintenance pain without forcing
+    a content re-render from the (skeletal) JSON files."""
+    nav_template = env.get_template("partials/nav.html")
+    nav_rendered = nav_template.render(active_page="wiki", tune_in_href="/#newsletter")
+    # Drop the leading "<!-- NAV -->\n" comment from the partial so the
+    # in-place patch doesn't introduce visible noise.
+    nav_clean = re.sub(r"^<!-- NAV -->\s*\n", "", nav_rendered).rstrip()
+
+    results: list[tuple[Path, str, str]] = []
+    missing: list[str] = []
+    unmatched: list[str] = []
+
+    for slug in WIKI_PAGES:
+        path = ROOT / "human-os" / f"{slug}.html"
+        if not path.exists():
+            missing.append(slug)
+            continue
+        old_html = path.read_text(encoding="utf-8")
+        new_html, n = WIKI_NAV_RE.subn(nav_clean, old_html, count=1)
+        if n == 0:
+            unmatched.append(slug)
+            continue
+        results.append((path, new_html, old_html))
+
+    if missing:
+        print(f"  ! missing files: {', '.join(missing)}")
+    if unmatched:
+        print(f"  ! nav anchor not matched in: {', '.join(unmatched)}")
+
+    return results
 
 
 # --- Diff helpers --------------------------------------------------------
